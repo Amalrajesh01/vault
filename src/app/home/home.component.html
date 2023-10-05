@@ -1,0 +1,21 @@
+<div class="container p-4">
+    <!-- <input type="text" id="search_box" class="form-control mb-3 mt-3" [(ngModel)]="searchTerm" (input)="search()"
+    placeholder="Search by title" > -->
+
+    <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-4" *ngFor="let data of filteredArray; let i = index">
+            <div class="card mb-3">
+                <!-- <img class="card-img-top" [src]="data.imageUrl" alt="Card image cap"> -->
+                <div class="card-body">
+                    <h5 class="card-title">{{ data.title }}</h5>
+                    <p class="card-text" [innerHTML]="data.body | slice:0:100"></p>
+                    <div>
+                        <p><br>{{ data.date }}</p>
+                    </div>
+
+                    <button class="btn btn-outline-primary" (click)="showMore(data)"> Read more </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
