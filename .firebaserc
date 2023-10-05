@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "vault-d47be": {
+      "hosting": {
+        "vault": [
+          "vault-d47be"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "vault-d47be"
+  }
+}
