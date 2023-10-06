@@ -955,7 +955,7 @@ export class VaultService {
     The best way to start being happy is to stop being unhappy; avoid situations and people that tend to make us depressed or miserable.`
   }, {
     id: '5',
-    title: 'The man searching for a mmeaning',
+    title: 'The man searching for a meaning',
     body: `You cannot control what happens to you in life, but you can always control what you will feel and do about it.
 
     Love is the only way to grasp another human being in the innermost core of his personality.
@@ -1619,46 +1619,3137 @@ export class VaultService {
   }, {
     id: '11',
     title: 'Expert Secret',
-    body: ``
+    body: ` "What does it take to make money?" My answer is that it takes a dream, a lot of determination, a willingness to learn quickly,
+     and the ability to use your God-given assets properly.
+    
+    **EXPERT BUSINESS #1: SELLING INFORMATION PRODUCTS**
+    It involves you taking the life lessons that you've learned and packaging them into information products, coaching, and consulting. 
+    Being an expert and selling information products is, in my opinion, the greatest start-up in the world.
+    
+    If I was studying Adolph Hitler and the Nazi party or Jesus Christ and Christianity, 
+    all the examples I found had three things in common that helped them build a mass movement:
+
+    1. They each had a charismatic leader or an attractive character.
+    2. Each of them focused on a future-based cause that was bigger than themselves.
+    3. They each offered their audience a new opportunity.
+    
+    You see, people become leaders when they first try to master something for themselves. Then, after they've discovered a path for themselves, 
+    they share their knowledge with others. It starts with your own personal growth but then transitions to contribution.
+    
+    Your results are your certification. Maintain absolute certainty. It is said that in any situation, the person with the most certainty wins. 
+    I'm not talking about self-confidence. As my buddy Setema Gali says, "Self-confidence is for kids." If you want to make an impact, you have to be certain. 
+    Certainty is what draws people to leaders, to experts.
+    
+    It's important to understand that when you first start, you are not posting these for your audience—you're posting them for you. Eventually, people will start to follow, 
+    but initially, it's so you can discover your voice.
+    
+    People will do anything for those who encourage their dreams, justify their failures, allay their fears, confirm their suspicions, 
+    and help them throw rocks at their enemies.
+    
+    Understand, though, that you don't become that leader overnight. Start sharing your message and become consistent with it so you can find your voice. 
+    Figure out where your message can polarize people into true fans. Share your backstory and flaws. Be transparent. 
+    And over time, you will naturally become the leader your tribe needs.
+    
+    I rewrote that headline dozens of times. "You're just one funnel away from quitting your job." "You're just one funnel away from financial freedom." 
+    "You're just one funnel away from growing your business to the next level." "You're just one funnel away from sharing your message with more people."
+    
+    What is the 4-minute mile for your movement? Initially, the 4-minute mile will need to be something that you've already accomplished, 
+    so you can show them it's possible and give them hope and belief that they can do it as well. 
+    As you shift your focus to helping others accomplish the same results and breaking their 4-minute mile, you'll notice something strange will happen inside your movement. 
+    Your focus will be taken off of you making money and into giving results to others, and for some odd reason...
+    
+    Your culture needs a Title of Liberty. Something they can look at when they're feeling doubtful—a rallying call. 
+    Something that will help them know who YOU are, remind them who THEY are, and refocus them on where you are going together.
+    
+    **Identify the charismatic leader. Who are you?**
+    My name is Russell Brunson.
+    **Identify the movement.**
+    I'm part of a group of underground entrepreneurs you've probably never heard of.
+    
+    When you study the successful mass movements of the past, you'll notice that each of the leaders offered their followers a new opportunity. 
+    Christ didn't give his followers a better way to follow Moses' law; he offered them a NEW law, 
+    a new covenant where salvation didn't come from animal sacrifices and following the letter of the law.
+    
+    Our goal is not to fix what's not working. Our goal is to REPLACE what's not working with something better.
+    
+    Most often, when people start thinking about the product or the service they want to offer, they start by looking around at what is already out there, 
+    and then they try to "build a better mousetrap." When you do that, you are not offering them a new opportunity; you are offering them what we call an "improvement" offer.
+    
+    So which factors elevate status? Well, it's different for everyone, but here are a few that are pretty universal:
+    - Appearance of intelligence (anything that makes them look smarter)
+    - Appearance of wealth, power, or happiness
+    - Physical appearance (weight loss, makeup, supplements, etc.)
+    - Style (think Mac vs. PC)
+    
+    **STEP #1: GET EARLY RESULTS BY WORKING FOR FREE**
+    
+    It doesn't matter if you're selling physical products, digital information, or service programs. Go out there and work for free. Get some results. 
+    If what you're doing works, then capture those stories and testimonials. Use them to attract and convert your dream clients.
+    
+    This angle shows how something that's been done successfully in the past is about to be made obsolete. You're persuading them that soon this will be common knowledge, 
+    but they can get in now and have early success.
+    
+    Are you tired?
+    
+    Belief creates the customer. Belief creates the results.
+    
+    If I can make people believe that my new opportunity is the key to what they desire most and is only attainable through my specific vehicle, 
+    then all other objections and concerns become irrelevant, and they have to give me money.
+    
+    Any time you're speaking (or writing) and you hit a friction point where some people may not understand what you're trying to convey, just say, 
+    "it's kinda like..." and relate it to something easy to understand. This keeps your stories simple, entertaining, and effective. Oversimplification is the key.
+    
+    I want to transition into story structure. When you learn the right structure for telling your stories and you apply the concepts you learned here, 
+    you will become a master at storytelling and story selling.
+    
+    If I want you to have the same epiphany I had, you need to be in the same state that I was in when I had that epiphany.
+    
+    Make the character a victim of some outside force, so we want to root for them.
+    - Put the character in jeopardy, so we worry about them.
+    - Make the character likable, so we want to be with them.
+    - Make the character funny, so we connect with them.
+    - Make the character powerful, so we want to be like them.
+    
+    1. The vehicle or new opportunity
+    2. Their ability to use the vehicle (internal beliefs)
+    3. The #1 thing they believe is keeping them from getting started (external beliefs)
+    
+    I want them to realize that investing in this thing shouldn't cost them any money; it should only save them money. So remind them what they are now able to do, 
+    but also what they will be able to get rid of. Hopefully, the money they save will be more than what they are actually paying. That way, it's a truly irresistible offer.
+    
+    You can probably see why people pay $__________ for a similar result from me because it's not a cost—it's an INVESTMENT.
+    
+    That single concept has made me more money than anything else I've ever done in this business. Study it. Master it. There is no greater gift I could give you than this.
+    
+    1. Become VERY clear about who you want to serve and what new opportunity you will create.
+    2. Get results for your beta group. Your results will become the foundation your expert business
+    
+     will grow from.
+    3. Become a master storyteller. This is the most important skill you can learn.
+    4. Change the world. Your message has the ability to change people's lives, so use it.`
   }, {
     id: '12',
     title: 'Failure to Success',
-    body: ``
+    body: `You choose what you want to use in your life based on what you think is best for you. You are your own therapist, and you're fully responsible for your own success.
+    
+    Scientific research also suggests that words are powerful enough to induce behavioral change.
+    
+    If your desired end is learning, is taking a fall a failure or success? Is it really better to climb an easy route and succeed (with no learning process) 
+    or fall off a difficult one but learn something new and become a better climber?
+    
+    The next time you fail, resist the temptation to let anger, frustration, discouragement, or self-guilt make you give up. Give yourself time to process the negative emotions,
+     and then make a list of the lessons you've learned from not reaching your desired outcome.
+    
+    1. The second common type of failure is failure due to unrealistic expectations. Some people get stuck in a cycle in which they set unreasonable expectations, fail, 
+    try again, and fail again due to being unrealistic with what they can accomplish.
+    2. To prevent this failure from happening, make sure to do proper research before setting a goal. Ignorance leads to unrealistic expectations, which leads to failure. 
+    Be particularly careful when you're a newbie. Assume you'll achieve average results and focus on proven strategies instead of seeking magic pills.
+    3. Be open to changing your approach if your current strategy isn't working. Being stubborn when your approach isn't effective won't magically make it work.
+    4. Accept that things rarely go as planned. It might take you longer to reach your goal than you'd like,
+     and you'll probably overestimate what you can achieve in a short period of time. Be patient.
+    
+    In today's world of never-ending busyness and hundreds of tasks to do, failure due to a lack of focus is one of the most common reasons why people can't achieve their goals.
+    
+    Successful entrepreneur Craig Ballantyne suggests in his article, "You Have Never Thought This Way Before," that if you want to finish your product and start a business, 
+    "Book a hotel conference room if you must. Pay the money upfront so you won't back out. Arrive there early and lock yourself in and don't come out until you have a product 
+    to put online.
+    
+    The longer you hesitate, the less likely you'll be to act.
+    
+    It's important to acknowledge that the biggest failure in life is to remain the same person throughout the years. As they say, if you're not growing, you're dying.
+    
+    1. Fear of the unknown
+    2. Fear of rejection
+    3. Fear of losing your identity
+    4. Fear of losing connection
+    
+    It's key to understand that, try as you might, you're not going to change other people's deeply-held beliefs about certain important issues. 
+    I couldn't persuade my parents that one could succeed in life without going to college. 
+    They only believed me when I started making more money than 99.9% of people of my age.
+    
+    It's common for a person suffering from a lack of confidence to invent insignificant problems so they can have an excuse not to face the big ones.
+    
+    1. Believe in your goal
+    A lack of confidence leads to a self-fulfilling prophecy: you don't believe you can achieve something, and that's exactly what happens. 
+    One of the most effective ways to overcome this problem is to not develop a belief in yourself but in your goal. 
+    When you're working on an extremely important goal, increased self-confidence will be a side effect of your efforts.
+    
+    The first step to deal with this type of failure is to believe in your goal. If you can't develop the confidence in yourself, 
+    develop the belief that the goal you're pursuing is something you absolutely must reach. This, as if by association, 
+    will help you develop more conviction in your abilities to make it come to pass.
+    
+    Most goals require the marathoner's approach. While you can kick things off with a short sprint, eventually you'll have to transition into a more sustainable tempo and 
+    temper your impetuousness.
+    
+    People often fail because they're impatient. They'll either give up, frustrated by the slow progress, or they'll set an unsustainable tempo, anxious to succeed as 
+    quickly as possible. In both cases, failure is more likely than success.
+    
+    If you often fail because slow progress discourages you, focus on reaching the goal itself, not on reaching it within a made-up deadline. Deadlines should be rough 
+    estimates; they can't dictate your life.
+    
+    If you want to grow as a person, you need to challenge yourself.
+    
+    "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.
+    
+    YOU MUST LIVE YOUR LIFE THE HARD WAY AND REGULARLY EMBRACE UNCERTAINTY.
+    
+    "The quality of your life is in direct proportion to the amount of uncertainty you can comfortably live with. The more uncertainty you can live with, the more you'll try, 
+    the more you'll learn, the more alive you'll be. The more you got to be certain about everything, the less you'll have.
+    
+    Let me assure you that nobody cares about your failures as much as you think. When you're worried about others laughing at your clumsy attempts, they're often equally 
+    worried that they look silly in your eyes!
+    
+    1. Show the middle finger to your ego. A fear of embarrassment should be the last thing on your mind when you're learning something new. If you don't try again 
+    because you're afraid of looking stupid, that's when you actually exhibit unintelligent behavior.
+    2. Don't take your embarrassing failures seriously. Laughing them off will help you process them quickly, while dwelling on them and worrying about your image 
+    will only prolong the suffering.
+    
+    Convert your feelings of love into inspiration to keep growing, as this will enable you to help others even more. 
+    As such a caring person, you're more than worthy of success and will do a lot of good when you turn your dreams into reality.
+    
+    If you limit your growth because you're afraid of hurting others, remind yourself that becoming a better person gives you more resources to help them.
+    2. If you don't recognize your strengths, make a list of your motivations, strengths, relationships, and other assets that can help you achieve your goal. 
+    Then think of past situations that you solved, thanks to these resources.
+    
+    Eliminate phrases like "I have no choice" from your vocabulary.
+    
+    The key to beginning the process of bouncing back from failure is to accept that in the beginning of learning how to cope with it, 
+    you will feel numb and deny the negative emotions. Trying to suppress this stage will only prolong the process. 
+    If you can pull yourself together almost instantly, that's great. If not, don't rush it.
+    
+    Here are some suggestions on how to make yourself feel good:
+    - Seek positive friends who can help you relax and offer reassurance.
+    - Listen to music you love.
+    - Meditate or engage in another type of meditative practice.
+    - Practice a sport you love.
+    - Go out for a walk.
+    - Take a long, warm shower or bath.
+    - Play with a pet.
+    - Cuddle.
+    - Have a massage.
+    
+    Some people who experience failure feel self-hatred, mistakenly equating the act of failing with being a failure. 
+    Learning how to turn self-criticism into self-compassion is crucial to cope with failure and bounce back with renewed confidence.
+    
+    The third step is to change your emotional state. If you've dealt with the first and second phase of handling a failure, now you're probably angry that you failed 
+    or you alternate between feeling sad and pissed. Neither state is useful if you want to process the failure because they cloud your judgment with strong emotions that 
+    make you unable to look at the failure from a more neutral point of view.
+    
+    Engage in activities that will help you let off some steam and take your mind off the failure. Staying home and fuming at the failure isn't going to change anything; 
+    you need to put some distance between yourself and the failure to be able to learn from it and bounce back.
+    
+    Create a list of lessons you've learned from your failure. Then, try to find a common thread — one key lesson that will help you change your approach and 
+    succeed with the next attempt.
+    
+    Take your time to identify the key lesson from the failure. It's better to spend a few days more analyzing your failure than to resume working on your goal, 
+    only to fail yet again due to the same (unidentified) cause. This step is essential to leverage failure as a valuable tool for your future endeavors.
+    
+    Tony Robbins defines addiction as a behavior (negative or positive) that meets at least three of six human needs: certainty, variety, significance, connection/love, 
+    growth, and contribution. Your activity must also meet three of those same needs.
+    
+    When you devote yourself to a certain activity and it becomes a long-term passion, you'll stick to it no matter what happens. It will be too hard to break the habit just because 
+    you no longer feel like doing it. Such devotion to a passion is a powerful master strategy to encourage positive mindset changes, build grit, and grow as a person. 
+    I consider it a must-have for people who want to achieve their full potential.
+    
+    Developing a passion that forces you to step outside your comfort zone and/or delivers other lessons that you can apply when working on other goals is a powerful master strategy 
+    for becoming a successful person. It's one thing to read about someone's experiences and quite another to draw parallels between your own experiences; 
+    nothing can replace the latter in its effectiveness and applicability to your own situation.
+    
+    To conduct a successful experiment, set a budget (choose a specific amount of resources you'll dedicate to it, be it money, time, or energy) and run it until you get solid data.
+    
+    Society pressures young people to go to college. And those who want to consider an alternative career choice or start a business?
+    
+    1. If you're chasing something only because society tells you to do so — as in the case of going to college or working in a job you hate — you're wasting resources that you could have 
+    spent on something more aligned with your personality and outlook on life.
+    2. If you associate your goal primarily (or even worse — exclusively) with daily negative emotions, you should give up, as the objective is clearly not congruent with your personality.
+    3. Working on the wrong goal doesn't just make you lose the time and energy invested in pursuing the objective itself. It also costs you in lost opportunities and mismanaged resources.
+    
+    If you're unsatisfied with your results after a reasonable amount of time and other resources invested in your goal and don't see any possibilities for improvement, maybe you should find something else you'd be better at.
+    
+    2. The decision to give up or keep going when you aren't satisfied with your results comes down to managing your expectations. If you can lower your expectations and still feel good, keep going.
+     If you refuse to accept lower standards, it's better to give up.
+    
+    Persistence is good as long as you care about your objective. If you're pursuing your goal simply because of sunk costs — costs you've already incurred that you can't get back — you should give up.
+    
+    2. Consider your losses the cost of learning. When it no longer makes sense to pursue your goal, accept that what you've lost was, in fact, an investment in your education, and it's now time to conclude it.
+    
+    If you're constantly playing catch-up with your goal, it indicates that it isn't a priority to you or that you have too much on your plate. If you can find time for other things, 
+    but rarely for your supposedly important goal, perhaps you no longer care about the goal as you used to, and it might be better to give up.
+    
+    2. You'll maximize your results if you forego some of the less important goals and focus more on your key objective. In the end, you'll need to choose between multiple goals and mediocre 
+    performance or few goals and excellence.`
   }, {
-    id: '3',
-    title: '30 Day Challenge',
-    body: ``
+    id: '13',
+    title: 'Great Leaders',
+    body: `You choose what you want to use in your life based on what you think is best for you. You are your own therapist, and you're fully responsible for your own success.
+    
+    Scientific research also suggests that words are powerful enough to induce behavioral change.
+    
+    If your desired end is learning, is taking a fall a failure or success? Is it really better to climb an easy route and succeed (with no learning process) 
+    or fall off a difficult one but learn something new and become a better climber?
+    
+    The next time you fail, resist the temptation to let anger, frustration, discouragement, or self-guilt make you give up. 
+    Give yourself time to process the negative emotions, and then make a list of the lessons you've learned from not reaching your desired outcome.
+    
+    1. The second common type of failure is failure due to unrealistic expectations. Some people get stuck in a cycle in which they set unreasonable expectations, 
+    fail, try again, and fail again due to being unrealistic with what they can accomplish.
+    2. To prevent this failure from happening, make sure to do proper research before setting a goal. Ignorance leads to unrealistic expectations, which leads to failure. 
+    Be particularly careful when you're a newbie. Assume you'll achieve average results and focus on proven strategies instead of seeking magic pills.
+    3. Be open to changing your approach if your current strategy isn't working. Being stubborn when your approach isn't effective won't magically make it work.
+    4. Accept that things rarely go as planned. It might take you longer to reach your goal than you'd like, and you'll probably overestimate what you can achieve in a 
+    short period of time. Be patient.
+    
+    In today's world of never-ending busyness and hundreds of tasks to do, failure due to a lack of focus is one of the most common reasons why people can't achieve their goals.
+    
+    Successful entrepreneur Craig Ballantyne suggests in his article, "You Have Never Thought This Way Before," that if you want to finish your product and start a business, 
+    "Book a hotel conference room if you must. Pay the money upfront so you won't back out. Arrive there early and lock yourself in and don't come out until you have a product 
+    to put online.
+    
+    The longer you hesitate, the less likely you'll be to act.
+    
+    It's important to acknowledge that the biggest failure in life is to remain the same person throughout the years. As they say, if you're not growing, you're dying.
+    
+    1. Fear of the unknown
+    2. Fear of rejection
+    3. Fear of losing your identity
+    4. Fear of losing connection
+    
+    It's key to understand that, try as you might, you're not going to change other people's deeply-held beliefs about certain important issues. 
+    I couldn't persuade my parents that one could succeed in life without going to college. 
+    They only believed me when I started making more money than 99.9% of people of my age.
+    
+    It's common for a person suffering from a lack of confidence to invent insignificant problems so they can have an excuse not to face the big ones.
+    
+    1. Believe in your goal
+    A lack of confidence leads to a self-fulfilling prophecy: you don't believe you can achieve something, and that's exactly what happens. 
+    One of the most effective ways to overcome this problem is to not develop a belief in yourself but in your goal. When you're working on an extremely 
+    important goal, increased self-confidence will be a side effect of your efforts.
+    
+    The first step to deal with this type of failure is to believe in your goal. If you can't develop the confidence in yourself, develop the belief that the goal 
+    you're pursuing is something you absolutely must reach. This, as if by association, will help you develop more conviction in your abilities to make it come to pass.
+    
+    Most goals require the marathoner's approach. While you can kick things off with a short sprint, eventually you'll have to transition into a more sustainable 
+    tempo and temper your impetuousness.
+    
+    People often fail because they're impatient. They'll either give up, frustrated by the slow progress, or they'll set an unsustainable tempo, anxious to succeed as 
+    quickly as possible. In both cases, failure is more likely than success.
+    
+    If you often fail because slow progress discourages you, focus on reaching the goal itself, not on reaching it within a made-up deadline. Deadlines should be rough 
+    estimates; they can't dictate your life.
+    
+    If you want to grow as a person, you need to challenge yourself.
+    
+    "Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.
+    
+    YOU MUST LIVE YOUR LIFE THE HARD WAY AND REGULARLY EMBRACE UNCERTAINTY.
+    
+    "The quality of your life is in direct proportion to the amount of uncertainty you can comfortably live with. The more uncertainty you can live with, 
+    the more you'll try, the more you'll learn, the more alive you'll be. The more you got to be certain about everything, the less you'll have.
+    
+    Let me assure you that nobody cares about your failures as much as you think. When you're worried about others laughing at your clumsy attempts, 
+    they're often equally worried that they look silly in your eyes!
+    
+    1. Show the middle finger to your ego. A fear of embarrassment should be the last thing on your mind when you're learning something new. If you don't try 
+    again because you're afraid of looking stupid, that's when you actually exhibit unintelligent behavior.
+    2. Don't take your embarrassing failures seriously. Laughing them off will help you process them quickly, while dwelling on them and worrying about your image 
+    will only prolong the suffering.
+    
+    Convert your feelings of love into inspiration to keep growing, as this will enable you to help others even more. As such a caring person, you're more than worthy 
+    of success and will do a lot of good when you turn your dreams into reality.
+    
+    If you limit your growth because you're afraid of hurting others, remind yourself that becoming a better person gives you more resources to help them.
+    2. If you don't recognize your strengths, make a list of your motivations, strengths, relationships, and other assets that can help you achieve your goal. 
+    Then think of past situations that you solved, thanks to these resources.
+    
+    Eliminate phrases like "I have no choice" from your vocabulary.
+    
+    The key to beginning the process of bouncing back from failure is to accept that in the beginning of learning how to cope with it, you will feel numb and deny 
+    the negative emotions. Trying to suppress this stage will only prolong the process. If you can pull yourself together almost instantly, that's great. 
+    If not, don't rush it.
+    
+    Here are some suggestions on how to make yourself feel good:
+    - Seek positive friends who can help you relax and offer reassurance.
+    - Listen to music you love.
+    - Meditate or engage in another type of meditative practice.
+    - Practice a sport you love.
+    - Go out for a walk.
+    - Take a long, warm shower or bath.
+    - Play with a pet.
+    - Cuddle.
+    - Have a massage.
+    
+    Some people who experience failure feel self-hatred, mistakenly equating the act of failing with being a failure. 
+    Learning how to turn self-criticism into self-compassion is crucial to cope with failure and bounce back with renewed confidence.
+    
+    The third step is to change your emotional state. If you've dealt with the first and second phase of handling a failure, now you
+    
+    're probably angry that you failed or you alternate between feeling sad and pissed. Neither state is useful if you want to process the 
+    failure because they cloud your judgment with strong emotions that make you unable to look at the failure from a more neutral point of view.
+    
+    Engage in activities that will help you let off some steam and take your mind off the failure. Staying home and fuming at the failure isn't going to change anything; 
+    you need to put some distance between yourself and the failure to be able to learn from it and bounce back.
+    
+    Create a list of lessons you've learned from your failure. Then, try to find a common thread — one key lesson that will help you change your approach and succeed 
+    with the next attempt.
+    
+    Take your time to identify the key lesson from the failure. It's better to spend a few days more analyzing your failure than to resume working on your goal, 
+    only to fail yet again due to the same (unidentified) cause. This step is essential to leverage failure as a valuable tool for your future endeavors.
+    
+    Tony Robbins defines addiction as a behavior (negative or positive) that meets at least three of six human needs: certainty, variety, significance, connection/love,
+     growth, and contribution. Your activity must also meet three of those same needs.
+    
+    When you devote yourself to a certain activity and it becomes a long-term passion, you'll stick to it no matter what happens. 
+    It will be too hard to break the habit just because you no longer feel like doing it. Such devotion to a passion is a powerful master strategy 
+    to encourage positive mindset changes, build grit, and grow as a person. I consider it a must-have for people who want to achieve their full potential.
+    
+    Developing a passion that forces you to step outside your comfort zone and/or delivers other lessons that you can apply when working on other goals 
+    is a powerful master strategy for becoming a successful person. It's one thing to read about someone's experiences and quite another to draw parallels 
+    between your own experiences; nothing can replace the latter in its effectiveness and applicability to your own situation.
+    
+    To conduct a successful experiment, set a budget (choose a specific amount of resources you'll dedicate to it, be it money, time, or energy) and run it until 
+    you get solid data.
+    
+    Society pressures young people to go to college. And those who want to consider an alternative career choice or start a business?
+    
+    1. If you're chasing something only because society tells you to do so — as in the case of going to college or working in a job you hate — you're wasting resources 
+    that you could have spent on something more aligned with your personality and outlook on life.
+    2. If you associate your goal primarily (or even worse — exclusively) with daily negative emotions, you should give up, as the objective is clearly not congruent with your personality.
+    3. Working on the wrong goal doesn't just make you lose the time and energy invested in pursuing the objective itself. It also costs you in lost opportunities and mismanaged resources.
+    
+    If you're unsatisfied with your results after a reasonable amount of time and other resources invested in your goal and don't see any possibilities for improvement, 
+    maybe you should find something else you'd be better at.
+    
+    2. The decision to give up or keep going when you aren't satisfied with your results comes down to managing your expectations. 
+    If you can lower your expectations and still feel good, keep going. If you refuse to accept lower standards, it's better to give up.
+    
+    Persistence is good as long as you care about your objective. If you're pursuing your goal simply because of sunk costs — 
+    costs you've already incurred that you can't get back — you should give up.
+    
+    2. Consider your losses the cost of learning. When it no longer makes sense to pursue your goal, accept that what you've lost was, in fact, an investment in your education, 
+    and it's now time to conclude it.
+    
+    If you're constantly playing catch-up with your goal, it indicates that it isn't a priority to you or that you have too much on your plate. 
+    If you can find time for other things, but rarely for your supposedly important goal, perhaps you no longer care about the goal as you used to, 
+    and it might be better to give up.
+    
+    2. You'll maximize your results if you forego some of the less important goals and focus more on your key objective. In the end, 
+    you'll need to choose between multiple goals and mediocre performance or few goals and excellence.`
   }, {
-    id: '3',
-    title: '30 Day Challenge',
-    body: ``
+    id: '18',
+    title: 'Great Leaders',
+    body: `
+    **Theresa**
+    
+    "Do not allow yourself to be disheartened by any failure as long as you have done your best."
+    
+    **Winston Churchill**
+    
+    "The empires of the future are the empires of the mind."
+    
+    "If we are together, NOTHING is impossible. If we are divided, all will fail."
+    
+    "The price of greatness is responsibility."
+    
+    "It’s not enough that we do our best; sometimes we have to do what’s required."
+    
+    "I never worry about action, but only inaction."
+    
+    "Courage is rightly esteemed the first of human QUALITIES because, as has been said, 'It is the quality which guarantees all others.'"
+    
+    **Walt Disney**
+    
+    "When you believe in a thing, believe in it all the way, implicitly and unquestionably."
+    
+    "The way to get started is to quit talking and begin doing."
+    
+    "Imagination is more important than knowledge."
+    
+    **Albert Einstein**
+    
+    "Try to become not a man of success, but try rather to become a man of value."
+    
+    "Weakness of attitude becomes weakness of character."
+    
+    **Dwight D. Eisenhower**
+    
+    "The supreme quality for leadership is unquestionably integrity. Without it, no real success is possible."
+    
+    "Only strength can cooperate. Weakness can only beg."
+    
+    "Pessimism never won any battle."
+    
+    "Only our individual faith in freedom can keep us free."
+    
+    **Henry Ford**
+    
+    "Quality means doing it right when no one is looking."
+    
+    "A business that makes nothing but money is a poor kind of business."
+    
+    "An idealist is a person who helps other people to be prosperous."
+    
+    "Before everything else, getting ready is the secret of success."
+    
+    "If everyone is moving forward together, then success takes care of itself."
+    
+    "Most people spend more time and energy going around problems than trying to solve them."
+    
+    "Wealth, like happiness, is never attained when sought after directly. It comes as a byproduct of providing a useful service."
+    
+    "The whole secret of a successful life is to find out what it is one’s destiny to do, and then do it."
+    
+    "If you desire many things, many things will seem but a few."
+    
+    **Benjamin Franklin**
+    
+    "Lost time is never found again."
+    
+    "All mankind is divided into three classes: those that are immovable, those that are movable, and those that move."
+    
+    "Half a truth is often a great lie."
+    
+    "Life’s TRAGEDY is that we get old too soon and wise too late."
+    
+    "Well done is better than well said."
+    
+    "Words may show a man’s wit but actions his meaning."
+    
+    "Happiness is when what you think, what you say, and what you do are in harmony."
+    
+    **Mahatma Gandhi**
+    
+    "A man is but the product of his thoughts. What he thinks, he becomes."
+    
+    "Power is of two kinds. One is obtained by the fear of punishment and the other by acts of love. Power based on love is a thousand times more effective and 
+    permanent than the one derived from fear of punishment."
+    
+    "An ounce of practice is worth more than tons of preaching."
+    
+    "Freedom and slavery are mental states."
+    
+    **Andrew Jackson**
+    
+    "Take time to deliberate; but when the time for action arrives, stop thinking and go in."
+    
+    "Determine never to be idle… It is wonderful how much may be done if we are always doing."
+    
+    "Delay is preferable to error."
+    
+    "It is neither wealth nor splendor, but tranquility and occupation which give happiness."
+    
+    "An honest man can feel no pleasure in the exercise of power over his fellow citizens."
+    
+    "A coward is much more exposed to quarrels than a man of spirit."
+    
+    "Whenever you do a thing, act as if all the WORLD were watching."
+    
+    **Helen Keller**
+    
+    "Alone we can do so little; TOGETHER we can do so much."
+    
+    "Happiness cannot come from without. It must come from within. It is not what we see and touch or that which others do for us which makes us happy; 
+    it is that which we think and feel and do, first for the other fellow and then for ourselves."
+    
+    **John F. Kennedy**
+    
+    "Mankind must put an end to war—or war will put an end to mankind."
+    
+    "There’s an old saying that victory has a hundred fathers and defeat is an orphan."
+    
+    "Change is the law of life. Those who look only to the past or the present are certain to miss the future."
+    
+    "The time is always right to do what is right."
+    
+    "If a man has not discovered something that he will die for, he isn’t fit to live."
+    
+    "The quality, not the longevity, of one’s life is what is important."
+    
+    "Luck is a dividend of sweat—the more you sweat, the luckier you get."
+    
+    **Ray Kroc**
+    
+    "If you work just for money, you’ll never make it, but if you love what you’re doing and you always put the customer first, success will be yours."
+    
+    "I claim not to have controlled events, but confess plainly that events have controlled me."
+    
+    **Abraham Lincoln**
+    
+    "Stand with anybody that stands right. Stand with him while he is RIGHT and part with him when he goes wrong."
+    
+    "I do not think much of a man who is not wiser today than he was yesterday."
+    
+    "Confidence is contagious and so is lack of confidence."
+    
+    "Leaders are made, they are not born. They are made by hard effort, which is the price which all of us must pay to achieve any goal which is worthwhile."
+    
+    **Golda Meir**
+    
+    "Trust yourself. Create the kind of self that you will be happy to live with all of your life. Make the most of yourself by fanning the tiny, 
+    inner sparks of possibility into flames of achievement."
+    
+    "Success is only meaningful and enjoyable if it feels like your own."
+    
+    **Nelson Mandela**
+    
+    "The first thing is to be honest with yourself. You can never have an impact on society if you have not changed yourself. Great peacemakers are all people of integrity, 
+    of honesty, and humility."
+    
+    "After climbing a great hill, one only finds that there are many more hills to climb."
+    
+    "Education is the most powerful weapon we can use to change the world."
+    
+    "In war there is no substitute for victory."
+    
+    **Vince Lombardi**
+    
+    "Leaders are made, they are not born. They are made by hard effort, which is the price which all of us must pay to achieve any goal which is worthwhile."
+    
+    "Once you learn to quit, it becomes a habit."
+    
+    "Once you have established the goals you want and the price you’re willing to pay, you can ignore the minor hurts, the opponent’s pressure, and the temporary failures."
+    
+    "The price of success is hard work, dedication to the job, and the determination that, whether we win or lose, we have applied the best of ourselves to the task at hand."
+    
+    "Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work."
+    
+    **Douglas MacArthur**
+    
+    "The QUALITY of a person’s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor."
+    
+    "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather in a lack of will."
+    
+    "Some of us will do our jobs well and some will not, but we will all be judged on one thing: the RESULT."
+    
+    "I came through and I shall return."
+    
+    **Michelle Obama**
+    
+    "You can’t make DECISIONS based on fear and the possibility of what might happen."
+    
+    "Success is how high you bounce when you hit bottom."
+    
+    **George S.
+    
+     Patton**
+    
+    "By perseverance, study, and eternal desire, any man can become great."
+    
+    "If a man does his best, what else is there?"
+    
+    "It is only by doing things others have not that one can advance."
+    
+    "Lead me, follow me, or get out of my way."
+    
+    "Courage is fear holding on a minute longer."
+    
+    "A man must know his DESTINY… If he does not recognize it, then he is lost."
+    
+    **Ronald Reagan**
+    
+    "Entrepreneurs and their small enterprises are responsible for almost all the economic growth in the United States."
+    
+    "Freedom is one of the deepest and noblest aspirations of the human spirit."
+    
+    "You must do the thing you think you cannot do."
+    
+    **Eleanor Roosevelt**
+    
+    "Justice cannot be for one side alone, but must be for both."
+    
+    **Theodore Roosevelt**
+    
+    "I care not what others think of what I do, but I care very much about what I think of what I do! That is character!"
+    
+    "Character, in the long run, is the decisive factor in the life of an individual and of nations alike."
+    
+    "It is hard to fail, but it is worse never to have tried to succeed."
+    
+    "Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."
+    
+    **Albert Schweitzer**
+    
+    "Example is leadership."
+    
+    "Do something wonderful; people may imitate it."
+    
+    "If a man loses his reverence for any part of life, he will lose his reverence for all of life."
+    
+    "One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."
+    
+    **Margaret Thatcher**
+    
+    "What is success? I think it is a mixture of having a flair for the thing that you are doing; knowing that it is not enough, 
+    that you have got to have hard work and a certain sense of purpose."
+    
+    **Harry S. Truman**
+    
+    "Individuals don’t win. Teams do."
+    
+    **Sam Walton**
+    
+    "High expectations are the key to everything."
+    
+    "I have always been driven to buck the system, to innovate, to take things beyond where they’ve been."
+    
+    "Appreciate everything your associates do for the business. Nothing else can quite substitute for a few well-chosen, well-timed, sincere words of praise. 
+    They’re absolutely free and worth a fortune."
+    
+    "There are two ways of exerting one’s strength: one is pushing down, the other is pulling up."
+    
+    **Booker T. Washington**
+    
+    "Character is power."
+    
+    "Nothing ever comes to one, that is worth having, except as a result of hard work."
+    
+    "Few things can help an individual more than to place responsibility on him, and to let him know that you TRUST him."
+    
+    "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed."
+    
+    "We must reinforce argument with results."
+    
+    **George Washington**
+    
+    "If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter."
+    
+    **John Wooden**
+    
+    "Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are."
+    
+    "Consider the rights of others before your own feelings, and the feelings of others before your own rights."
+    
+    "Don’t measure yourself by what you have accomplished, but by what you should have accomplished with your ability."
+    
+    "The future starts today, not tomorrow."
+    
+    ---
+    
+    I hope this is what you were looking for. If you have any more requests or need further assistance, please feel free to ask!`
   }, {
-    id: '3',
-    title: '30 Day Challenge',
-    body: ``
+    id: '14',
+    title: 'Irrefutable Leadership',
+    body: `Here's the cleaned and aligned content:
+
+    ---
+    
+    **When the Real Leader Speaks, People Listen**
+    
+    **Trust Is the Foundation of Leadership**
+    
+    **Leadership Ability Determines a Person’s Level of Effectiveness**
+    
+    **The True Measure of Leadership Is Influence—Nothing More, Nothing Less**
+    
+    **Leadership Develops Daily, Not in a Day**
+    
+    **Anyone Can Steer the Ship, But It Takes a Leader to Chart the Course**
+    
+    **People Naturally Follow Leaders Stronger Than Themselves**
+    
+    **Leaders Evaluate Everything With a Leadership Bias**
+    
+    **Who You Are Is Who You Attract**
+    
+    **Leaders Touch a Heart Before They Ask for a Hand**
+    
+    **Momentum Is a Leader’s Best Friend**
+    
+    **Leaders Understand that Activity Is Not Necessarily Accomplishment**
+    
+    **To Add Growth, Lead Followers—To Multiply, Lead Leaders**
+    
+    **A Leader’s Lasting Value Is Measured By Succession**
+    
+    **LEADERSHIP IS ABOUT INFLUENCING PEOPLE TO FOLLOW, WHILE MANAGEMENT FOCUSES ON MAINTAINING SYSTEMS AND PROCESSES.**
+    
+    **WHETHER YOU DO OR DON’T HAVE GREAT NATURAL ABILITY FOR LEADERSHIP, YOUR DEVELOPMENT AND PROGRESS WILL PROBABLY OCCUR ACCORDING TO THE FOLLOWING FOUR PHASES:**
+    - **PHASE 1—I DON’T KNOW WHAT I DON’T KNOW**
+    - **PHASE 2—I KNOW WHAT I DON’T KNOW**
+    - **PHASE 4—I SIMPLY GO BECAUSE OF WHAT I KNOW**
+    
+    **TO LEAD TOMORROW, LEARN TODAY**
+    
+    If you want to be a leader, the good news is that you can do it. Everyone has the potential, but it isn’t accomplished overnight. It requires perseverance. 
+    And you absolutely cannot ignore the Law of Process. Leadership doesn’t develop in a day. It takes a lifetime.
+    
+    **“A LEADER IS ONE WHO SEES MORE THAN OTHERS SEE, WHO SEES FARTHER THAN OTHERS SEE, AND WHO SEES BEFORE OTHERS DO.”**
+    
+    **NAVIGATORS DRAW ON PAST EXPERIENCE. EVERY PAST SUCCESS AND FAILURE CAN BE A SOURCE OF INFORMATION AND WISDOM—IF YOU ALLOW IT TO BE. 
+    SUCCESSES TEACH YOU ABOUT YOURSELF AND WHAT YOU’RE CAPABLE OF DOING WITH YOUR PARTICULAR GIFTS AND TALENTS.**
+    
+    **PEOPLE BECOME REAL LEADERS BECAUSE OF …**
+    1. **CHARACTER—WHO THEY ARE. TRUE LEADERSHIP ALWAYS BEGINS WITH THE INNER PERSON.**
+    2. **RELATIONSHIPS—WHO THEY KNOW. YOU’RE A LEADER ONLY IF YOU HAVE FOLLOWERS, AND THAT ALWAYS REQUIRES THE DEVELOPMENT OF RELATIONSHIPS—THE DEEPER THE RELATIONSHIPS, 
+    THE STRONGER THE POTENTIAL FOR LEADERSHIP. EACH TIME I ENTERED A NEW LEADERSHIP POSITION.**
+    3. **KNOWLEDGE—WHAT THEY KNOW. INFORMATION IS VITAL TO A LEADER. YOU NEED A GRASP OF THE FACTS, AN UNDERSTANDING OF THE FACTORS INVOLVED, AND A VISION FOR THE FUTURE. 
+    KNOWLEDGE ALONE WON’T MAKE SOMEONE A LEADER, BUT WITHOUT IT, HE CAN’T BECOME ONE.**
+    4. **INTUITION—WHAT THEY FEEL. LEADERSHIP REQUIRES MORE THAN JUST A COMMAND OF DATA. IT DEMANDS AN ABILITY TO DEAL WITH NUMEROUS INTANGIBLES.**
+    5. **EXPERIENCE—WHERE THEY HAVE BEEN. THE GREATER THE CHALLENGES YOU’VE FACED IN THE PAST, THE MORE LIKELY FOLLOWERS ARE TO GIVE YOU A CHANCE. EXPERIENCE DOESN’T GUARANTEE 
+    CREDIBILITY, BUT IT ENCOURAGES PEOPLE TO GIVE YOU A CHANCE TO PROVE THAT YOU ARE CAPABLE.**
+    6. **PAST SUCCESS—WHAT THEY’VE DONE. NOTHING SPEAKS TO FOLLOWERS LIKE A GOOD TRACK RECORD. WHEN I WENT TO MY FIRST CHURCH, I HAD NO TRACK RECORD.**
+    7. **ABILITY—WHAT THEY CAN DO. THE BOTTOM LINE FOR FOLLOWERS IS WHAT A LEADER IS CAPABLE OF. ULTIMATELY.**
+    
+    **CHARACTER COMMUNICATES CONSISTENCY. LEADERS WITHOUT INNER STRENGTH CAN’T BE COUNTED ON DAY AFTER DAY BECAUSE THEIR ABILITY TO PERFORM CHANGES CONSTANTLY.**
+    
+    **THE BEST LEADERS READ AND RESPOND.**
+    
+    **LEADERS ARE READERS OF THEIR SITUATION. IN ALL KINDS OF CIRCUMSTANCES, THEY CAPTURE DETAILS THAT ELUDE OTHERS.**
+    
+    **LEADERS ARE READERS OF TRENDS. EVERYTHING THAT HAPPENS AROUND US DOES SO IN THE CONTEXT OF A BIGGER PICTURE. LEADERS HAVE THE ABILITY TO STEP BACK FROM WHAT’S HAPPENING 
+    AT THE MOMENT AND SEE NOT ONLY WHERE THEY AND THEIR PEOPLE HAVE GONE, BUT ALSO WHERE THEY ARE HEADED IN THE FUTURE. IT’S AS IF THEY CAN SMELL CHANGE IN THE WIND.**
+    
+    **LEADERS ARE READERS OF THEIR RESOURCES. A MAJOR DIFFERENCE BETWEEN ACHIEVERS AND LEADERS IS THE WAY THEY SEE RESOURCES. SUCCESSFUL INDIVIDUALS THINK IN TERMS OF WHAT THEY CAN DO. 
+    SUCCESSFUL LEADERS, ON THE OTHER HAND, SEE EVERY SITUATION IN TERMS OF AVAILABLE RESOURCES: MONEY, RAW MATERIALS, TECHNOLOGY AND, MOST IMPORTANT, PEOPLE. THEY NEVER FORGET THAT PEOPLE ARE THEIR GREATEST ASSET.**
+    
+    **Leadership is really more art than science. The principles of leadership are constant, but the application changes with every leader and every situation.**
+    
+    **The greatest leaders are able to connect on both levels: with individuals and with an audience.**
+    
+    **THE TOUGHER THE CHALLENGE, THE GREATER THE CONNECTION.**
+    
+    **THE LAW OF THE INNER CIRCLE. A LEADER’S POTENTIAL IS DETERMINED BY THOSE CLOSEST TO HIM.**
+    1. **POTENTIAL VALUE—THOSE WHO RAISE UP THEMSELVES. THE FIRST ABILITY THAT EVERY LEADER MUST HAVE IS THE ABILITY TO LEAD AND MOTIVATE HIMSELF. ALWAYS KEEP YOUR EYES OPEN FOR PEOPLE WITH POTENTIAL.**
+    2. **POSITIVE VALUE—THOSE WHO RAISE MORALE IN THE ORGANIZATION.**
+    3. **PRODUCTION VALUE—THOSE WHO RAISE UP OTHERS.**
+    4. **PROVEN VALUE—THOSE WHO RAISE UP PEOPLE WHO RAISE UP OTHER PEOPLE.**
+    
+    **THE LAW OF EMPOWERMENT. ONLY SECURE LEADERS GIVE POWER TO OTHERS.**
+    
+    **DESIRE FOR JOB SECURITY. THE NUMBER ONE ENEMY OF EMPOWERMENT IS THE DESIRE FOR JOB SECURITY.**
+    
+    THE LAW OF REPRODUCTION
+IT TAKES A LEADER TO RAISE UP A LEADER
+
+Why don’t all leaders develop others? There are many reasons. Sometimes they just don’t recognize the tremendous value of developing leaders
+
+Why don’t all leaders develop others? There are many reasons. Sometimes they just don’t recognize the tremendous value of developing leaders
+
+THE ONLY WAY YOU WILL BE ABLE TO DEVELOP OTHER LEADERS IS TO BECOME A LEADER.
+
+WHEN FOLLOWERS LIKE THE LEADER AND THE VISION, THEY WILL GET BEHIND BOTH
+
+GREAT LEADERS FIND A WAY TO WIN
+WHEN THE PRESSURE IS ON, GREAT LEADERS ARE AT THEIR BEST. WHATEVER IS INSIDE THEM COMES TO THE SURFACE AND WORKS FOR OR AGAINST THEM. JUST A FEW YEARS AGO
+
+1. UNITY OF VISION
+THREE COMPONENTS OF VICTORY
+TWO KEYS: PREPARATION AND MOTIVATION
+MOMENTUM REALLY IS A LEADER’S BEST FRIEND. SOMETIMES IT’S THE ONLY DIFFERENCE BETWEEN LOSING AND WINNING
+
+Reading a situation and knowing what to do are not enough to make you succeed in leadership. Only the right action at the right time will bring success. Anything else exacts a high price. That’s the Law of Timing.
+
+TO ADD GROWTH, LEAD FOLLOWERS—TO MULTIPLY, LEAD LEADERS
+
+To go to the highest level, you have to develop leaders of leaders
+
+THE LAW OF LEGACY
+A LEADER’S LASTING VALUE IS MEASURED BY SUCCESSION
+
+CREATE A LEADERSHIP CULTURE
+THE MOST STABLE COMPANIES HAVE STRONG LEADERS AT EVERY LEVEL OF THE ORGANIZATION. THE ONLY WAY TO DEVELOP SUCH WIDESPREAD LEADERSHIP IS TO MAKE DEVELOPING LEADERS
+
+VALUE TEAM LEADERSHIP ABOVE INDIVIDUAL LEADERSHIP
+
+Personnel determine the potential of the organization.
+• Relationships determine the morale of the organization.
+• Structure determines the size of the organization.
+• Vision determines the direction of the organization.
+• Leadership determines the success of the organization.`
   }, {
-    id: '3',
-    title: '30 Day Challenge',
-    body: ``
-  }
+    id: '15',
+    title: 'On Writting Well',
+    body: `
 
+    "The secret of good writing is to strip every sentence down to its simplest components. Remove every word that serves no purpose, replace every long word with a shorter one, and eliminate adverbs that merely duplicate the meaning already present in the verb. 
+    
+    If a sentence is excessively cluttered, the reader may struggle to discern its meaning. In some cases, a poorly constructed sentence can be interpreted in multiple ways. 
+    
+    Writers must therefore constantly ask themselves: What am I trying to convey? Is it clear to someone encountering the subject for the first time? 
+    
+    A clear sentence is not a matter of chance. Very few sentences come out perfectly on the first attempt, or even the third. Remember this during moments of frustration. If you find that writing is challenging, it's because it is.
+    
+    In various fields, every profession develops its own jargon, often used to obscure meaning from the general public."`
+  }, {
+    id: '16',
+    title: 'One upon a wall street',
+    body: `
+    "Invest in companies that don’t depend on capital spending.
+    
+    A $20 stock with a $4-per-share cash flow gives you a 20 percent return on cash, which is terrific. And if you find a $20 stock with a sustainable $10-per-share cash flow,
+     mortgage your house and buy all the shares you can find.
+    
+    There’s a detailed note on inventories in the section called 'management’s discussion of earnings' in the annual report. I always check to see if inventories are piling up. 
+    With a manufacturer or a retailer, an inventory buildup is usually a bad sign. When inventories grow faster than sales, it’s a red flag.
+    
+    On the bright side, if a company has been depressed and the inventories are beginning to be depleted, it’s the first evidence that things have turned around.
+    
+    Every few months it’s worthwhile to recheck the company's story. This may involve reading the latest Value Line or the quarterly report and inquiring about the earnings and 
+    whether the earnings are holding up as expected. It may involve checking the stores to see that the merchandise is still attractive, and that there’s an aura of prosperity.
+     Have any new cards turned over? With fast growers, especially, you have to ask yourself what will keep them growing.
+    
+    There are three phases to a growth company’s life: the start-up phase, during which it works out the kinks in the basic business; the rapid expansion phase, 
+    during which it moves into new markets; and the mature phase, also known as the saturation phase, when it begins to prepare for the fact that there’s no easy way to 
+    continue to expand. Each of these phases may last several years. The first phase is the riskiest for the investor because the success of the enterprise isn’t yet established. 
+    The second phase is the safest, and also where the most money is made because the company is growing simply by duplicating its successful formula. 
+    The third phase is the most problematic because the company runs into its limitations. Other ways must be found to increase earnings.
+    
+    **STOCKS IN GENERAL:**
+    - The P/E ratio. Is it high or low for this particular company and for similar companies in the same industry.
+    - The percentage of institutional ownership. The lower, the better.
+    - Whether insiders are buying and whether the company itself is buying back its own shares. Both are positive signs.
+    - The record of earnings growth to date and whether the earnings are sporadic or consistent. (The only category where earnings may not be important is in the asset play.)
+    - Whether the company has a strong balance sheet or a weak balance sheet (debt-to-equity ratio) and how it’s rated for financial strength.
+    
+    **SLOW GROWERS:**
+    - Since you buy these for the dividends (why else would you own them?), you want to check to see if dividends have always been paid and whether they are routinely raised.
+    - When possible, find out what percentage of the earnings are being paid out as dividends. If it’s a low percentage, then the company has a cushion in hard times. 
+    It can earn less money and still retain the dividend. If it’s a high percentage, then the dividend is riskier.
+    
+    **STALWARTS:**
+    - These are big companies that aren’t likely to go out of business. The key issue is price, and the P/E ratio will tell you whether you are paying too much.
+    - Check for possible diworseifications that may reduce earnings in the future.
+    - Check the company’s long-term growth rate and whether it has kept up the same momentum in recent years.
+    - If you plan to hold the stock forever, see how the company has fared during previous recessions and market drops.
+    
+    **ASSET PLAYS:**
+    - What’s the value of the assets? Are there any hidden assets?
+    - How much debt is there to detract from these assets? (Creditors are first in line.)
+    - Is the company taking on new debt, making the assets less valuable?
+    - Is there a raider in the wings to help shareholders reap the benefits of the assets?
+    
+    Here are some pointers from this section:
+    - Understand the nature of the companies you own and the specific reasons for holding the stock. (“It is really going up!” doesn’t count.)
+    - By putting your stocks into categories, you’ll have a better idea of what to expect from them.
+    - Big companies have small moves, small companies have big moves.
+    - Consider the size of a company if you expect it to profit from a specific product.
+    - Look for small companies that are already profitable and have proven that their concept can be replicated.
+    - Be suspicious of companies with growth rates of 50 to 100 percent a year.
+    - Avoid hot stocks in hot industries.
+    - Distrust diversifications, which usually turn out to be diworseifications.
+    - Long shots almost never pay off.
+    - It’s better to miss the first move in a stock and wait to see if a company’s plans are working out.
+    - People get incredibly valuable fundamental information from their jobs that may not reach the professionals for months or even years.
+    - Separate all stock tips from the tipper, even if the tipper is very smart, very rich, and his or her last tip went up.
+    - Some stock tips, especially from an expert in the field, may turn out to be quite valuable. However, people in the paper industry normally give out tips on drug stocks, 
+    and people in the health care field never run out of tips on the coming takeovers in the paper industry.
+    - Invest in simple companies that appear dull, mundane, out of favor, and haven’t caught the fancy of Wall Street.
+    - Moderately fast growers (20 to 25 percent) in non-growth industries are ideal investments.
+    - Look for companies with niches.
+    - When purchasing depressed stocks in troubled companies, seek out the ones with superior financial positions and avoid the ones with loads of bank debt.
+    - Companies that have no debt can’t go bankrupt.
+    - Managerial ability may be important, but it’s quite difficult to assess. Base your purchases on the company’s prospects, not on the president’s resume or speaking ability.
 
+    - A lot of money can be made when a troubled company turns around.
+    - Carefully consider the price-earnings ratio. If the stock is grossly overpriced, even if everything else goes right, you won’t make any money.
+    - Find a story line to follow as a way of monitoring a company’s progress.
+    - Look for companies that consistently buy back their own shares.
+    - Study the dividend record of a company over the years and also how its earnings have fared in past recessions.
+    - Look for companies with little or no institutional ownership.
+    - All else being equal, favor companies in which management has a significant personal investment over companies run by people that benefit only from their salaries.
+    - Insider buying is a positive sign, especially when several individuals are buying at once.
+    - Devote at least an hour a week to investment research. Adding up your dividends and figuring out your gains and losses doesn’t count.
+    - Be patient. Watched stock never boils.
+    - Buying stocks based on stated book value alone is dangerous and illusory. It’s real value that counts.
+    - When in doubt, tune in later.
+    - Invest at least as much time and effort in choosing a new stock as you would in choosing a new refrigerator.
+    
+    If you expect to make 30 percent year after year, you’re more likely to get frustrated at stocks
+    
+     for defying you, and your impatience may cause you to abandon your investments at precisely the wrong moment. Or worse, you may take unnecessary risks in the pursuit 
+     of illusory payoffs. It’s only by sticking to a strategy through good years and bad that you’ll maximize your long-term gains.
+    
+    There’s no use diversifying into unknown companies just for the sake of diversity. A foolish diversity is the hobgoblin of small investors.
+    
+    Younger investors with a lifetime of wage-earning ahead of them can afford to take more chances on tenbaggers than can older investors who must live off the income from 
+    their investments. Younger investors have more years in which they can experiment and make mistakes before they find the great stocks that make investing careers. 
+    The circumstances vary so widely from person to person that any further analysis of this point will have to come from you.
+    
+    Some people automatically sell the 'winners'—stocks that go up—and hold on to their 'losers'—stocks that go down—which is about as sensible as pulling out the flowers 
+    and watering the weeds. Others automatically sell their losers and hold on to their winners, which doesn’t work out much better. Both strategies fail because they’re 
+    tied to the current movement of the stock price as an indicator of the company’s fundamental value.
+    
+    By successfully rotating in and out of several stalwarts for modest gains, you can get the same result as you would with a single big winner: six 30-percent moves 
+    compounded equals a fourbagger plus, and six 25-percent moves compounded is nearly a fourbagger.
+    
+    A stock’s going up or down after you buy it only tells you that there was somebody who was willing to pay more—or less—for the identical merchandise.
+    
+    This demonstrates that the market, like individual stocks, can move in the opposite direction of the fundamentals over the short term.
+    
+    Market declines are great opportunities to buy stocks in companies you like. Corrections—Wall Street’s definition of going down a lot—push outstanding companies 
+    to bargain prices.
+    
+    - Different categories of stocks have different risks and rewards.
+    - Stock prices often move in opposite directions from the fundamentals, but long term, the direction and sustainability of profits will prevail.
+    - Just because the price goes up doesn’t mean you’re right.
+    - Just because the price goes down doesn’t mean you’re wrong.
+    - Buying a company with mediocre prospects just because the stock is cheap is a losing technique.
+    - Selling an outstanding fast grower because its stock seems slightly overpriced is a losing technique.
+    - Companies don’t grow for no reason, nor do fast growers stay that way forever.
+    - You don’t lose anything by not owning a successful company.
+    - When favorable cards turn up, add to your bet, and vice versa.
+    - You don’t have to 'kiss all the girls.' I’ve missed my share of tenbaggers and it hasn’t kept me from beating the market."`
+  }, {
+    id: '19',
+    title: 'Oversubscribed',
+    body: `When the supply is “one” and there are “two” who want it, then that price keeps going up.
+    
+    if you want to hire top talent, you need to be
+    oversubscribed for top talent. That means that some people need to miss out on
+    the job. If you want impactful publicity you need to be oversubscribed for people
+    who want the story you have to share, so some news outlets won't get the story.
+    If you want to sell products, those products need more buyers than supply can
+    allow for – so again, some people will miss out.
+    
+    You'll also discover that you don't need to create a massive market for yourself
+    in order to be oversubscribed
+    
+    Consistent and repetitive message – This means you need to repeatedly
+    state what you do in very clear and credible terms. Don't radically change it
+    each time or for each audience. People need to hear something about 7–15
+    times before they “get it” and remember it. If you're going to have 5,000
+    people “get it” you need to arrive at one way of “showing up” or describing
+    what you do and then say it a lot.
 
-  ];
+    2. Content – People read all the time. They Google stuff, they share stuff,
+    they read what their friends are reading, they email links to a friend; then on
+    holiday they take a Kindle and read some more! If you haven't got articles,
+    blogs, books, reports, videos, podcasts or updates for people to read, then
+    it's nearly impossible to become famous for even 500 people.
 
+    3. Commercial ecosystem – After people get to know you, like you and trust
+    you, they want to buy from you. Some will want to buy something small for
+    £100; some will want to buy something for £1,000 and a small number of
+    people will want to spend much more than that with you. This means you
+    need a product ecosystem for people to engage with.
 
+    4. Continuity – When people “discover you”, they want to know what went
+    on before. So they Google you, look around, piece together your timeline.
+    This means you need to have an online profile that shows what you've been
+    doing over the last few years. Then they want to stay updated with what
+    you're doing in the future. People will want to follow you on Twitter,
+    Facebook, YouTube and the like.
 
+    5. Collaboration – As you become famous to 5,000+ people, you'll get
+    opportunities to do deals with other people who are famous to a similar
+    group. They might want to create a product together, promote an event or
+    work on a project. You'll need a good framework for what you say yes to
+    
+    There are four drivers of
+    market imbalances where you'll see more buyers than sellers. These are the four
+    ways to achieve this imbalance.
+    1. Innovation – You create something new and shiny, that no one else sells.
+    There's only one seller (you) and a niche of new buyers who want it. There
+    are therefore more buyers than sellers by virtue of the fact there's only one
+    supplier and more people who want it.
 
+    2. Relationships – You build such a powerful relationship with buyers that
+    they ignore other sellers. There are more buyers than sellers because buyers
+    aren't interested in other sellers.
 
+    3. Convenience – You are answering the needs of the market with the most
+    frictionless expression of what they want. This is about being in the right
+    place, at the right time, with something that meets consumers' unmet
+    desires. This creates more buyers than sellers because buyers are reluctant
+    to invest time, money and energy finding alternatives.
 
+    4. Price – This occurs when you're able to create an imbalance based on price.
+    You've invested into an asset that creates an efficiency others don't have.
+    Crucially, you're still able to offer your products at a price that is profitable
+    but that price is lower than other suppliers can achieve.
+    
+    You'll also notice that each one of these positions has an opposite. You can't be
+    highly innovative and convenient; it doesn't work because innovation takes time
+    to scale. You can't be super cheap and also compete on relationships; it costs
+    money to build relationships. So you'll have to choose one main market position
+    for your business to focus on
+    
+    Product innovation: You invest in a new product that people haven't seen
+    before, or modify an existing product in a new way
+    
+    Systems innovation: You deliver an existing product in a new way that
+    makes things faster or more reliable
+    
+    Brand innovation: You make something boring a lot more desirable with a
+    new way of packaging it for the market
+    
+    There is another way to own a relationship with the market. You can become an
+    influencer in your field so that people will listen to your advice rather than shop
+    around. people have their market listening to their advice.
+    
+    Become more influential: Improve your ability to enroll others in your ideas and projects.
+    
+    Become better known: Widen your own personal or your business's appeal
+    through media, events, publicity and other brand-building activities
+    
+    Get deals in place: Once a deal is done, customers stop shopping around.
+    Creating lasting agreements with clients gives your business more strength
+    and value.
+    
+    Better distribution: When a business makes something available to its
+    buyers with less energy, effort or time required.
 
+    2. Better market information: As more information is made available,
+    market leaders give way to market followers. This also occurs when a buyer
+    doesn't need to research their options as much.
+    
+    Automation: When things happen faster or on autopilot. This could be new
+    machinery or systems online or offline
+    
+    The final way to create more buyers than sellers is to bring down the cost of
+    production so that you can offer something cheaper than everyone else but still
+    make a profit
+    
+    Invest: Cleverly investing into assets that create a natural barrier to entry
+    will allow you to reduce your costs and keep your margins. Owning your
+    premises or buying equipment that is expensive to hire can be ways to keep
+    prices lower.
+
+    2. Refine: Looking for inefficiencies where there are costs that do not
+    increase the value to a paying customer will keep margins wide while prices
+    fall.
+
+    3. Systemize: Using systems and technology rather than people is a powerful
+    way to keep overheads low and margins high.
+    People Don't Buy What Others Want to Sell. They Buy What Others
+    Want to Buy
+    
+    When people feel good about buying from you, they will tell people that they
+    bought from you. When they tell people they bought from you, other people will
+    want to buy from you too. When people want to buy from you, you're on your
+    way to being oversubscribed
+    
+    But oversubscribed businesses don't think like that. They understand that if you
+    treat your clients as aspirational individuals, many more people will aspire to be
+    like them too
+    
+    No one in Singapore needs a Ferrari. It is, in fact, a ridiculous car to own in this
+    particular country. There's not a single place on the island that a Ferrari would be
+    fun to drive; it's nearly impossible to get a super-car past second gear in
+    Singapore. So considering that Singapore is also one of the most expensive
+    places to buy a Ferrari (about 4x more than in the UK) why do so many people
+    have them?
+    They buy them because they want one
+    
+    People don't buy what they need or what they should buy; they buy what they
+    want.
+    
+    If you do what others do, you'll get what others get.
+    
+    Warren Buffet has a philosophy when it comes to investing. Oprah Winfrey has
+    a philosophy on television content. Richard Branson has a philosophy when it
+    comes to building his team and his brand. Technology billionaire, Elon Musk,
+    has a philosophy about why it's important to go to other planets
+    
+    When you develop a clear philosophy and you put it out to the world you'll begin
+    to create your own market. Not
+    
+    Netflix has a policy that states that employees who don't like working for them
+    can get paid $2,000 to quit. They encourage any staff members who aren't happy
+    to put an end to it fast and admit they aren't happy there rather than dragging the
+    process out and bringing bad energy into the team.
+    
+    Life isn't simple and neither is business. Nothing works on its own; everything
+    works together. Gone are the days when providing great value gets you paid
+    well. The people who get paid well today are the people who build a
+    sophisticated product and services ecosystem
+    
+    None of it works on its own; all of it works together. Your job is to create a
+    remarkable ecosystem that delivers a positive experience and keeps people
+    coming back for more
+    
+    NOTHING BEATS BEING POSITIVELY REMARKABLE
+    
+    If people talk about you in a positive way, your marketing budget reduces to
+    zero.
+    
+    Oversubscribed businesses spend money on their existing customers
+    before they spend money on their prospective ones. It seems counter-intuitive –
+    but if you get it right, your existing customers go out and do your marketing for
+    you.
+    
+    Humans are hard wired to trust and connect with
+    faces, voices, body language and words directly from a person.
+    
+    Remarkable Delivery
+    Surprise and delight your clients above and beyond their expectations, leaving
+    them feeling uplifted
+    
+    Knowing your real capacity is powerful. It's almost impossible to become
+    oversubscribed if you don't know what your capacity is.
+    
+    let's take a look at the problem you solve for people. High value products and
+    services are linked to four underlying drivers:
+    1. Save or make money.
+    2. Save time or eliminate wastage.
+    3. Bring increased emotional benefits.
+    4. Ease pain, suffering or negative emotions.
+    
+    Becoming oversubscribed is about finding a market that highly values you, has
+    the capacity to pay you, and that you want to serve.
+    
+    Your goal isn't to tell people why they should be delighted; your goal
+    is to watch and see if people ARE delighted after doing business with you. If
+    they aren't, then you have a problem – and no amount of explaining why they
+    should be will change the fact that they aren't
+    
+    “Training and development is key. Depending on how fast you
+    want to grow, you must commit to spending 5–15% of your income on highquality
+    training and development so you're always at the cutting edge.”
+    
+    You now know the capacity of clients you want to achieve in the year ahead in
+    order to be oversubscribed. So let's break that number down.
+    
+    Your business will sell more of its core offering if you produce more productsfor-
+    prospects too. It's a simple activity: your job is to create scalable products
+    that help to educate or entertain your market. Ideally, you also want to create a
+    product-for-prospects that helps you to learn more about your client, too. You
+    might want their contact details or to better understand their needs. An elegant
+    product-for-prospects will achieve those goals.
+    
+    Saying yes when you can't deliver sets you up to fail.
+    
+    After accepting
+    more customers than you can handle, you figure that you'll surely find a
+    way to look after them – somehow. You'll hire more staff, buy new
+    equipment, or outsource to a third party supplier. But those things still take
+    up your time and take you away from the care and attention you'd planned
+    on giving to your clients. By exceeding your capacity, you run the risk of
+    letting down each and every one of your clients – not just the extra few.
+
+    2. People will learn not to take you at your word. If you go over your
+    capacity, people will eventually find out and will assume everything you
+    say is nothing more than a gimmick. They will assume your special price is
+    the normal price, your limited-time offer is available all the time and your
+    exclusive deal is for anyone. When you stick to your guns, people learn that
+    you mean business – and if they want to access your products and services,
+    they'd better take action when you ask them to.
+
+    3. Every person you turn away is a walking advertisement for your
+    brand. Have you considered that people very rarely get turned away from
+    spending money and they will probably tell quite a few friends when it
+    happens to them? They will say, “I tried to pay more, I begged, I negotiated
+    and pleaded but they didn't budge and refused to take my money!” That
+    story gets around and your business becomes known for it.
+    
+    Is your brochure worth passing
+    on to a friend? Is your service worth tweeting about? Would I take a photo of
+    your product and upload it on Facebook?
+    
+    The real test for your business to pass is whether it is worthy of being talked
+    about. Will people speak positively about you after they have purchased? Will
+    they share your story? Will they recommend you to their friends? Would a
+    customer link to your blog from their website? Is your brochure worth passing
+    on to a friend? Is your service worth tweeting about? Would I take a photo of
+    your product and upload it on Facebook? Would someone make a YouTube
+    video about how wonderfully your staff treated them? Would your staff tell their
+    friends they should work for your company? Would a competitor say they want
+    to be like you? Would the newspapers write a positive story about you?
+    
+    To create a high performing team, you need a high performance culture. For a
+    small team, culture is about setting a standard for performance and a way of
+    interacting that brings out the desired results
+    
+    You get what you pitch for and you're always pitching: Words have
+    power. You can speak into existence almost any outcome. Be careful what
+    you talk about, because you could be “pitching into existence”.
+    
+    Five core strengths make someone a Key Person of Influence, and like any other
+    skills, anyone can learn and develop these strengths:
+
+    1. Pitching: The ability to clearly communicate your message in a way that
+    influences people to become involved in your projects. You'll need pitching
+    skills to get your team together, and to procure funding, partners and sales.
+
+    2. Publishing: The ability to write compelling blogs, articles, reports and
+    content that people can read, relate to and share with others. Being
+    oversubscribed requires you to spread a message, and today that means the
+    message needs to be in print and online.
+
+    3. Productizing: The ability to turn valuable insights into products (or
+    “productized service-offerings”) that can scale. Hot products are at the
+    centre of every oversubscribed business.
+
+    4. Profile: The ability to take ideas “above the noise” and to gain visibility for
+    yourself and your cause. It also means that this Key Person of Influence has
+    an existing profile that they can leverage.
+
+    5. Partnerships: The ability to form strategic alliances with other valuable
+    people who can make things happen faster.
+    
+    
+    Research suggests that if the average score is less than 7 out of 10, you've got no
+    chance at growing your business or becoming profitable in the long term. If you
+    score highly, your business has a future.
+    This is why your head of operations needs to live or die by this number. They
+    need to go to bed thinking about it, wake up thinking about it and spend all day
+    doing what they can to improve it.
+    
+    1. Build a better product – A brilliant product will return a great result for
+    Net Promoter Score. If it solves a problem better than anyone expected,
+    then it's going to be hot. A great ops person will always want to improve the
+    product, and it will never be good enough for them. If you let them tinker,
+    they will go above and beyond good judgment to make the product better.
+
+    2. Build a better system of delivery – A great product becomes too
+    expensive if the system of delivery is inefficient. The value you offer is the
+    end result; but inefficiency in how you deliver that pushes costs up, and
+    passes them along to customers or shareholders. Either way, the business is
+    at risk if the systems are sloppy.
+
+    3. Change the target market – If you try to sell a Ferrari to family of five,
+    you will have a low NPS score. The product is world-class, but it's not right
+    for a large family; they would be a lot happier with a sedan. Likewise, if
+    your product is presented to the wrong market, you'll score low on the NPS.
+    The ops person needs to give feedback to the marketing person about the
+    types of people who are loving the product – and those who aren't.
+
+    4. Change the expectations – Expectations are created by marketing and
+    sales people, product packaging, and product delivery or through the client
+    on boarding process. A good ops person is always on the lookout for the
+    expectations that have been set for the clients. They either need to deliver
+    upon those expectations, or make sure people aren't setting those
+    expectations too high in the first place. For example, if a sales person is
+    making preposterous claims in order to win a sale, the ops person needs to
+    nip it in the bud
+    
+    Business isn't inherently fun. A lot of people experience pain, humiliation,
+    heartbreak and despair as a result of being in business. It can be lonely,
+    frustrating and can suck the life out of you as it drags on over the years
+    
+    
+    The dream people are sold is that business is a barrel of laughs. Being an
+    entrepreneur is a path to freedom and adventure. I can tell you that most business
+    people I meet aren't living the dream. But the successful ones I know have
+    something in common: they are oversubscribed.
+
+    They have more opportunities than they know what to do with. They have more
+    customers than they can handle. They have investors lining up. They can pick
+    and choose their next adventure with all the options open. They enjoy the stress
+    of being spoilt for choice rather than being out of options.
+
+    Being oversubscribed is the gateway to enjoying business. Get yourself into that
+    position and surf the wave.`
+  }, {
+    id: '17',
+    title: 'Power of Now',
+    body: `I am that stranger who has nothing to give you and who is telling you to look
+    inside. Not inside any box, as in the parable, but somewhere even closer: inside
+    yourself.
+    
+    Just because you can solve a crossword puzzle or build an atom bomb doesn’t
+    mean that you use your mind. Just as dogs love to chew bones, the mind loves to
+    get its teeth into problems. That’s why it does crossword puzzles and builds atom
+    bombs. You have no interest in either. Let me ask you this: can you be free of
+    your mind whenever you want to? Have you found the “off” button?
+    
+    Then the mind is using you. You are unconsciously identified with it, so you
+    don’t even know that you are its slave. It’s almost as if you were possessed
+    without knowing it, and so you take the possessing entity to be yourself
+    
+    
+    The beginning of freedom is the realization that you are not the possessing entity
+    
+    Instead of “watching the thinker,” you can also create a gap in the mind stream
+    simply by directing the focus of your attention into the Now. Just become
+    intensely conscious of the present moment. This is a deeply satisfying thing to
+    do. In this way, you draw consciousness away from mind activity and create a
+    gap of no-mind in which you are highly alert and aware but not thinking. This is
+    the essence of meditation.
+    
+    In your everyday life, you can practice this by taking any routine activity that
+    normally is only a means to an end and giving it your fullest attention, so that it
+    becomes an end in itself. For example, every time you walk up and down the
+    stairs in your house or place of work, pay close attention to every step, every
+    movement, even your breathing. Be totally present. Or when you wash your
+    hands, pay attention to all the sense perceptions associated with the activity: the
+    sound and feel of the water, the movement of your hands, the scent of the soap,
+    and so on. Or when you get into your car, after you close the door, pause for a
+    few seconds and observe the flow of your breath. Become aware of a silent but
+    powerful sense of presence. There is one certain criterion by which you can
+    measure your success in this practice: the degree of peace that you feel within.
+    
+    As it is, I would say about 80 to 90
+    percent of most people’s thinking is not only repetitive and useless,
+    
+    The present moment holds the key to liberation. But you cannot find the present
+    moment as long as you are your mind.
+    
+    Instead of “watching the thinker,” you can also create a gap in the mind stream
+    simply by directing the focus of your attention into the Now. Just become
+    intensely conscious of the present moment. This is a deeply satisfying thing to
+    do. In this way, you draw consciousness away from mind activity and create a
+    gap of no-mind in which you are highly alert and aware but not thinking. This is
+    the essence of meditation.
+    
+    In your everyday life, you can practice this by taking any routine activity that
+    normally is only a means to an end and giving it your fullest attention, so that it
+    becomes an end in itself. For example, every time you walk up and down the
+    stairs in your house or place of work, pay close attention to every step, every
+    movement, even your breathing. Be totally present. Or when you wash your
+    hands, pay attention to all the sense perceptions associated with the activity: the
+    sound and feel of the water, the movement of your hands, the scent of the soap,
+    and so on. Or when you get into your car, after you close the door, pause for a
+    few seconds and observe the flow of your breath. Become aware of a silent but
+    powerful sense of presence. There is one certain criterion by which you can
+    measure your success in this practice: the degree of peace that you feel within.
+    
+    As it is, I would say about 80 to 90
+    percent of most people’s thinking is not only repetitive and useless,
+    
+    The present moment holds the key to liberation. But you cannot find the present
+    moment as long as you are your mind.
+    
+    I don’t want to lose my ability to analyze and discriminate. I wouldn’t mind
+    learning to think more clearly, in a more focused way, but I don’t want to lose my
+    mind. The gift of thought is the most precious thing we have. Without it, we
+    would just be another species of animal.
+    
+    So observing our emotions is as important as observing our thoughts?
+    
+    Yes. Make it a habit to ask yourself: What’s going on inside me at this moment?
+    That question will point you in the right direction. But don’t analyze, just watch.
+    Focus your attention within. Feel the energy of the emotion. If there is no
+    emotion present, take your attention more deeply into the inner energy field of
+    your body. It is the doorway into Being
+    
+    There are two levels to your pain: the pain that you create now, and the pain
+    from the past that still lives on in your mind and body. Ceasing to create pain in
+    the present and dissolving past pain
+    
+    Focus attention on the feeling inside you. Know
+    that it is the pain-body. Accept that it is there. Don’t think about it — don’t let
+    the feeling turn into thinking. Don’t judge or analyze. Don’t make an identity for
+    yourself out of it. Stay present, and continue to be the observer of what is
+    happening inside you. Become aware not only of the emotional pain but also of
+    “the one who observes,” the silent watcher. This is the power of the Now, the
+    power of your own conscious presence.
+    
+    Instead of “watching the thinker,” you can also create a gap in the mind stream
+    simply by directing the focus of your attention into the Now. Just become
+    intensely conscious of the present moment. This is a deeply satisfying thing to
+    do. In this way, you draw consciousness away from mind activity and create a
+    gap of no-mind in which you are highly alert and aware but not thinking. This is
+    the essence of meditation.
+    
+    In your everyday life, you can practice this by taking any routine activity that
+    normally is only a means to an end and giving it your fullest attention, so that it
+    becomes an end in itself. For example, every time you walk up and down the
+    stairs in your house or place of work, pay close attention to every step, every
+    movement, even your breathing. Be totally present. Or when you wash your
+    hands, pay attention to all the sense perceptions associated with the activity: the
+    sound and feel of the water, the movement of your hands, the scent of the soap,
+    and so on. Or when you get into your car, after you close the door, pause for a
+    few seconds and observe the flow of your breath. Become aware of a silent but
+    powerful sense of presence. There is one certain criterion by which you can
+    measure your success in this practice: the degree of peace that you feel within.
+    
+    As it is, I would say about 80 to 90
+    percent of most people’s thinking is not only repetitive and useless,
+    
+    The present moment holds the key to liberation. But you cannot find the present
+    moment as long as you are your mind.
+    
+    I don’t want to lose my ability to analyze and discriminate. I wouldn’t mind
+    learning to think more clearly, in a more focused way, but I don’t want to lose my
+    mind. The gift of thought is the most precious thing we have. Without it, we
+    would just be another species of animal.
+    
+    So observing our emotions is as important as observing our thoughts?
+    
+    Yes. Make it a habit to ask yourself: What’s going on inside me at this moment?
+    That question will point you in the right direction. But don’t analyze, just watch.
+    Focus your attention within. Feel the energy of the emotion. If there is no
+    emotion present, take your attention more deeply into the inner energy field of
+    your body. It is the doorway into Being
+    
+    There are two levels to your pain: the pain that you create now, and the pain
+    from the past that still lives on in your mind and body. Ceasing to create pain in
+    the present and dissolving past pain
+    
+    Focus attention on the feeling inside you. Know
+    that it is the pain-body. Accept that it is there. Don’t think about it — don’t let
+    the feeling turn into thinking. Don’t judge or analyze. Don’t make an identity for
+    yourself out of it. Stay present, and continue to be the observer of what is
+    happening inside you. Become aware not only of the emotional pain but also of
+    “the one who observes,” the silent watcher. This is the power of the Now, the
+    power of your own conscious presence.
+    
+    But if you are fortunate enough
+    to find someone who is intensely conscious, if you can be with them and join
+    them in the state of presence, that can be helpful and will accelerate things. In
+    this way, your own light will quickly grow stronger. When
+    
+    As long as the egoic mind is running your life, you cannot truly be at ease; you
+    cannot be at peace or fulfilled except for brief intervals when you obtained what
+    you wanted, when a craving has just been fulfilled. Since the ego is a derived
+    sense of self, it needs to identify with external things. It needs to be both
+    defended and fed constantly.
+    
+    All negativity is caused by an accumulation of psychological time and denial of
+    the present. Unease, anxiety, tension, stress, worry — all forms of fear — are
+    caused by too much future, and not enough presence. Guilt, regret, resentment,
+    grievances, sadness, bitterness, and all forms of nonforgiveness are caused by
+    too much past, and not enough presence
+    
+    .” Ultimately, this is not about solving your problems. It’s about
+    realizing that there are no problems. Only situations — to be dealt with now, or
+    to be left alone and accepted as part of the “isness” of the present moment until
+    they change or can be dealt with.
+    
+    If there is no joy, ease, or lightness in what you are doing, it does not necessarily
+    mean that you need to change what you are doing. It may be sufficient to change
+    the how. “How” is always more important than “what.” See if you can give
+    much more attention to the doing than to the result that you want to achieve
+    through it. Give your fullest attention to whatever the moment presents. This
+    implies that you also completely accept what is, because you cannot give your
+    full attention to something and at the same time resist it.
+    
+    Make it a habit to monitor your mental-emotional state through self-observation.
+    “Am I at ease at this moment?” is a good question to ask yourself frequently. Or
+    you can ask: “What’s going on inside me at this moment?” Be at least as
+    interested in what goes on inside you as what happens outside. If you get the
+    inside right, the outside will fall into place. Primary reality is within, secondary
+    reality without. But don’t answer these questions immediately. Direct your
+    attention inward. Have a look inside yourself. What kind of thoughts is your
+    mind producing? What do you feel? Direct your attention into the body. Is there
+    any tension? Once you detect that there is a low level of unease, the background
+    static, see in what way you are avoiding, resisting, or denying life — by denying
+    the Now. There are many ways in which people unconsciously resist the present
+    moment.
+    
+    Your unhappiness is
+    polluting not only your own inner being and those around you but also the
+    collective human psyche of which you are an inseparable part. The pollution of
+    the planet is only an outward reflection of an inner psychic pollution: millions of
+    unconscious individuals not taking responsibility for their inner space.
+    
+    Then accept the consequences. No excuses. No negativity. No psychic pollution.
+    Keep your inner space clear
+    
+    Any action is often better than no action, especially if you have been stuck in an
+    unhappy situation for a long time. If it is a mistake, at least you learn something,
+    in which case it’s no longer a mistake. If you remain stuck, you learn nothing. Is
+    fear preventing you from taking action
+    
+    What is the power of Now?
+    None other than the power of your presence, your consciousness liberated from
+    thought forms.
+    
+    What is essential is your conscious
+    presence. That dissolves the past.
+    
+    The past cannot survive in
+    your presence. It can only survive in your absence.
+    
+    If they do not
+    free themselves from their mind in time, they will be destroyed by it. They will
+    experience increasing confusion, conflict, violence, illness, despair, madness.
+    Egoic mind has become like a sinking ship. If you don’t get off, you will go
+    down with it. The collective egoic mind is the most dangerously insane and
+    destructive entity ever to inhabit this planet.
+    
+    Attention is like a beam of light — the focused
+    power of your consciousness that transmutes everything into itself.
+    
+    There is nothing you can ever do or attain that will get you closer to salvation
+    than it is at this moment. This may be hard to grasp for a mind accustomed to
+    thinking that everything worthwhile is in the future. Nor can anything that you
+    ever did or that was done to you in the past prevent you from saying yes to what
+    is and taking your attention deeply into the Now. You cannot do this in the
+    future. You do it now or not at all
+    
+    
+    Yes. Happiness depends on conditions being perceived as positive; inner peace
+    does not.
+    Is it not possible to attract only positive conditions into our life? If our attitude
+    and our thinking are always positive, we would manifest only positive events and
+    situations, wouldn’t we?
+    
+    The same condition that was
+    good yesterday or last year has suddenly or gradually turned into bad. The same
+    condition that made you happy then makes you unhappy.
+    
+    The Buddha taught that even your happiness is dukkha
+    
+    `
+  }, {
+    id: '20',
+    title: 'Road to Freedom',
+    body: `No matter how visionary or how brilliant, a great idea or a great
+    product isn't worth much if no one buys it. Wozniak's best friend at
+    the time, the twenty-one-year-old Steve Jobs, knew exactly what to
+    do. Though he had experience selling surplus electronics parts, Jobs
+    would prove to be much more than a good salesman. He wanted to
+    do something significant in the world, and building a company was
+    how he was going to do it. Apple was the tool he used to ignite his
+    revolution.
+    
+    They weren't the only smart guys in the
+    business; in fact, they didn't know much about business at all. What
+    made Apple special was not their ability to build such a fast-growth
+    company. It wasn't their ability to think differently about personal
+    computers. 
+    
+    Great leaders, in contrast, are able to inspire people to act. Those
+    who are able to inspire give people a sense of purpose or belonging
+    that has little to do with any external incentive or benefit to be
+    gained. 
+    
+    Normal is not something to aspire to, it's something to get away from.
+    ~Jodie Foster
+    
+    The real golden years of life are when you're young, sentient, and vibrant.
+    
+    Learning is the product of a continuous real-time
+    feedback loop in which we make decisions, see their outcomes, and improve
+    our understanding of reality as a result. 
+    
+    b. Don’t let fears of what others think of you stand in your way. You must be
+    willing to do things in the unique ways you think are best—and to open 
+    mindedly reflect on the feedback that comes inevitably as a result of being
+    that way.
+    
+    `
+  }, {
+    id: '21',
+    title: 'Escape Ratrace',
+    body: `Most of the limiting factors to our financial success exist in the walls we all
+    have built up in our own minds, and achieving success lies in knocking down
+    those walls.
+    
+    Our lives are a sum total of the choices we have made.
+    — Wayne Dye
+    
+    "Are these people earning money to live a life or are they living to earn money?"
+    
+    Dream… Dream… and Dream…
+    Dream creates thoughts,
+    Thoughts create your actions
+    And actions create your destiny!
+    Dr. Abdul Kalam
+    
+    "Rat race is a term used for an
+    endless, self-defeating or pointless pursuit. It
+    conjures up the image of the futile efforts of a
+    lab rat trying to escape while running around
+    a maze or in a wheel. In an analogy to the
+    modern city, many rats in a single maze
+    expend a lot of effort running around, but
+    ultimately achieve nothing
+    
+    Academic qualifications are important and so is financial education.
+    They’re both important and schools are forgetting one of them.
+    — Robert Kiyosaki
+    
+    your money is working for
+    you even while you sleep. Your money is like an employee (or a slave) whom
+    you do not have to pay a monthly salary to. It will work to make more money for
+    you until the fixed deposit tenure is over
+    
+    .As Warren Buffet, the world's most famous billionaire investor once said:
+    "Most people get interested in stocks when everyone else is. The time to get
+    interested is when no one else is. You can't buy what is popular and do well."
+    
+    believe that we should never sell either real estate
+    or stocks because they are the source of incoming cash flows
+    
+    By themselves, bonds may not offer too much, but combined with other
+    stock investments, they can give balance to a portfolio.
+    
+    When buying property for the purpose of investing, the most important factor
+    to consider is the location. Unlike other investments, real estate is dramatically
+    affected by the condition of the immediate area surrounding the property and
+    other local factors.
+    
+    Several factors need to be considered when assessing the value of real estate.
+    This includes the age and condition of the property, improvements that have
+    been made, recent sales in the neighbourhood, changes to zoning regulations,
+    etc. You have to look at the potential income a house can produce and how it
+    compares to other houses in the area.
+    
+    This kind of mortgage or loan or debt that creates an asset for you is also
+    termed as "good debt" by many financial planners. This debt is good because
+    this debt acts like an asset since it pays you more than it takes from you.
+    
+    Let's Create & Track Your Own Financial
+    Freedom Plan Those who plan do better than
+    those who do not plan even though they may
+    not be able to stick to their plan.
+    
+    Step 1:
+    Establish your Cash Flow Calculate your cash inflow
+    (what you get every month) and outflow (what you
+    spend every month).
+    Step 2 : Identify your Assets, Liabilities and Net
+    Worth~50
+    Calculate your Net Worth as of now, counting all possible assets and liabilities.
+    
+    Step 3 : Create a High Level Financial Freedom Plan
+    Identify your Special Life Events, estimate and assess
+    the size of your nest egg, which will be adequate to
+    sustain your expenses and taxes, as well as take care of
+    inflation for the rest of your life. Establish the time
+    needed to build this nest egg, starting today.
+    
+    Step 4 : Create a Detailed Financial Freedom Plan
+    Create a month on month portfolio plan that ties up
+    with your high level financial freedom plan in Step 3.
+    This should allow you to track your journey month on
+    month.
+    month.
+    Step 5 : Execute your Financial Freedom Plan Once
+    you have a monthly plan in place, it is time to execute it.
+    For each asset class in your portfolio, execute your plan
+    considering vital tips from me, based on my experience
+    in this journey.
+    Step 6 : Track your Financial Freedom Plan monthly
+    Track the monthly nest egg target against the actual
+    nest egg value on a regular basis and make sure that
+    you stay on track.
+    Step 7 : Tune / Rebalance your Portfolio every year Use
+    trends based on the last year and previous years to see
+    which part of the portfolio is giving best returns, and
+    make your next year's investment decisions based on
+    that.
+    Step 8 : Celebrate milestones with your family Celebrate
+    each milestone during your journey with your family
+    and friends and give yourself a pat on the back.
+    These are the eight simple steps that can elevate your life forever.
+    
+    Role of Expense Calculation in Financial Freedom The
+    idea of establishing your cash flow is to fundamentally
+    understand your current standard of living. The
+    purpose is also to prepare this data as a feed for your
+    purpose is also to prepare this data as a feed for your
+    Financial Freedom Plan. Your Financial Freedom
+    corpus should be big enough to take care of your
+    standard of living (or Expenses) for the rest of your life,
+    after adjusting for inflation.
+    
+    Establish Cash Outflow This process of tracking your/
+    cash outflow is extremely interesting and eye opening. It
+    will make you think about your money. Who cares more
+    about your money than you? It is time to face the truth
+    and do so honestly. This is essential. This is the
+    foundation step to your entire financial dream.
+    
+    Track your expenses on a daily basis. Scientific studies have proven that a
+    daily track of expenses can reduce your expenses by as much as 15%.
+    If for any reason, you cannot track them daily, track them at the earliest
+    possible interval. The longer the interval, higher are the chances that you
+    will miss out tracking some of the expenses.
+    Involve your family in this activity. I have realised that giving the
+    ownership of this activity to your children helps you a lot.
+    You must keep tracking your expenses for the rest of your life. Expense
+    Tracking should be a habit, as is bathing or brushing your teeth. You should
+    feel something missing if you have not tracked your expenses on a specific
+    day. We may start with inconsistencies but we must keep improving. You
+    will continue to get surprised as you keep doing it every day every month
+    every year.
+    
+    Role of Saving Potential in Financial Freedom Our
+    saving potential is the fuel during our journey towards
+    financial freedom. Knowing our saving potential allows
+    us to calculate the speed at which we can undergo this
+    journey. The more is our saving potential, the faster we
+    can approach our financial freedom
+    
+    Role of Assets in Financial Freedom?
+    Assets happen to be the most critical cog in the wheel of financial freedom. You
+    become financially free when your assets grow big enough to feed your
+    expenses, after taking care of inflation, for the rest of your life, without you
+    actively pumping any more funds into it. This essentially means that your asset
+    base becomes self funding in nature.
+    
+    Assets minus liabilities give you your financial net worth.
+    
+    Step 3: Create a High Level Financial Freedom Plan
+    "Plan the work and work the plan" was our success
+    mantra as project managers in the software industry.
+    What it essentially means is that the first step is to
+    plan the work before starting to execute the work. In
+    our daily life, and similarly with financial planning,
+    we are often tempted to get started fast and not
+    "waste" our time on planning.
+    
+    But it has been proven time and again that a good plan is half the battle won.
+    Have a clear plan, stick to it and strive hard to 'achieve' or 'over-achieve' the
+    plan.
+    Such a plan will also make you think of innovative ways to meet your
+    milestones in the plan. You can use any project planning tool to create your
+    financial plan or, as I did it, you can use a simple Excel spreadsheet to plan your
+    financial freedom and then use the same to track the actual progress as compared
+    to the plan.
+    
+    vHigh Level Financial Independence Plan Planning
+    starts at a high level and needs certain key inputs from
+    the previous sections to proceed.
+    Creating a high level plan essentially needs the following mandatory inputs:
+    1. Start Point (your current net worth) (calculated in Step 2)
+    2. End Point (amount of money needed to become financially free i.e. your
+    target net worth)
+    3. Speed of Journey (Average Saving Potential – calculated in Step 1)
+    4. Time to reach from the starting point to the end point (calculated based on
+    above 3 points)
+    
+    Freedom start year
+    This is the year in which you attain your financial freedom
+    
+    Annual Portfolio Return on investments (post freedom)
+    This is the return that you can expect on your nest egg every year once
+    you reach financial freedom
+    
+    
+    At the minimum, we must track our journey towards financial freedom
+    on a monthly basis
+    
+    What is my monthly nest egg target this month?
+    Where have I reached compared to the target?
+    How am I performing? Will I be financially free by the target date?
+    What is my exact investment in each asset class of the portfolio?
+    
+    Comparing the actual nest egg amount with the planned nest egg
+    amount for each month gives you an idea whether you are on track
+    with your plan or not.
+    
+    I do not recommend Gold to be more than 10% of your overall
+    portfolio ever. It is just a hedge against inflation and good diversification
+    when markets are down.
+    
+    This is the big league investment. My personal recommendation for each one of
+    you would be to wait for at least 40–50 months after you start your journey
+    before you enter this league of investors. Remember, we are talking about real
+    estate as an investment and not about the house you live in
+    
+    But since this investment involves a huge amount of money and lacks
+    liquidity, it is recommended to be kept for the last leg of your financial freedom
+    journey or after you have achieved financial freedom.
+    
+    Always
+    keep in mind that no one can achieve anything of
+    one's own efforts only. There are innumerable
+    sacrifices (heard or unheard) that go in making one
+    person successful. It is time to honour those who
+    helped you relentlessly.
+    
+    Never give up. You only get one life. Go for it!
+    
+    KISS stands for 'Keep It Simple, Silly.' Financial terms and jargon can appear to
+    be complex and intimidating at times. However, let me assure you once again
+    that you do not need anything more than a logical mind to figure out what is
+    happening around you, and then take appropriate decisions of your own to learn
+    and earn as you progress.
+    
+    Your goals, your dreams, your passion is something that can take you to the
+    future and help you take informed decisions before you go on a spending spree.`
+  }, {
+    id: '22',
+    title: 'Why a students work for c students and b students work for government',
+    body: `Schools are about finding a high-paying job rather than creating highpaying
+    jobs.
+
+    Schools are about climbing the corporate ladder rather than how to create
+    companies and corporate ladders.
+
+    Schools are about job security rather than financial freedom, which is why
+    most employees live in fear of "losing their job."
+    
+    the school system cannot admit they are not preparing
+    children for the real world. That would be admitting to failure—and we all know
+    what failure means in the school system
+    
+    It means the school thinks your child is not smart—but it really only means that
+    your child isn’t doing what the school tells them to do.
+    
+    Genius is an acronym for "Geni-in-us"—the genie or magician in each of us.
+    
+    the Federal Reserve Bank in the United States, are printing trillions of dollars
+    contributing to the destruction of the purchasing power of people’s savings.
+    
+    "Good debt
+    can make you richer
+    
+    Once upon a time, all a person had to do was go to college and they were
+    virtually assured of earning more money than those who did not graduate from
+    college. Today this is a fairy tale.
+    
+    The Future of Education
+    1. Academic Education
+    Professional Education
+    Financial Education
+    
+    The world of tomorrow
+    belongs to those who can process information, see relationships and trends, and
+    be agile and responsive to change as the world changes.
+    
+    During the Agrarian Age and Industrial Age, being older was an asset.
+    Older meant wiser. In the Information Age, being older is a liability
+    
+    Motivate: The word comes from Latin "motere" meaning
+    "to move."
+    
+    True financial education must include lessons on taxes, who pays them, and
+    why some people are offered tax breaks.
+    
+    In the words of Albert Einstein:
+    "Education is what remains after one has forgotten what one has learned in
+    school."
+    
+    "If a father has a weak financial statement, the entire family
+    suffers. If a business has a weak financial statement, the employees suffer.
+    And if country has a weak financial statement, the citizens suffer.
+    
+    Words have the power to build people up…or tear them down. They can inspire
+    and empower; they can be devastate and demoralize. The magic of words if that
+    they are free—and we have the power to choose the words we use.
+    
+    The poor work for ordinary income.
+
+    The middle class work primarily for portfolio income. This includes
+    capital gains, increases in value on their home, stock market investments,
+    and retirement accounts.
+
+    The rich work for passive income. This means cash flowing in, whether
+    they work or not.
+    
+    
+    The primary skills I learned from rich dad were the skills for the B and I
+    quadrants. The basic skills are:
+    Know how to raise capital
+    Know how to lead people
+    Know how to design businesses
+    Know how to use debt to make more money
+    
+    A person is limited only by his
+    or her imagination.
+    education and practice—
+    lots of practice—before doing the real thing.
+    
+    education and practice—
+    lots of practice—before doing the real thing.
+    
+    Leadership skills are important for entrepreneurs.
+    
+    An Information-Age World
+    In this Information Age, the emperor of education truly does have no clothes.
+    And, thanks to the innovations of modern-day entrepreneurs, quality education
+    can be affordable and accessible. And, like the era when Henry Ford made the
+    automobile affordable for almost everyone, today’s true capitalists are doing that
+    with education.
+    
+    I know many experts will say that it is not good to scare kids, but this is not
+    about scaring them. It is about preparing them for the future.
+    
+    "Problems can make you smarter. Problems can also make
+    you poorer. It’s your choice."
+    
+    The three early windows of learning are:
+    First window: Birth to age 12
+    Second window: Age 12 to age 24
+    Third window: Age 24 to age 36
+    
+    If a person is described as "right-brain dominant," the person is more artistic,
+    creative, and more free-flowing in their approach to life. If a person is described
+    as "left-brain dominant," the person is more bookish, less creative, and more
+    linear. The left brain is where speech, reading, writing, and math skills and
+    aptitudes are said to come from. Traditional schools believe left-brain-dominant
+    students are smart.
+    
+    So there is some truth to the saying, "You can’t teach an old dog new tricks."
+    The older you get, the more learning slows, and the harder it becomes harder to
+    build new neural pathways
+    
+    A schoolteacher may teach your child for a semester or a year, but a parent is a
+    teacher for life. The consistency and stability that a parent brings to a child’s life
+    as that life-long teacher—throughout all the windows of learning—reiterates
+    why parents are a child’s most important teachers.
+    
+    I can still hear my rich dad saying, "If going to school made you rich, then
+    schoolteachers would be millionaires."
+    
+    As Einstein once said, "Simplicity is genius."
+    
+    Learn from the experience, grow from it, and move on.
+    
+    "Thinking is the hardest work there is…which is probably the reason why so few
+    people engage in it."
+    
+    "Each quadrant is a different classroom. Each classroom teaches
+    different subjects, develops different skills, and requires different teachers."
+    
+    One day, a group of his employees got together to
+    unionize his hotel and restaurant operations. He backed them down saying, "I’ll
+    shut down the business and all of you will lose your jobs if you unionize. I can
+    start a new business and I don’t need the money, but you need your jobs. I’ve
+    been fair to you and your families. All I ask is for you to be fair to me and my
+    family." When the vote was taken, the union lost.
+    
+    If they have a secure attitude towards
+    learning, they may value learning over money.
+    
+    the dropouts’ average net worth was much greater
+    than that of their college-graduate peers
+    
+    Insanity is doing the same thing over and over again and expecting a
+    different result.
+    It is insanity to say to your child, "Go to school and get a job," when jobs are
+    being shipped overseas or replaced by advances in technology.
+    It is insanity to say, "Work hard," when the harder you work, to earn more
+    money, the more taxes you pay.
+    It is insanity to say, "Save money," when money is no longer money…but debt,
+    an IOU from the taxpayers.
+    It is insanity to say, "Your house is an asset," when it is really a liability.
+    It is insanity to say, "Invest for the long term in the stock market," when
+    professional investment houses are using multi-million dollar computers to
+    invest for the short-term, often in and out in milli-seconds for HFT, HighFrequency
+    Trading, against amateur investors…in some cases their own clients.
+    You may as well go to Las Vegas.
+    
+    "We can’t solve problems by using the same kind of thinking we used when we
+    created them."
+    "I
+    must be rich."
+    2. "I own my own business and my work is my life."
+    3. "Freedom is more important than security."
+    4. "I take on challenges so I can learn more."
+    5. "I want to find out how far I can go in life."
+    
+    "teaching pigs to sing" he saw it as a lose lose
+    proposition: "It wastes your time. And it annoys the pig."
+    
+    "You cannot teach a poor person to be rich until they change their context.
+    Teaching a person with poor or middle class person’s context is a waste of
+    time…and it does annoy them."
+    
+    Just as the Cone of Learning illustrates, it was a process of
+    simulation, before doing the real thing.
+    Simulation in the world of sports is known as practice. In the theater, simulation
+    is known as rehearsals.
+    
+    Emotional intelligence is essential for long-term success. In practice it may
+    mean:
+    Going to the gym rather than staying in bed
+    Taking financial education classes even if you don’t want to
+    Being kind, when others aren’t
+    Going for a walk, rather than eating
+    Not having a drink, even if you want one
+    Telling the truth, even if it makes you look bad
+    Making a phone call you don’t want to make
+    Volunteering even when you are busy
+    Controlling your temper instead of losing it
+    Turning the TV off and spending time with your family, especially if your
+    favorite show is on
+    
+    Notice that the B-I Triangle is made up of the 8 Integrities of a business. They
+    are:
+    1. Mission
+    2. Leadership
+    3. Team
+    4. Product
+    5. Legal
+    6. Systems
+    7. Communications
+    
+    Why Most Entrepreneurs Fail
+    1. The entrepreneur does not have all 8 integrities in place. For example,
+    most new entrepreneurs focus on product. They may have a great product, but
+    are likely deficient in some or all of the other 7 integrities.
+
+    2. The entrepreneur is a mono-professional. The saying "Birds of a feather
+    flock together" applies here. For example, attorneys get together with other
+    attorneys to form a business such as a law practice. Or techies get together with
+    other techies to form a web company. Again, they may be smart professionals,
+    but they will lack professional strength at the other 7 integrities.
+
+    3. The entrepreneur lacks a sense of mission. You will recall that, among the
+    Seven Intelligences, emotional intelligence and a sense of mission is essential in
+    carrying an entrepreneur through the ups and downs of starting a business.
+    Almost all notable entrepreneurs faced trials and tribulations that would destroy
+    mere mortals.
+    
+    "Success has many parents, but failure is an orphan."
+    
+    1. Morality: you don’t have to cheat people to be rich
+    2. Creativity: tap into your genius
+    3. Spontaneity: live without the fear of making mistakes
+    4. Problem solving: focus on solutions
+    5. Lack of prejudice: having a wider context on life
+    6. Acceptance of Fact: not afraid to face the truth
+    
+    In school, you are intelligent if your right answers agree with your teacher’s
+    right answers. If your answers agree with the teacher’s answers, you are an "A"
+    student.
+    
+    "You cannot bring about prosperity by discouraging thrift.
+    You cannot strengthen the weak by weakening the strong. You cannot
+    help the wage earner by pulling down the wage payer. You cannot
+    further the brotherhood of man by encouraging class hatred. You
+    cannot help the poor by destroying the rich. You cannot keep out of
+    trouble by spending more than you earn. You cannot build character
+    and courage by taking away man’s initiative and independence. You
+    cannot help men permanently by doing for them what they could and
+    should do for themselves."
+    
+    When something bad happens, you have 3 choices which are
+    1) You can let it define you.
+    2) You can let it destroy you.
+    3) You can let it strengthen you.`
+  }, {
+    id: '23',
+    title: 'Varsity',
+    body: `The challenge of trading is to accurately perceive risk, control our emotions, and execute a trade calmly and rationally. Overconfident traders, 
+    however, may have an inability to accurately gauge their emotions
+
+    but if you are prone to seek out risk, you might want to focus on the potential consequences of loss. 
+    It will stop you from making trades that may decimate your account balance.
+   
+   Novice traders are infamous for needing to be right. This natural, human tendency is so powerful that novice traders engage in unproductive trading behaviors to avoid admitting that they are wrong. 
+   They might hold on to a losing trade
+   
+   you will make more progress on some days than others, but what is most important is that you never give up and spend every day working toward your goal.
+   
+   There are too many issues to attend to, and without a wealth of experience, you are bound to make mistakes. Making a specific action plan while trading has clear benefits.
+    Scientific research illustrates how action plans help people achieve their goals. Dr. Peter Gollwitzer, Professor of Psychology at New York University, has 
+    conducted several studies that demonstrate the benefits of making specific plans that outline when, where, and how to perform an action.
+   
+   In a review of relevant studies on making specific action plans, Dr. Gollwitzer argues that plans allow people to more easily remember what to do specifically. 
+   They don’t waste time trying to recall what it is they are going to do. They have decided what to do, and when, 
+   beforehand and have little trouble doing what they had planned. Second, research has shown that people respond quickly when they have a plan to follow.
+   
+   Third, when people have a plan, they can more easily ignore interruptions and distractions. They are able to more easily focus on the task at hand, maintaining self-control. Action plans are especially useful when trying to respond during high-stress situations, such as during a day when the market action is hard to pin down. 
+   
+    it’s hard to predict every possible adverse event. 
+    no matter how unlikely, but you must be ready for the worst. You should be psychologically prepared for big setbacks and be ready to take them in stride should they occur.
+    Regret is so incredibly painful at times that many traders avoid even putting on a trade for fear of having to face the regret of loss later. It’s as
+     if the subsequent regret after making a loss is more disturbing to the psyche than the actual loss itself.
+
+   There are a few simple ways to cope with regret. The most important way to cope with regret is to accept the fact that regret is an emotion that you’ll be likely to experience as a trader. 
+   You’re going to make losing trades, and if you don’t take proper precautions, you will feel regret. It’s not useful to delude yourself into thinking that you can avoid regret completely
+   it’s also important to remember that a single losing trade (or even a few losing trades) doesn’t mean that you have poor trading skills; it may just be a run of bad luck. 
+   
+    The outcome of the trade should not influence the positive view you have of yourself as a person.`
+  }, {
+    id: '24',
+    title: 'Trading in the zone',
+    body: `
+    (1) you don't need to know what's going to happen next to make money; 
+    (2) anything can happen; and 
+    (3) every moment is unique, meaning every edge and outcome is truly a unique experience.
+    
+    How do we remain disciplined, focused, and
+    confident in the face of constant uncertainty? When you have learned how to "think" like a trader, that's
+    exactly what you'll be able to do. Learning how to redefine your trading activities in a way that allows
+    you to completely accept the risk is the key to thinking like a successful trader. Learning to accept the
+    risk is a trading skill—the most important skill you can learn.
+    
+    The best traders aren't afraid. They aren't afraid because they have developed attitudes that
+    give them the greatest degree of mental flexibility to flow in and out of trades based on what the market
+    is telling them about the possibilities from its perspective.
+    
+    In trading, no one (except yourself) is going to force you to decide in advance what your risk is.
+    
+    For everyone else, defining the
+    risk in advance would force you to confront the reality that each trade has a probable outcome, meaning
+    that it could be a loser. Consistent losers do almost anything to avoid accepting the reality that, no
+    matter how good a trade looks, it could lose.
+    
+    The hard reality of trading is that, if you want to create consistency, you have to start from the premise
+    that no matter what the outcome, you are completely responsible. This is a level of responsibility few
+    people have aspired to before they decide to become traders
+    
+    To some degree, all of us have learned or developed techniques to make
+    the external environment conform to our mental (interior) environment
+    
+    The tools you will use to create this new version of yourself are your willingness and desire to learn,
+    fueled by your passion to be successful
+    
+    The way to take maximum advantage of a situation where you are being offered unlimited
+    opportunities to do something for yourself is to get into the flow.
+    
+    If you stop fighting the
+    market, which in effect means you stop fighting yourself, you'll be amazed at how quickly you will
+    recognize exactly what you need to learn, and how quickly you will learn it. Taking responsibility is
+    the cornerstone of a winning attitude. CH
+    
+     Accepting the risk means accepting the consequences of your trades without emotional discomfort or fear when at the moment you
+    perceive the risk, you simultaneously feel discomfort and fear? In other words, how do you remain confident and pain-free when you are absolutely certain you can be proved wrong, lose money, miss
+    out, or leave money on the table?
+    
+    If your goal is to be able to trade like the professionals, you must be able to see the market from an
+    objective perspective, without distortion. You must be able to act without resistance or hesitation, but
+    with the appropriate amount of positive restraint to counteract the negative effects of overconfidence or
+    euphoria.
+    
+    If there is such a thing as a secret to the nature of trading, this is it: At the very core of one's ability 
+    1) to trade without fear or overconfidence, 
+    2) perceive what the market is offering from its perspective, 
+    3) stay completely focused in the "now moment opportunity flow," and 
+    4) spontaneously enter the "zone," it is a strong virtually unshakeable belief in an uncertain outcome with an edge in your favor. The best
+    traders have evolved to the point where they believe, without a shred of doubt or internal conflict, that
+    "anything can happen."
+    
+    who have learned to think in probabilities are confident of their overall success, because they commit
+    themselves to taking every trade that conforms to their definition of an edge.
+    
+    On the
+    other hand, if you believe that all you need to know is:
+    1. the odds are in your favor before you put on a trade;
+    2. how much it's going to cost to find out if the trade is going to work;
+    3. you don't need to know what's going to happen next to make money on that trade; and
+    4. anything can happen;
+    
+    How Beliefs Shape Our Lives
+    1. They manage our perception and interpretation of environmental information in a way that is
+    consistent with what we believe.
+    2. They create our expectations. Keep in mind that an expectation is a belief projected into some future
+    moment. Since we can't expect something we don't know about, we could also say that an expectation
+    is what we know projected into some future moment.
+    3. Anything we decide to do or any outward expression of behavior will be consistent with what we
+    believe.
+    4. Finally, our beliefs shape how we feel about the results of our actions.
+    
+    1. Build the self-trust necessary to operate in an unlimited environment.
+    2. Learn to flawlessly execute a trading system.
+    3. Train your mind to think in probabilities (the five fundamental truths).
+    4. Create a strong, unshakeable belief in your consistency as a trader
+    
+    1. I objectively identify my edges.
+    2. I predefine the risk of every trade.
+    3. I completely accept risk or I am willing to let go of the trade.
+    4. I act on my edges without reservation or hesitation.
+    5. I pay myself as the market makes money available to me.
+    6. I continually monitor my susceptibility for making errors.
+    7. I understand the absolute necessity of these principles of consistent success and, therefore, I
+    never violate them.
+    
+    1. you have an edge that genuinely puts the odds of success in your favor;
+    2. you can think about trading in the appropriate manner (the five fundamental truths); and
+    3. you can do everything you need to do over a series of trades. Then, like the casinos, you will own the
+    game and be a consistent winner
+    
+    Why do casinos make consistent money on an event that has a random outcome? Because they know
+    that over a series of events, the odds are in their favor. They also know that to realize the benefits of the
+    favorable odds, they have to participate in every event. They can't engage in a process of picking and
+    choosing which hand of blackjack, spin of the roulette wheel, or roll of the dice they are going to
+    participate in, by trying to predict in advance the outcome of each of these individual events. If
+    
+    
+    `
+  }, {
+    id: '25',
+    title: 'The Psychology Of Money',
+    body: `What is the lesson for entrepreneurs
+    here? I have no idea, because risk and luck are so hard to pin
+    down
+    
+    The best (and worst) managers drive their employees as hard as they can.
+    “The customer is always right” and “customers don’t know what they want” are both accepted business wisdom
+    
+    But realize that not all success is due to hard work, and not all poverty is due to laziness
+    
+    Reputation is invaluable.
+    Freedom and independence are invaluable
+    
+    Being loved by those who you want to love you is invaluable.
+    Happiness is invaluable
+    
+    And your best shot at keeping these things is knowing when it’s time to stop taking risks that might harm them. Knowing when you have enough
+    
+    What is the lesson for entrepreneurs here? I have no idea, because risk and luck are so hard to pin down
+    
+    The best (and worst) managers drive their employees as hard as they can.
+    “The customer is always right” and “customers don’t know what they want” are both accepted business wisdom
+    
+    
+    But realize that not all success is due to hard work, and not all poverty is due to laziness
+    
+    Reputation is invaluable. Freedom and independence are invaluable
+    
+    Being loved by those who you want to love you is invaluable.
+    Happiness is invaluable
+    
+    And your best shot at keeping these things is knowing when
+    it’s time to stop taking risks that might harm them. Knowing
+    when you have enough
+    
+    Capitalism is hard. But part of the reason this happens is because
+    getting money and keeping money are two different skills.
+    Getting money requires taking risks, being optimistic, and putting
+    yourself out there.
+    
+    A wise old owl lived in an oak,
+    The more he saw the less he spoke,
+    The less he spoke, the more he heard,
+    Why aren’t we all like that wise old bird?
+    
+    No one—not a single person out of a thousand—said that to be
+    happy you should try to work as hard as you can to make
+    money to buy the things you want.
+
+    No one—not a single person—said it’s important to be at least
+    as wealthy as the people around you, and if you have more
+    than they do it’s real success.
+
+    No one—not a single person—said you should choose your
+    work based on your desired future earning power.
+    
+    It’s a subtle recognition that people generally aspire to be
+    respected and admired by others, and using money to buy
+    fancy things may bring less of it than you imagine. If respect
+    and admiration are your goal, be careful how you seek it.
+    Humility, kindness, and empathy will bring you more respect
+    than horsepower ever will
+    
+    SPENDING MONEY TO SHOW PEOPLE HOW MUCH MONEY YOU HAVE IS THE FASTEST WAY TO HAVE LESS MONEY.
+    
+    NO ONE IS IMPRESSED BY YOUR POSSESSION AS MUCH AS YOU ARE.
+    
+    HISTORY IS THE STUDY OF CHANGE IRONICALLY USED AS A MAP OF THE FUTURE.
+    
+    Fifteen billion people were born in the 19th and 20th centuries. But
+    try to imagine how different the global economy—and the whole
+    world—would be today if just seven of them never existed:
+    Adolf Hitler
+    Joseph Stalin
+    Mao Zedong
+    Gavrilo Princip
+    Thomas Edison
+    Bill Gates
+    Martin Luther
+    
+    What we know about investment cycles and startup failure rates is not a deep base of history to learn from, because the way companies are funded
+    today is such a new historical paradigm.
+    
+    THE MOST IMPORTANT PART OF EVERY PLAN IS PLANNING ON YOUR PLAN NOT GOING ACCORDING TO YOUR PLAN
+    
+    The quicker it’s done, the sooner you can get back to
+    compounding
+    
+    Charlie Munger says the first rule of compounding is to never interrupt it unnecessarily.
+    
+    Disneyland tickets cost $100. But you get an awesome day with your kids you’ll never forget. Last year more than 18 million people
+    thought that fee was worth paying
+    
+    This same thing applies to business, where it takes years to realize how important a product or company is, but failures
+    can happen overnight.
+    
+    When planning we focus on what we want to do and can do, neglecting the plans and skills of others whose decisions might
+    affect our outcomes
+    
+    wrong: the outcome of a start-up depends as much on the achievements of its competitors and on changes in the market as on its own
+    efforts. However, entrepreneurs naturally focus on what they know best—their plans and actions and the most immediate
+    threats and opportunities, such as the availability of funding. They know less about their competitors and therefore find it
+    natural to imagine a future in which the competition plays little part.
+    
+    Manage your money in a way that helps you sleep at night
+    
+    different goals and desires. There is no single right answer; just the answer that works for you.
+    
+    Charlie Munger once said “I did not intend to get rich. I just wanted to get independent
+    
+    Simple investment strategies can work great as long as they capture the few things that are important to that strategy’s success    `
+  }, {
+    id: '26',
+    title: 'The Compound Effect',
+    body: `No matter what you learn, what
+    strategy or tactic you employ,
+    success comes as the result of
+    the Compound Effect
+    
+    The Compound Effect is the operator’s manual that teaches you
+    how to own the system, how to control it, master it, and shape
+    it to your needs and desires. Once you do, there is nothing you
+    can’t obtain or achieve
+    
+    The Compound Effect is based on a principle I’ve used in my
+    own life and training; that is, your decisions shape your destiny.
+    The future is what you make of it. Little, everyday decisions will
+    either take you to the life you desire or to disaster by default.
+    
+    If your
+    competitor is smarter, more talented, or experienced, you just
+    need to work three or four times as hard. You can still beat them!”
+    No matter what the challenge, he taught me to make up in hard
+    work for wherever I might be disadvantaged.
+    
+    Success, Old School
+    The most challenging aspect of the Compound Effect is that we
+    have to keep working away for a while, consistently and effi ciently,
+    before we can begin to see the payoff. 
+    
+    Think about it. Everything in your life exists because you
+    fi rst made a choice about something. Choices are at the root of
+    every one of your results
+    
+    
+    Have you ever been bitten by an elephant? How about
+    a mosquito? It’s the little things in life that will bite you.
+    Occasionally, we see big mistakes threaten to destroy a career or
+    reputation in an instant
+    
+    We are all self-made men and women, but only the successful
+    take credit for it. I was eighteen when I was introduced to the
+    idea of personal responsibility at a seminar, and the concept
+    completely transformed my life.
+    
+    answered, “Yes, of course, we are all lucky. If you
+    live in a free society, you are lucky. Luck surrounds us every day;
+    we are constantly having lucky things happen to us, whether you
+    
+    The (Complete) Formula for Getting Lucky:
+    Preparation (personal growth) +
+    Attitude (belief/mindset) +
+    Opportunity (a good thing coming your way) +
+    Action (doing something about it) =
+    Luck
+    
+    “It’s a funny thing; the more I practice, the luckier I get.”
+    
+    Attitude: This is where luck evades most people, and where
+    Sir Richard is spot-on with his belief that luck is all around us.
+    It’s simply a matter of seeing situations, conversations, and
+    circumstances as fortuitous. You cannot see what you don’t look
+    for, and you cannot look for what you don’t believe in.
+    
+    I now challenge you to do the same. No matter what has
+    happened to you, take complete responsibility for it—good or
+    bad, victory or defeat. Own it. My mentor Jim Rohn said, “The
+    day you graduate from childhood to adulthood is the day you
+    take full responsibility for your life.”
+    
+    Step by step, day by day, your choices
+    will shape your actions until they become habits, where practice
+    makes them permanent.
+    
+    Losing is a habit. So is winning. Now let’s work on permanently
+    instilling winning habits into your life.
+    
+    Aristotle wrote, “We are what we repeatedly do
+    
+    I’ve met and worked with many great achievers, CEOs, and
+    “superstars,” and I can tell you they all share one common
+    trait—they all have good habits. That’s not to say they don’t
+    have bad habits; they do. But not many.
+    
+    A daily routine built on
+    good habits is the difference that separates the most successful
+    amongst us from everyone else. And
+    
+    People are either motivated by something they want or
+    something they don’t want. Love is a powerfully motivating
+    force. But so is hate.
+    
+    When you defi ne your goals, you give your brain something
+    new to look for and focus on. It’s as if you’re giving your mind a
+    new set of eyes from which to see all the people, circumstances,
+    conversations, resources, ideas, and creativity surrounding you.
+    With this new perspective (an inner itinerary), your mind proceeds
+    to match up on the outside what you want most on the inside—
+    your goal.
+    
+    Find the line of expectation and then exceed it. Even when it
+    comes to the small stuff—or maybe especially then
+    
+    Whatever your expectations are
+    about the next Apple product launch, Jobs always has a little (or
+    a lot of) something extra to WOW you
+    
+    Chapter 1: The COMPOUND EFFECT In Action 5
+    Chapter 2: Choices 23
+    Chapter 3: Habits 55
+    Chapter 4: Momentum 93
+    Chapter 5: Infl uences 119
+    Chapter 6: Acceleration`
+  }, {
+    id: '27',
+    title: 'Succcessful Negotiation',
+    body: `SUCCESSFUL NEGOTIATION
+
+    (Your success as a negotiator depends on choosing the
+    appropriate behavior Doing so not only gives you control of
+    the negotiation but also enhances your self-esteem.
+
+    1. Has this happened before? (You react more emo
+    tionally when a situation repeats.)
+    
+    2. What kind of commilment exists in the relation
+    ship? (When the commitment isn't equal, you
+    generally become more upset.)
+    
+    3. What else is bothering me? (Outside factors often
+    contribute to your conflict and emotional response.
+    
+    A negative factor may hurt the negotiation.)
+    
+    What will I lose if l don't get what I want? (Place
+    the problem inside the larger scheme of life and
+    get some perspective on it. You may see that you
+    n survive the outcome if you don't get what
+    you want.)
+    
+    THREE POSSIBLE HEALTHY RELATIONSHIPS you have in a lifetime are dependence ,independence and inter deppendence
+    
+    interdependent behaviours include honesty openness confrontation acceptance and empowerment of oneself and others ina a negotiating situation.
+    
+    interdependent behaviour calls for acceptance of others as they are unconditionally rather than making judgements based on their performance
+    
+    I Will upport you in any way i can so you can make the best decesions on this job.. the employer is saying . i care about you ,you are incredible with me . 
+    
+    i support you and will work with you to accomplish our goal. how can you use empowerment successfully in negotiations, 
+    
+    follow three steps
+    make the decesion to emower
+    communicate empowerment
+    recognise that feelings stem from behavior
+    
+    choice in negotiations you don't let differences be-come the issue; instead you look toward what you have in common. You find the common ground and negotiate from that perspective
+    
+    2: Knowledge. Gain, as much information as you can about another person or situation so you're more prepared to negotiate
+    
+    Practice
+    practice helps you improve the process of communicating and negotiating with others. The skills required to be a good commue nicator and negotiator take 
+    ongoing practice so you'll' have a fine-tuned technique at your fingertips
+    
+    involvement
+    invite the ideas and openions of others when you negotiate with them. when you ask people to get involved they feel imp and valued . 
+    this increases theor desire to negotiate to become an effective negotiator , you need to develop your ability to res[ect others differences.
+    
+    its not what you say but how; you say it that makes a difference. Nonverbal behavior directly affects the negotiation process. 
+    people "listen" to body language. When body language and words, don't match, people place more value on body language. 
+    Negotiations can fail or succeed based on the message you send through body language
+    
+    body language includes:
+     A. Voice pitch (how high or low the voice sounds)
+     Intonation (emphasis placed on certaia words).
+     Gestures (the way your hands, antis, and legs move).
+    eye contact (looking at someone directly or indirectly)
+    proximity(how close to someone you stand or sit)
+    facial expression(a smile or frown)
+    
+    body language communicates
+    how much power you believe you have in a situation
+    how much you like someone
+    how responsive you are to someone
+    
+    using soften as a negotiating technique.
+    s = smile - you send a message that you care abt them . smiling helps to erase negative feelings towards others.
+    o = open - open body postures
+    f = forward lean -when you lean forward others instead of away you communicate interest and willingness to learn/
+    t = touch - a hand shake a squeeze  a hug or a pat on the back all indicate you care about someoneThe handahake
+    communicates interest and responsiveness in an
+    acceptable way) When appropriate, a pat on the
+    back may accompany the handshake
+    e= Eye contact - When you make eye contact
+    with others, you say you are trustworthy, believ
+    able, and responsive
+    Always make eye contact while you negotiate
+    n=node - nodding your head shows you are listening and processing the conversation.
+    
+    ways to communicate effectively when negotiating
+    be clean 
+    whenever you negotiate make sure the message you send is the one that you intented
+    strive to make your verbak and nonverbal behaviour  send the same message.
+    
+    
+    `
+  }, {
+    id: '28',
+    title: 'Set Smart',
+    body: `
+    Life is like a combination lock, only with more numbers. All combination locks
+    work in the same way. You turn to the first number, back past that number to the
+    second number, and forward to the third number. If you have the right numbers,
+    the lock opens,
+    
+    “within every problem or difficulty there lies
+    the seed of an equal or greater benefit or advantage
+    
+    “you become what you
+    think about—most of the time.”
+    
+    THE BETTER YOU THINK, the better results you will get and the more successful
+    you will be in every area
+    
+    “I long ago stopped
+    listening to what people said. Instead, I look at what they do. Behavior is the
+    only truth.”
+    
+    (1) business and career; 
+    (2) family and relationships; 
+    (3) health and fitness; and 
+    (4) financial independence
+    
+    Then take the first step. Open a retirement account, a financial freedom account.
+    This is an account into which you deposit money and never take it out, for any
+    reason. Seek
+    
+    “Thinking is the hardest work of all, which is why
+    most people avoid it at all costs.”
+    
+    The longer you take to make an important decision, the better that decision
+    will be in almost every case. Continually use the words “Let me think about it
+    and get back to you.”
+    
+    As Michael Kami, the strategy expert, wrote, “Those who do not plan for the
+    future cannot have one.”
+    
+    Whenever you have a problem, a difficulty, an obstacle, a frustration, or a challenge in your life, go into the silence and sit
+    quietly. The very first time you do this, almost without exception, the answer to your biggest problem will come to you, almost like a butterfly alighting on yourshoulder
+    
+    The acronym GOSPA stands for “Goals,
+    Objectives, Strategies, Priorities, and Actions.”
+    
+    This is where experienced thinking versus inexperienced thinking can be so
+    valua
+    
+    The 80/20 rule seems to apply to the world of work. Twenty percent of people
+    are on the fast track, continually increasing their value, moving up, and earning
+    
+    This is where experienced thinking versus inexperienced thinking can be so
+    valua
+    
+    The CEOs of Fortune 500 companies earn more than $10 million per year on
+    average. This is almost solely because of their ability to react and respond
+    quickly to complex situations,
+    
+    Find out what other successful people do over and over, and then do
+    the same things that they do. By the Law of Cause and Effect, if you do what
+    other successful people do (the causes), you will soon get the same results (the
+    effects) that they do.
+    
+    Work all the time you work. When you go to work, work.
+    Do not play with your friends, check your e-mail every five minutes, read the
+    newspaper, or take care of personal business.
+    
+    Keep focused on your most important tasks. Don’t waste time
+    
+    Use the ABCDE method to categorize your tasks. Apply the idea of
+    “consequences” to each activity. In time management, something that is
+    important has serious potential consequences. Something that is unimportant has
+    low or no consequences at all. Think before you act.
+
+    A = Must do—there are serious potential consequences for doing or not
+    doing this task. Put an A next to each of the most important items on
+    your list.
+
+    B = Should do—there are mild consequences for doing or not doing this,
+    but it is not as important as your A tasks.
+    
+    C = Nice to do—but there are no consequences one way or another if you
+    have a coffee break, chat with a co-worker, or check your social
+    media.
+    
+    D = Delegate—you should delegate everything that you possibly can,
+    even tasks that you like and enjoy, to free up your time for doing only
+    those few things that you can do best and are most important.
+    
+    E = Eliminate—deliberately stop doing all low-value/no-value tasks and
+    activities.
+    
+    Well Begun Is Half-Done
+    The habit of starting and completing your most important task first thing each
+    morning will transform your life
+    
+    Successful people practice positive thinking most of the time. As a result, they
+    are happier, more genial, more popular and derive more real pleasure from life
+    than the average person.
+    
+    The key to self-esteem, self-confidence, self-reliance, and self-respect is for you
+    to accept 100 percent responsibility for everything you are and all that you will
+    become in life.
+    
+    Your main job in life, if you want to become a totally positive person, is to let
+    the past go and turn toward the sunshine.
+    
+    By blaming someone else for something, you enable
+    that person to manipulate and control your emotions—at long distance. You give
+    him power and control over your own happiness by your refusal to forgive him
+    and to let him go. And in most cases, he doesn’t even know how much control
+    he has over your happiness and well-being.
+    
+    1. Rethinking: This requires that you stop the clock, take a time-out, and stand
+    back to look at your situation objectively. Ask yourself three questions:
+    What am I trying to do?
+    How am I trying to do it?
+    Could there be a better way
+    
+    2. Reevaluating: Practice zero-based thinking, and consider the possibilities of
+    doing things completely differently.
+    
+    3. Reorganizing: Look for ways to increase the efficiency and effectiveness of
+    your operations by moving people and resources around and by deploying
+    them in different ways
+    
+    4. Restructuring: This involves moving your people and resources into the 20
+    percent of activities that can account for 80 percent of your results.
+    
+    5. Reengineering: What-If Thinking
+    One of the most powerful questions you can ask in triggering creativity is,
+    “What if?” Each time you ask this question, you break the bonds of limited
+    thinking that may keep you working in a narrow area, and you open your mind
+    to more and more possibilities.
+    What-if thinking is considered the breakthrough concept that made Federal
+    Express one of the most successful companies in the world. It started by asking,
+    “What if it was possible to deliver a letter overnight, anywhere in the country?
+    
+    When President John F. Kennedy asked the scientist in charge of the
+    American space program, Wernher von Braun, what it would take to put a man
+    on the moon and bring him back safely, von Braun replied simply, “The will to
+    do it.”
+    
+    The entrepreneur says, “I enable people to drive wherever they want in
+    comfort and safety.
+    
+    Entrepreneurial thinking requires that you think about the customer all the time.
+    You continually seek new, different, better, faster, and cheaper ways to serve
+    customers and give them more and more of what they really want and need.
+    Your ability to think like an entrepreneur rather than an employee will do
+    more to liberate your full potential in your career than any other single factor. It
+    might even make you rich.
+    
+    “Compounding is the most powerful force in the universe.”
+    
+    “Someday I’ll.”
+    “Someday I’ll save my money rather than spending it all.”
+    “Someday I’ll upgrade my knowledge and skills.”
+    “Someday I’ll work harder and make myself more valuable.”
+    “Someday I’ll get out of debt.”
+    They end up living on “Someday I’ll” for most of their lives.
+    
+    Here’s the solution. When you decide to become wealthy, don’t tell anyone.
+    Keep it a secret. Go to work on your goal privately, and only tell people when
+    they see your life improving and ask you how you did it.
+    
+    6. THEY STOP LEARNING AND GROWING
+    To achieve something you’ve never achieved before, you must learn and practice
+    something that you’ve never done before. The rungs on the ladder to financial
+    success are knowledge and skill.
+    
+    Steve Siebold, author of the book How Rich People Think, said, “If you want
+    to make a lot of money, find a big problem that a lot of people have, and solve it
+    in a new way.”
+    
+    Something-for-Something Thinking Versus Something-for-Nothing
+    Thinking
+    
+    Successful people have good habits that lead to happy, productive, and
+    financially successful lives. Poor people have poor habits, or no habits at all, that
+    lead to the opposite. Fortunately, all habits are learnable with practice and
+    repetition. You can learn any habit or skill you need to learn to achieve any goal
+    you can set for yourself.
+    The only real question is, “How badly do you want it?”
+    
+    New habits are difficult to practice and learn at first, but soon they become
+    automatic and easy. Soon it becomes easier to practice your new habit than to
+    fall back into your old ways of doing things
+    
+    “Before you can have something more and different, you must become
+    someone more and different.
+    
+    Success is not an accident. Failure is not an accident either. You are where you
+    are and what you are because of yourself, because of your own thinking and
+    behavior.
+    If you want your future to be better in any area, you must first change and
+    improve your thinking along the lines described in this book. You must make
+    new choices and better decisions.
+    Fortunately, everything you are today, you have learned from early childhood
+    as the result of input and practice. At any time, you can decide to learn new
+    ideas, practice new behaviors, and get different results.`
+  }, {
+    id: '29',
+    title: 'Self Discipline',
+    body: `“Moral excellence comes about as a result of habit. We become just by doing
+    just acts, temperate by doing temperate acts, brave by doing brave acts.”
+    Aristotle
+    
+    if you log on to Facebook and other social media platforms every time you open your
+    laptop, switching on your laptop is a reminder for your social media behavior.
+    
+    If you know which bad habit you want to change, you can look for positive
+    alternatives and use them to fulfill your need for that reward
+    
+    Nurturing discipline becomes easier when you have a strong internal program
+    comprised of healthy habits. When you engage in one good habit after another,
+    particularly those geared towards the pursuit of your goal, you focus on what
+    matters instead of distractions.
+    
+    Write down all your bad habits and distractions, as well as their associated
+    reminders, routines, and rewards. Observe yourself for a few days so that you
+    can get a better hang of what triggers different habits and why you engage in
+    them.
+
+    Create plans for different bad habits, but remember to work on one bad
+    habit at a time.
+    
+    “Momentum is really a leader’s best friend. Sometimes, it’s the only
+    difference between winning and losing.”
+    
+    The truth is that we are all leaders of our lives and mind, and we can only lead
+    better if we build momentum. Once you create the momentum to do so, you
+    continuously lift heavier weights every day
+    
+    Momentum means slowly accelerating your speed along the journey and
+    refining your mental strength. Building momentum helps you gain pace so
+    that you can push yourself forward, inch-by-inch, day-by-day.`
+  }, {
+    id: '30',
+    title: 'Self Confidence',
+    body: `Nothing splendid has ever been achieved excepted by those who dared
+    believe that something inside of them was superior to circumstance.
+    —Bruce Barton
+    
+    With higher levels of self-confidence, you would be far more effective in
+    dealing with difficult people and situations. You would be a far better negotiator
+    and be able to ask for, and get, better prices, terms, and conditions in everything
+    you bought and sold.
+    
+    With greater self-confidence, with an unshakable belief in yourself, nothing
+    would be impossible for you. More than anything else, you would feel terrific
+    
+    The world is full of people who are not happy with their results, and yet they
+    continue to do the same things, think the same thoughts, say the same things, and
+    take the same actions, every day, and they are amazed that they continue to get
+    the same negative effects.
+    
+    True happiness and success comes from living your life in harmony with the
+    laws that govern your being
+    
+    The world is full of people who are not happy with their results, and yet they
+    continue to do the same things, think the same thoughts, say the same things, and
+    take the same actions, every day, and they are amazed that they continue to get
+    the same negative effects.
+    
+    Order of Values Forces You to Choose
+    
+    I have known businessmen who put career success ahead of their families in
+    their order of priority. When they had to choose one or the other, they regularly
+    chose their work over spending time with their spouse and children. As a result,
+    both the marriages and the careers have run into serious trouble.
+    
+    Set Peace of Mind as Your Highest Principle
+    
+    Your Values Are Only Expressed in Your Actions
+    
+    I have known businessmen who put career success ahead of their families in
+    their order of priority. When they had to choose one or the other, they regularly
+    chose their work over spending time with their spouse and children. As a result,
+    both the marriages and the careers have run into serious trouble.
+    
+    Your Values Are Only Expressed in
+    Your Actions
+    
+    The keys to developing the unshakable self-confidence that will make
+    everything else possible for you are self-control, self-mastery, and selfdiscipline.
+    Self-confidence can come directly, by behaving in a self-confident manner,
+    
+    “Happiness is a condition. It is not something that is achieved by pursuing it directly, but rather comes as a
+    result of our engaging in purposeful activities.”
+    
+    if we pursue happiness directly, it includes us. However, if we get
+    busy doing something that is really important to us and begin to make real progress in the direction of our dreams and aspirations, we find ourselves feeling very happy indeed
+    
+    Clear goals bring clear results. Because your level of self-confidence is directly tied to how
+    effective you feel you are in achieving your goals, it is very important that you
+    know exactly what it is you want and that you think of nothing else.
+    
+    “Nothing is, but thinking makes it so.”
+    
+    The Four Cs of Inner Confidence
+    You can develop this kind of belief, this inner confidence, by developing what I
+    call “the four Cs.”
+    
+    1. Clarity: Decide exactly what it is you want to accomplish and exactly the
+    kind of person you wish to become.
+    
+    2. Conviction: Develop the unshakable belief that you can do anything that
+    you can put your mind to.
+    
+    3. Commitment: Resolve to do whatever is necessary; develop the
+    willingness to pay the price, in advance, for any success you desire.
+    
+    4. Consistency: Resolve to work on your goals every day, morning, noon,
+    and night, until they are accomplished.
+    
+    3. Ask yourself what you would do if you learned today that you only had
+    six months to live. If you had no limitations, how would you spend your last
+    six months on earth? This is another way of asking, “What is really
+    important to you?” Who would you want to spend time with?
+    What would you want to accomplish? What would you like to leave behind?
+    In other words, what do you truly value? What are the things that really give
+    meaning and purpose to your life?
+    
+    6. Look at your health. Describe what perfect health and physical fitness
+    means to you, and then make out a plan to achieve that level of fitness
+    
+    7. Define the kind of person that you would most like to become, both
+    personally and professionally. Then, work out a plan of personal and
+    professional development that will enable you to learn and grow and become
+    the kind of person you most admire and would most like to be. Remember,
+    as Goethe said, “Before you can have something, you must first be
+    something.”
+    
+    Categorize Your Goals
+    Once you have written out your goals, divide them into the different areas of
+    your life that are important. There are basically six divisions that most people
+    use, but you can have more or fewer.
+    1. Financial and material goals.
+    2. Family and personal goals.
+    3. Self-improvement and educational goals.
+    4. Spiritual goals.
+    5. Health and fitness goals.
+    6. Social and community goals.
+    To perform at your very best, your life must be in balance. This means that
+    you need to have goals in each area so that you are moving progressively
+    forward on something that is important to you all the time.
+    
+    The mental discipline to set your goals and to sort
+    them out, and to decide on your chief aim or your major definite purpose, is the
+    starting point of individual greatness.
+    
+    Begin each day by
+    sitting down with this notebook and writing out your main goals in the present
+    tense, as though they were already a reality.
+    
+    Use strong, definite words like, “I earn,” “I achieve,” or “I am.” You can write
+    other things in this notebook if you like, but the most important action is that you
+    take five minutes each day to write and rewrite your major goals, without
+    referring back to what you wrote yesterday.
+    Hand writing your goals is called a “psychoneuromotor activity.”
+    
+    By rewriting your goals every day, they become clearer and stronger and take
+    on a power of their own.
+    
+    8. Do something every day, seven days per week on your major goal.
+    Resolve to persist on this goal until you succeed, no matter how hard it
+    becomes or how much time it takes
+    
+    This process of setting and achieving one big goal will build your selfconfidence
+    to the point where you will become unstoppable for the rest of your
+    life.
+    
+    In other words, the outer limit of your envelope, or the outer limit of your
+    potential, is not fixed in time or space, like that of an aircraft. Your limits are
+    determined solely by your own beliefs and by your own confidence in what you
+    think is possible for you
+    
+    In every study of success and self-confidence, in every situation in which a
+    person enjoys high levels of self-esteem, self-respect, and personal pride, we
+    
+    The wonderful thing is that the highest paid people in America, and
+    worldwide, are often working at jobs that they enjoy so much that they hate to go
+    home at night, and the lowest paid people are invariably found at jobs they
+    dislike, in which they are just going through the motions.
+    
+    Theodore Roosevelt said, “Do
+    what you can, with what you have, where you are.
+    
+    You could be excellent at six out of seven of your key result areas, but your
+    weakness in the seventh area can hold you back for years.
+    
+    1. Invest 3 percent of your income back into yourself. Spend 3 percent of
+    what you earn on personal research and development, on upgrading your
+    skills and abilities, and on becoming better at performing the most important
+    
+    All Skills Are Learnable
+    
+    1. Make a decision today to become excellent at what you do. Set it as a
+    goal, make a plan, and work on it every day.
+
+    2. Identify the jobs or parts of your job that you most enjoy, and then seek a
+    way to more and more of those jobs.
+    
+    3. Identify those jobs in your career that have been easy to learn and which
+    are easy to do, and look for ways to do more of them, more of the time
+    
+    5. Identify the one skill that, if you were excellent at it consistently, would
+    have the greatest positive impact on your career.
+    
+    6. Develop a continuous learning plan for yourself, and dedicate yourself
+    toward getting better and better at what you do.
+    
+    7. Identify the most important result, or results, for which you are paid, and
+    resolve to get more and better of those results each day
+    
+    Your job is to achieve the same level of confidence and belief as that possessed
+    by that businessman. The world will largely accept you at your own estimation.
+    It is yourself that you have to convince, before you can convince anyone else
+    
+    Here is an affirmation that has been very helpful to me. I repeat it over and
+    over until it becomes automatic, in almost every situation. When something goes
+    wrong, I immediately catch myself by saying, “Every situation is a positive
+    situation if viewed as an opportunity for growth and self-mastery.”
+    
+    If it’s a problem, it’s amenable to a solution. There is something that you can
+    do to change it. If you are not happy with the situation, it is up to you to go and
+    do whatever you can to resolve it.
+    
+    Your goal is to be happy, confident, and optimistic. The way that you achieve
+    this is by making these positive responses so automatic that you remain
+    predominantly happy, confident, and optimistic, no matter what happens.
+    
+    Positive Self-Talk
+    Your Interpretive Style
+    Talk to Yourself Positively
+    Unlimited Potential
+    Your potential is unlimited using affirmations. Remember that affirmations are a
+    way of programming your subconscious mind. By repeated affirmations, you can
+    instill within your mind powerful, positive commands that will eventually
+    determine your automatic thoughts, feelings, and responses
+    
+    The law of accumulation reminds us that everything counts. Every positive
+    step you take is moving you toward building a great life for yourself. Every
+    positive word or thought or image is deepening your belief and increasing your
+    confidence in your ability to achieve wonderful things
+    
+    4. Resolve today to accept complete responsibility for your life, for
+    everything you are today, and for everything that you will ever be in the
+    future.
+    
+    Weaknesses are an inevitable and unavoidable fact of life
+    
+    The law of concentration also says that all great success in life comes from
+    single-minded, focused concentration on doing one thing or a few things
+    extremely well. Success comes from staying at a particular task, the most
+    valuable and important task you could be doing, until you succeed.
+    
+    dedicated, concentrated effort. However, there is little to be gained by digging
+    determinedly, if you’re digging in the wrong place. As Benjamin Tregoe,
+    management consultant, said, “The very worst use of time is to do well what
+    need not be done at all.”
+    
+    The key to becoming a fully functioning, fully integrated personality, the basic
+    factors underlying self-confidence, is for you to become more aware of who you
+    really are, and what you really want in life.
+    
+    List All Your Current Skills and
+    Capabilities
+    The first exercise for you is to write down a list of everything that you do on a
+    regular basis. Write out all your roles and the parts you play, from the time you
+    get up in the morning, until the time you go to bed at night. If you play sports or
+    exercise with various equipment,
+    A second exercise that is very helpful in learning more about yourself, and one
+    that has been a turning point in the lives of many people, is to turn to someone
+    close to you and ask him or her what they think you should do with your life
+    
+    The second type of motivation is that of power. A person with a strong power
+    orientation is one who enjoys getting things done through others. Power in this
+    context refers to being able to influence and coordinate the activities of others
+    over a period of time to complete a complex task. A coach of a sports team or a
+    manager at work who really enjoys what he or she is doing would be a person
+    who is most motivated by this kind of power or influence.
+    
+    Play Well on the Team
+    The first quality they identified was the ability to perform well as a member of a
+    team, and the ability to put together teams to accomplish common objectives. All
+    the business and the interpersonal skills that make a person valuable to an
+    organization seem to be demonstrated in a team setting.
+    
+    Almost everything that happens to you is determined by your responses to the
+    ups and downs of daily life.
+    
+    The starting point of eliminating this fear is for you to accept and realize that
+    no success is possible without failure. All success is preceded by failure, usually
+    great failure, repeated over a long period of time.
+    
+    Almost everything that happens to you is determined by your responses to the
+    ups and downs of daily life.
+    
+    The starting point of eliminating this fear is for you to accept and realize that
+    no success is possible without failure. All success is preceded by failure, usually
+    great failure, repeated over a long period of time.
+    
+    Napoleon Hill wrote, “When defeat comes, accept it as a signal that your plans
+    are not sound: rebuild those plans and set sail once more toward your coveted
+    goal.”
+    
+    Dale Carnegie wrote, “The successful man will profit from his mistakes and
+    try again in a different way.”
+    
+    “Nothing in the world can take the place of persistence. Talent will not;
+    nothing is more common than unsuccessful men with talent. Genius will not;
+    unrewarded genius is almost a proverb. Education will not; the world is full of
+    educated derelicts. Persistence and determination alone are omnipotent
+    
+    The Four Ds of Success and Self-
+    Confidence
+    How do you infuse your whole life with the kind of self-confidence that makes
+    everything possible for you? The answer is contained in what I call the four Ds,
+    which determine success in anything you really want to accomplish.
+    The first D is desire. You must really want to become a totally self-confident
+    human being. You must build up your desire by thinking about it and talking
+    
+    about it, and working on it all the time. Your desire must become so intense that
+    it overrides your fears of failure, rejection, and inferiority, and it becomes the
+    dominant emotion governing your behaviors. Intense desire is the starting point
+    of all personality modification and goal attainment.
+
+    The second D is decision. You must make a do-or-die decision that you will go
+    to work on yourself and keep at it until you achieve the kind of self-confidence
+    that enables you to do, be, and say whatever you want. You must burn your
+    mental bridges. Many people want things but they never make the clear,
+    unequivocal decision that they are going to do what it takes to get them.
+    
+    The third D is determination. Once you have started to make significant
+    changes in the way you act, your internal gyroscope will try to take over and
+    bring you back into your comfort zone, into your old ways of acting.
+    Sometimes, progress will be slow, and, often, you will see no progress at all.
+    Nonetheless, you must persist in the positive and constructive behaviors that you
+    know will lead to making you into the kind of person you wish to become. Your
+    determination must be as unshakable as the self-confidence you desire.
+    
+    The fourth D is discipline. Underlying and surrounding all great achievement
+    in life is the quality of self-discipline. This is the ability to make yourself do
+    what you should do, when you should do it, whether you feel like it or not. Every
+    practice of self-discipline strengthens your discipline in every other area of your
+    life
+    
+    Socrates once said that “We only learn something by dialoguing about it.” You
+    only really understand something to the degree to which you can discuss it with
+    others or explain it to a third party. Your ability to translate your experience into
+    words, which only comes through thinking and reflection, is essential for your
+    growth and wisdom and common sense
+    
+    Socrates once said that “We only learn something by dialoguing about it.” You
+    only really understand something to the degree to which you can discuss it with
+    others or explain it to a third party. Your ability to translate your experience into
+    words, which only comes through thinking and reflection, is essential for your
+    growth and wisdom and common sense
+    
+    I would add one more ingredient to Aristotle’s definition of wisdom, and that
+    would be knowledge. Wisdom comes from equal parts knowledge, experience,
+    and reflection
+    
+    Smart people take the actions necessary to get the results they want. They are
+    effective in whatever situation they find themselves in. Intelligence is more a
+    matter of doing the right things rather than doing things right.
+    
+    life. You know that
+    big, important, challenging goals, clearly defined, with written plans for their'
+    
+    accomplishment, improve your overall self-concept and build your selfconfidence.
+    
+    Plan Your Work and Work Your
+    Plan
+    
+    Speak Up with Confidence and
+    Clarity
+    In your conversations with others, be sure to speak up clearly, and express
+    yourself openly and honestly. In one-on-one conversations, in meetings, or with
+    groups, the more competent you are at speaking out, the more competent and
+    more confident you will feel.
+    
+    The real difference between the winners and losers in life is the difference
+    between taking action and making excuses. It is between the people who do and
+    the people who talk about doing. It is between the movers and shakers and those
+    who just watch the world go by `
+  }  ];
 
   getItemById(id: any): any[] {
     const item = this.allData.find(data => data.id === id);
     if (item) {
       return [item];
     } else {
-      return []; // Return an empty array if item is not found
+      return []; 
     }
   }
 }
