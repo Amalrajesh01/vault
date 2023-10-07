@@ -3716,7 +3716,8 @@ Personnel determine the potential of the organization.
    They don’t waste time trying to recall what it is they are going to do. They have decided what to do, and when, 
    beforehand and have little trouble doing what they had planned. Second, research has shown that people respond quickly when they have a plan to follow.
    
-   Third, when people have a plan, they can more easily ignore interruptions and distractions. They are able to more easily focus on the task at hand, maintaining self-control. Action plans are especially useful when trying to respond during high-stress situations, such as during a day when the market action is hard to pin down. 
+   Third, when people have a plan, they can more easily ignore interruptions and distractions. They are able to more easily focus on the task at hand, maintaining self-control. 
+   Action plans are especially useful when trying to respond during high-stress situations, such as during a day when the market action is hard to pin down. 
    
     it’s hard to predict every possible adverse event. 
     no matter how unlikely, but you must be ready for the worst. You should be psychologically prepared for big setbacks and be ready to take them in stride should they occur.
@@ -4390,7 +4391,65 @@ Personnel determine the potential of the organization.
     
     Momentum means slowly accelerating your speed along the journey and
     refining your mental strength. Building momentum helps you gain pace so
-    that you can push yourself forward, inch-by-inch, day-by-day.`
+    that you can push yourself forward, inch-by-inch, day-by-day.
+    
+    Whatever goal(s) you may have, to achieve it, you need to put in the extra
+effort
+
+you have to prioritize your tasks, manage your
+temptations, avoid distractions, work hard, and stay focused on the end goal,
+all of which are only possible when you have self-discipline
+
+self-discipline is primarily about doing what you need to do at this
+moment and successfully fighting the urge to do what you wish to do. Whims
+and wishes are a part of our life, so are temptations
+
+When you practice self-control, you become invincible and gain the power to
+achieve anything you focus your mind on consistently
+
+The habit loop refers to the cycle followed by the formation of all habits. It
+consists of 3 R’s, namely the Reminder, Routine, and the Reward
+
+When you engage in that routine, you feel a certain way. Continuing with the
+earlier example of using social media, when you use Facebook and other social
+media platforms, you are likely to feel happy or validated after posting your
+pictures online and getting good comments.
+
+The feeling is your reward; once you enjoy the reward that comes from
+engaging in this particular habit, you start to feed on it.
+
+Create plans for different bad habits, but remember to work on one bad
+habit at a time. Working on one habit at a time makes it easier to settle into
+the routine and work on one problem at a time without burdening and
+overwhelming yourself.
+
+Here is how you can create your plan. Set a deadline and starting date
+Go through the starting and ending date of the goal you decided to pursue as
+discussed in an earlier section.
+
+Think of the goal, your personality, the environment you work in, and
+probable contingencies you may face during the journey. Write all that down
+and then analyze the start and end date associated with the goal. If you think
+you need more time to complete the goal or need to push back the starting
+date until you feel more ready, do so.
+
+For every milestone, identify the tasks you need to do along with details
+such as time, how to do it, precautions, triggers you need to avoid, and so
+on
+
+“Momentum is really a leader’s best friend. Sometimes, it’s the only
+difference between winning and losing.”
+John Calvin Maxwell
+
+If you want to build momentum and
+continually build your willpower, identify the 20% of the most important and
+high priority tasks related to your goal that when engaged in, instantly boost
+your productivity. Identify those tasks and brainstorm different ways to
+execute them.
+
+
+
+`
   }, {
     id: '30',
     title: 'Self Confidence',
@@ -4742,14 +4801,1312 @@ Personnel determine the potential of the organization.
     between taking action and making excuses. It is between the people who do and
     the people who talk about doing. It is between the movers and shakers and those
     who just watch the world go by `
-  }  ];
+  }, {
+    id: '31',
+    title: '5 Second Rule',
+    body: `I was the problem and in five seconds, I could push myself and become the solution
+    
+    You ignored your fears and let your courage and your confidence speak for you.
+    
+    The ability to do something that is difficult or scary
+    Stepping outside of your comfort zone
+    Sharing your ideas, speaking up, or showing up
+    Standing firm in your beliefs and values
+    And some days…getting out of bed.
+    
+    Have you ever noticed how the smallest things can feel so hard
+    
+    Sticking to your plan
+    Blocking an ex on social media
+    Talking to someone you
+    find attractive
+    Publishing your work
+    Getting to the gym
+    Eating in moderation
+    Saying “no”
+    Asking for help
+    Letting your guard down
+    Admitting you are wrong
+    Listening
+    When you set a goal, your brain opens up a task list.
+    Whenever you are near things that can help you achieve those goals, your brain fires
+    up your instincts to signal to get that goal completed. Let me give you an example
+    
+    The counting distracts you from your excuses and focuses your mind on moving in a new direction.
+    
+    When you physically move instead of stopping to think, your physiology changes and your mind falls in line
+    
+    The problem was very clear. It was me. I was holding myself back, five seconds at a time.
+    
+    The more that you believe that you are in control of
+    your life, your actions and your future, the happier and more successful you’ll be.
+    
+    
+    There’s nothing more powerful than the feeling of confidence and pride you
+    gain when you keep trudging forward, face life’s challenges head on, and push
+    yourself to change for the better.
+    
+    
+    Counting and moving are actions. By teaching yourself to take action when
+    normally you’d stop yourself by thinking, you can create remarkable change
+    
+    They require you to physically move within a five-seconThat moment of hesitation is a killer. Hesitation sends a stress signal to your
+    brain. It’s a red flag that signals something’s wrong—and your brain is goes into
+    protection mode. This is how we are wired to fail. Think about this for a minute.
+    window.
+    
+    Physical movement is the most important part of my Rule, too, because when
+    you move your physiology changes and your mind follows.
+    
+    You can feel uncertain and be ready. You can be afraid and do it anyway. You
+    can fear rejection and still go for it.
+    
+    The difference between people who make their dreams come true and those of
+    us who don’t is just one thing: the courage to start and the discipline to keep going.
+    
+    Change your decisions and you’ll change your life. And what will change your
+    decisions more than anything? Courage.
+    
+    Change your decisions and you’ll change your life. And what will change your
+    decisions more than anything? Courage.
+    
+    Everyday life is full of
+    moments that are scary, uncertain, and difficult. Facing these moments and
+    unlocking the opportunity, magic, and joy in your life requires tremendous courage
+    
+    5- 4- 3- 2- 1 to himself to trigger new behavior and “his mindset
+    completely changes and he goes about his day.”
+    
+    Dr. King was pushed into the spotlight by his peers. Rosa pushed herself. They
+    both experienced the power of a push. It’s a moment when your instincts, values,
+    and goals align, and you move so quickly you don’t have time or a valid reason to
+    stop yourself.
+    
+    Courage is a birthright. It is inside each and every one of us. You were
+    born with it and you can tap into it anytime you want. It’s not a matter of
+    confidence, education, status, personality, or profession. It’s simply a matter of
+    knowing how to find it when you need it. And when you need it, you’ll probably be
+    alone
+    
+    After all, courage is just a push.
+    
+    When you push yourself, you may not change the world, the laws, or spark a
+    civil rights movement but I can guarantee you’ll change something equally as
+    important—you’ll change yourself
+    
+    There is only one YOU.
+    And there will never be another
+    one.
+    That’s your power.
+    
+    the people we admire most needed to be pushed through their fears,
+    excuses, and feelings, just like you and me
+    
+    There is no right time. There is only right now. You get one life. This is it. And
+    it’s not going to begin again. It’s up to you to push yourself to make the most of it
+    and the time to do it is right now.
+    
+    You Validate Your Ideas By Pursuing Them
+    
+    You can feel uncertain and be ready. You can be afraid and do it anyway. You
+    can fear rejection and still go for it.
+    
+    The difference between people who make their dreams come true and those of
+    us who don’t is just one thing: the courage to start and the discipline to keep going.
+    
+    The moment that you realize your feelings are the problem, you now have the
+    ability to beat them.
+    
+    According to neuroscientist Antonio Damasio, it’s our
+    feelings that decide for us 95% of the time. You feel before you think. You feel
+    before you act. As Damasio puts it, human beings are “feeling machines that think”
+    not “thinking machines that feel.” And that’s how you ultimately make decisions—
+    based on how you feel.
+    
+    If you can’t get yourself out of bed, then you’ll never be able to pursue all of
+    the other changes that you want to make in your life. And if you take that simple
+    step of taking control of your mornings, you’ll catalyze a chain of events that leads
+    to change everywhere.
+    
+    Productivity can be boiled down to one word—FOCUS. There are two types
+    of focus you need to master productivity: First the ability to manage
+    distractions so that you can focus moment-to-moment on the task at hand, and
+    second, the skill of focusing on what’s truly important to you in the big picture, so
+    you don’t waste your day on stupid stuff
+    
+    being addicted to your phone, texting, and answering emails is a distraction…but
+    stopping it feels impossible.
+    
+    First you must decide that distractions are not good. Interruptions of any sort
+    are the kiss of death for your productivity
+    
+    sleep.Scientists have recently discovered that when you hit the snooze button it has
+    a negative impact on brain function and productivity that can last up to four hours!
+    
+    Your mind will allow your body to calm down because it
+    knows the “danger” has passed. Your life will go back to normal, and you’ll be a
+    little more cautious when you change lanes next time.
+    
+    When you have a panic attack, that same “near miss” sensation rushes your
+    mind and body, without any warning and with no preceding event
+    
+    doesn’t actually lower the feelings surging through your body. It just gives your mind an explanation
+    that empowers you. That
+    
+    You are braver than you believe, stronger than you seem, and smarter than you think.”
+    -AA Milne
+    
+    
+    Master your mind and anything is possible.
+    
+    If you can enrich your self-confidence, passion, and connection with people, your life will transform in ways that you
+    thought you could only dream of.
+    
+    
+    Pushing yourself to 5- 4- 3- 2- 1 on the “small things” gives you confidence to do the “big scheme of things
+    
+    Which takes us back to the very beginning point: The more that you practice
+    acts of courage, the more that you will believe you are in control of your life, and as
+    a result, the more confident that you will become
+    
+    doing things that scare you actually make you more
+    confident. If you have the courage to take action, your confidence will follow.
+    Every time you push yourself to speak when you’re nervous, act when you’re afraid,
+    or get to the gym when you don’t feel like it, you realize that you can rely on
+    yourself to get anything done. From this belief in your personal abilities flows your
+    confidence
+    
+    Don’t tell people your dreams. Show them.
+    
+    Leave nothing important unsaid. 5- 4- 3- 2- 1 go ahead and say it.
+    
+    All our dreams can come true if we have the courage to pursue them.
+    - Walt Disney
+    
+    The moment you have an instinct to act on a goal you must 5-4-3-2-1 and physically move or your brain will stop you.`
+  }
+    , {
+    id: '32',
+    title: 'Entrepreneur 5 to 9',
+    body: `when yor fear is greater than your dream, you dont take action factors that amplify your fear 
+    losing money in your own business poor health poor relationships
+    
+    factors that amplify your dreams good books, association, taking actions
+    
+The biggest asset you begin with is
+yourself. This includes:
+Your strengths—what you are good at.
+Your passions—what you love doing.
+Your money-making abilities—what you can do that will produce income.
+Your purposes—what you dream of accomplishing in life.
+
+What are your strengths? Have you identified them?
+What are your passions? (These are the activities you delight in, the ones
+that literally make you ‘light up’ with energy.)
+What are your dreams, desires and goals? Put another way: What are your
+purposes in life? How clearly do you know them?
+
+Franklin D. Roosevelt once said, ‘The only thing we have to fear is fear itself.’
+
+these are some ways to reduce your fears and/or feed your dreams and desires:
+Reading books or listening to business CDs whenever time permits, to build your knowledge base.
+Attending seminars or webinars by people who have successfully built their own businesses.
+Hanging around entrepreneurs.
+Losing a job could increase your motivation dramatically, as it did for SP
+(though I don’t wish this upon you).
+
+You are changing your attitude by changing
+your behaviour.
+
+To find out what your strengths are, start paying attention to what other people
+are telling you.
+
+Passions are activities that you love. They are things you do (or would do)
+without being paid, whether for the sheer joy of doing them or because the
+subject engages you so deeply. A
+
+Identifying Your Dreams, Desires and Goals
+Whereas your passions are things you love to do, your dreams, desires and goals
+are things you reach for.
+
+prototype your business and test them in small scale
+
+Startups fail when either the entrepreneurs lose their fire and stop persisting, or
+when they run out of money.
+
+for creating a disruption or harvesting a blue ocean—a target segment of unserved
+or under-served customers; the hungry, non-consuming kind that we have
+talked about
+
+The Four Actions are Create, Raise or Keep, Eliminate and Reduce. They
+work together to establish a new ‘value curve’ for the target segment.
+
+What should be created that the industry has never offered before?
+
+You might also want to raise the quality of some features and benefits well
+above current industry standards.
+
+Now, which factors that the industry assumes are necessary can be
+eliminated?
+
+Finally, which factors can be reduced well below the industry standards
+
+Having too many ideas and not testing any idea properly.
+This is like chasing too many rabbits. You will not catch any of them. I have
+been guilty of this in the past; it took me a while to realize it and change.
+`
+
+  }
+    , {
+    id: '33',
+    title: 'Leadership wisdom',
+    body: `
+    This is the true joy in life, being used for a purpose recognized
+    by yourself as a mighty one, being a true force of Nature instead of
+    a feverish little clod of ailments and grievances complaining that
+    the world will not devote itself to making you happy…. I want to be
+    thoroughly used up when I die. For the harder I work, the more I
+    live. I rejoice in life for its own sake. Life is no brief candle to me.
+    It’s a sort of splendid torch which I’ve got to hold up for the
+    moment and I want to make it burn as brightly as possible before
+    handing it on to future generations.
+    George Bernard Shaw
+    
+    “nothing can defeat you unless you defeat yourself.”
+    
+    Follow the system and then just sit back and watch your company return to prime health. Well,
+    actually, it’s designed to do far more than that. If you follow the
+    formula with conviction, your business will be much more
+    successful than it ever was. It will improve it in ways you never
+    could have imagined. Morale and productivity will soar. Your
+    people will be more committed and creative than you’ve ever seen
+    them. They will be much more responsive and adaptive to change.
+    Your team will start to work together again and deeply care about
+    the work it is doing. And, to state the obvious, profits will go
+    through the roof.”
+    
+    Ritual 1: Link Paycheck to Purpose.`
+  }, {
+    id: '34',
+    title: 'Find your why',
+    body: `It is one of life’s greatest joys to wake up in the morning Every morning
+    with a clear sense of why the day matters Why every day matters. This is what it means to find your Why.
+    It is the start of an inspiring journey Your inspiring journey.
+    
+    The goal is not to focus on what’s standing in your way; it is to
+    take steps that will have a positive and lasting effect on everyone around us.
+    
+    Your vision is only actionable if you say it out loud. If you keep it to yourself, it will remain a figment of your imagination.
+    
+    Fulfillment isn’t another word for happiness. All kinds of things make us happy
+    at work: hitting a goal, getting a promotion, landing a new client, completing a
+    project—the list goes on. But happiness is temporary; the feeling doesn’t last.
+    Nobody walks around energized by the memory of a goal hit twelve months ago.
+    That intensity passes with time.
+    
+    Fulfillment is deeper. Fulfillment lasts. The difference between happiness and
+    fulfillment is the difference between liking something and loving something.
+    
+    The greatest contribution of a leader is to make other leaders.
+    
+    See something from a different angle. Open up to doing things a different way. Ask, “Is there another, possibly better, way of doing this?”
+    
+    Try something. If it doesn’t work, try something else.
+    
+    2. Keep it simple
+    When things are simple, everyone can understand. If a ten-year-old can
+    understand what you’re saying, you’re good to go.
+    Simple language and simple ideas are easily understood and easier to
+    execute.
+    
+    3. Silver line it
+    Find something positive in every situation and in every person.
+    
+    4. Share everything
+    Share ideas and feelings. Invite and teach others to share too.
+    Share your idea, especially if it’s not perfect. Even the “worst” ideas can be
+    built upon.
+    Others won’t know how you feel or what you want until you share it.
+
+    5. Focus on the long term
+    Build something that will outlast every one of us.
+    Focus on momentum and trending more than hitting arbitrary numbers and
+    dates.
+    
+    
+    There are various ways to transform the adjective “optimistic” into a HOW. Here are just a few possibilities:
+    Find the positive in everything See the glass as half full Look forward, not backward Find the silver lining in every cloud
+    
+    Connection Connect with people in meaningful ways
+    Making others feel safe Make others feel safe
+    Always learned from others Learn something from everyone
+    There’s always a solution Look for creative solutions
+    
+    Find the positive in everything—When things look like they’re going wrong,
+    look for what’s going right.
+    Connect with people in meaningful ways—Make relationships personal and let
+    people know you care about them.
+    Make others feel safe—Extend trust to others and let people know you have
+    their back.
+    Learn something from everyone—Be open to the ideas and points of view of
+    others; they all have something to teach us.
+    Look for creative solutions—Assume there is always a solution and don’t give
+    up until you find it.
+    
+    
+    `
+  }, {
+    id: '35',
+    title: 'Crypto ebook',
+    body: `when someone who is angry says to himself, “Count to ten
+    before you speak,” that person is exercising intrapersonal intelligence. In
+    other words, he speaks to himself before he opens his mouth and lets his
+    emotions speak. This intelligence is something you must cultivate to be a
+    good, drama-free, investor
+    
+    Intrapersonal intelligence is important for success, especially when times
+    are tough, and a person wants to quit or is fearful.`
+  }, {
+    id: '36',
+    title: '10 Day mba',
+    body: `It’s a seven-part process.
+    Consumer Analysis
+    Market Analysis
+    Review of the Competition and Self
+    Review of the Distribution Channels
+    Development of a “Preliminary” Marketing Mix
+    Evaluation of the Economics
+    Revision and Extension of Steps 1–6 until a consistent plan emerges
+    
+    This seven-step marketing process is comprehensive, and MBAs will often refer to more abbreviated ones, such as STP 
+    (segment, target, position), or the four C’s of marketing (consumer behavior, company analysis, competitor analysis, context), but the methodology presented here covers it all.
+    
+    The steps of the buying process explained:
+    Awareness. (Interest, Problem Recognition). “I might need something.” 
+    At some point a person will realize a need, like the need to use soap. Advertising may trigger that need. Prestige products such as designer clothes and fragrances trigger desire. 
+    They meet emotional needs such as love and group acceptance. Head & Shoulders preys on the fear of a loss of love and group acceptance. You need to ask yourself,
+    “How do consumers become aware of my product?” “Where are my targets likely to be exposed to my message?”
+    
+    The conversion of a low-involvement product to a high-involvement product can make a simple commodity product stand out against an undifferentiated field of competitors. 
+    There are four generic ways in which this can be accomplished.
+    
+    Link Product to a High-Involvement Issue. Linking Procter & Gamble’s Puritan no-cholesterol cooking oil to a wife’s fear of a husband’s heart attack is a classic example of an advertising ploy.
+    
+    Use Involving Advertising. If the advertising creates a value-expressive message about the product or service, then a product can become important. Such messages link values,
+    such as social status and love, instead of promoting physical product attributes to differentiate the product from the competition. 
+    Pepsi tries to link being modern and youthful with its products by using singers in elaborate commercials to sell its soda.
+    
+    Change the Importance of Product Benefits. Products as well as services provide a variety of benefits. 
+    If through marketing action a benefit can be raised to a heightened level of importance, buyers are likely to become more involved. The beer wars of the 1980s made
+    
+    Related to involvement is the level of purchase planning. Is the purchase planned or an impulse buy? High-involvement products are usually planned, 
+    while impulse products are bought on the spur of the moment. If a purchase is planned, then a buyer is likely to seek information. If not, the proximity of the product to the need is important. 
+    Snack foods are an example of impulse buying. Midday hunger leads to the nearest junk food.
+    
+    There are four major variables used in segmenting consumer markets:
+    Geographic
+    Demographic
+    Psychographic
+    Behavioral
+    Geographic Segmentation. Divides the market by country, state, region, county, and city. The federal census lists 310 Standard Metropolitan Statistical Areas (SMSAs) 
+    to define the major geographic population centers of the United States. Arbitron, a large media research firm, has defined a similar measure to capture the 210 major television markets of the country, 
+    called Areas of Dominant Influence (ADIs). A. C. Nielsen, a competitor, has a similar measure called Designated Market Areas (DMAs).
+    Demographic Segmentation. Divides a population based on the following measurable variables to reach a homogeneous group of people:
+    Age —Different generations’ different wants and needs Sex—Gender use and buying patterns Income—The ability to purchase
+    
+    Marital Status—Family needs Family Life Cycle—Starting out, empty nesters, etc. Education/Occupation—An indication of the sophistication of the consumer Ethnicity, Religion, and Race—Particular tastes and preferences
+    Psychographic Segmentation. Divides the market by psychological differences:
+    Lifestyle—Activities, interests, and opinions
+    Personality—Conservative, risk-taking, status-seeking, compulsive, ambitious, authoritarian, gregarious. (People may have different hot buttons that advertising can try to trigger.)
+    Psychographic segmentation is difficult. Personality variables are tougher to identify and quantify than demographics, but they can be valuable.
+    Behavioral Segmentation. Divides the market by observable purchase behaviors:
+    Usage—Amount of use, manner of use, benefits sought Purchase Occasion—Gift, vacation, seasonal, etc. Brand Loyalty—Loyalty to one product indicates
+    receptiveness to others
+    Responsiveness to Price and Promotion—Some groups respond to special marketing efforts more than others. Housewives use more coupons than single professional women.
+    Marketers must not only select the “right” group of variables but also decide how many to use. The correct number of “useful” variables will identify the most accessible and receptive target, not
+    
+    What is the relevant market? Where is the product in its product life cycle? What are the key competitive factors in the industry?
+    What is the relevant market?
+    The easiest mistake to make is to believe that your relevant market includes the total sales of your product’s category.
+    
+    There are five major key competitive factors that constitute the battleground in most industries:
+    Quality
+    Price
+    Advertising
+    Research and Development
+    Service
+    
+    In the fast food industry, for example, intensive advertising and promotion are key. In industries providing raw materials to others, price and service are key. In my investigation of the coffee industry, 
+    I found price and quality to be the basis of competition. 
+    When developing a marketing plan, you may want to try to change the basis of competition to one that favors your firm, but the key underlying competitive factors cannot be ignored.
+    
+    How does your SWOT Compare to Your
+    Competitor’s SWOT
+    
+    What is your company good at and what is the competition
+    good at?
+    Distribution (Frito-Lay)
+    New Product Development and Introduction (3M)
+    Advertising (Absolut vodka)
+    Who are we in the marketplace?
+    Market Size and Relative Market Share
+    Financial Position
+    Historical Performance and Reputation
+    What are our resources versus those of the competition?
+    People
+    Technology, Research
+    Sales Forces
+    Cash
+    Trade Relations
+    Manufacturing
+    
+    The companies with larger market shares relative to their competition usually enjoy higher profits. Larger competitors can produce more cheaply per unit because they can spread their costs over more units.
+    
+    Own a word in the consumer’s mind. If you establish one benefit in the consumer’s mind, the consumer may attribute other positives as well to your product. FedEx means “overnight delivery.” 
+    Only one company can own a word, and it is tough to change it once it’s established.
+
+    2.Positioning begins with the product’s name. The name should be descriptive, to establish the main benefit in the consumer’s mind. Draino opens clogged drains.
+    
+    3. If you have a unique new product, use a new name. Instead of using the name Apple Mini Mac, Apple chose the iPod name for their new music player.
+    
+    4. The easiest way to own a word is to be first. Consumers tend to stick with products that work for them. Kleenex cleans runny noses.
+    
+    5.Don’t stray from your message; “reinforce the original concept” in all marketing activities. “Coke Classic is the real thing!”
+    
+    6.The best way to respond to a new competitor is to introduce a new brand, not blurring the original one. When bottled water became popular, Coke didn’t call theirs Coke water, rather it chose Dasani.
+    
+    7.The first option for a follower is to establish a new category. Established brands are tough to beat, but consumers will adopt a new category more easily. Charles Schwab es
+    tablished the discount brokerage category.
+    
+    8.The second option of a follower is to find an open position in the consumer’s mind. Starbucks became the premium quick-service coffee brand.
+    
+    9.The third option for a follower is to reposition the competitor to undercut the leader’s concept, product, or spokes
+    person. Tylenol said, “If your stomach is upset, check with your doctor before your take aspirin.”
+    
+    10.Stay consistent with the positioning you choose
+    
+    How can my product reach the consumer? How much do the players in each distribution channel
+    profit? Who holds the power in each distribution channel available?
+    
+    How can my product reach the consumer?
+    
+    A product can be differentiated from the competition by creative advertising and promotion, 
+    even if competing products are physically identical.
+    
+    BUYING PROCESS
+    PROMOTIONAL MISSION
+    Awareness
+    Inform about product, prompt a need
+    message
+    Interest
+    Provide compelling message, solve a
+    need message
+    Trial
+    Motivate action
+    Repurchase
+    Cue to buy, increase usage
+    Loyalty
+    Reinforce brand or image, special
+    promotions
+    
+    Push or Pull Strategy? As with distribution, promotional efforts should be guided by a strategy. Pull strategies are those efforts that pull buyers to the outlets that carry your product. 
+    TV pitches that instruct viewers “to ask for Perdue chicken by name at your local grocer” pull consumers to the stores that carry it. 
+    Another important mission of promotion is to encourage the distribution channels to stock and sell a product to consumers. Such efforts are a push strategy.
+    
+    Price Based on the Price Elasticity of the Buyer. Price elasticity describes how a buyer’s behavior changes due to a change in price.
+    
+    
+  Break even is the point at which the fixed costs are recovered from the sale of goods but no profit is made.
+  Promotion and manufacturing are expensive. A way must be found to recoup those investments. That’s the whole point of marketing: to recover costs and make profits.
+    
+    Who is the target?
+    Product—Fit with other products? Differentiation, PLC, perception, packaging, features
+    Place—How best to reach segment? Channel mathematics, draw channels
+    Exclusive, selective, intensive distribution? Fit with product?
+    Who has the power?
+    How to motivate the channels?
+    Promotion —What is the buying process? How are $’s targeted to buying-process goals?
+    Push or pull strategy?
+    Media—type, measure, message?
+    Dealer incentives?
+    Consumer promos—coupons, contests?
+    Price—What strategy? Skim, penetrate?
+    Seek volume or profits?
+    Perceived value, cost-plus pricing?
+    How does price relate to the market, size, product life cycle, competition?
+    
+    1.Consumer analysis
+    2.Market analysis
+    3.Competitive analysis
+    4.Distribution channel analysis
+    5.Develop the marketing mix
+    6.Determine the economics
+    7.Revise`
+  }, {
+    id: '37',
+    title: 'Be Extraordinary',
+    body: `The quality of the questions you ask will result in the quality of the answer you receive. If you want better answers, ask a better question!
+    
+    Knowledge is only potential power: it will only create results in your life when you USE it! Execution is the ultimate power!
+    Complexity is the enemy of execution. If something is too complex, or too much at once, our brains will shut down at the sight of it and we will never take action
+    
+    
+    “Your emotions are the slaves to your thoughts, and you are the slave to your emotions.” – Elizabeth Gilbert,
+    
+    You can’t control the outside circumstances or stimuli in your life. You can’t control the weather, or taxes, or the attitude of your neighbor. 
+    But the one thing you can always control is the meaning you attach to theseccircumstances. Because you can control the meaning, you can control the emotion that manifests
+    
+    
+    “I don’t want to be at the mercy of my emotions. I want to use them, to enjoy them, and to dominate them.”
+    – Oscar Wilde
+    
+    
+    “I don’t want to be at the mercy of my emotions. I want to use them, to enjoy them, and to dominate them.”
+    – Oscar Wilde
+    
+    The language we tell ourselves will determine the outcome.
+    
+    Do whatever it takes to stay active because your physical state determines your thoughts.
+    
+    We are all beings of immense power and potential; the Greats learn how to harness and USE this power!
+    – Brandon Eastman
+    
+    The moment you take control of the meanings you assign to external stimuli, that’s when you have the personal power to take control of your life. That is the
+    moment you’ll head toward your dreams and achieve whatever you set out to do.
+    
+    Sometimes, it’s very difficult to change a negative thought, to a positive one. I have found a
+    process that works very well for me, called ‘Reframing.’ Simply swap the negative thought to the
+    exact opposite, making it positive. As an example, if it is raining and lightning outside, rather than
+    think, “Now I won’t be able to go take that walk in the park, like I planned,” you can instead
+    think, “It’s a shame I won’t be able to take that walk, but now this is the perfect opportunity for
+    me to get started on that book I’ve been meaning to write. Today would be the perfect day to
+    start!” Even ask yourself the question, “What is great about this situation?” or “What does this
+    mean?” Reframe bad, or negative thoughts to the positive equivalent by reframing it to have a
+    different meaning that serves you!`
+  }, {
+    id: '37',
+    title: 'Thee Greatness Guide ',
+    body: `The more successful you and your organization
+    become, the more humble and devoted to your
+    customers you need to be.
+    
+    Your days are your life in miniature
+    
+    “Fail faster. Succeed sooner.
+    
+    you can’t win a game that you don’t even play.
+    
+    Being thoughtful and strategic is step number one as you walk to
+    greatness. Clarity precedes success. By thinking more, you will have a better
+    sense of your priorities and what you need to focus on. Your actions will be
+    more crisp and deliberate and intentional. You will make better decisions and
+    wiser choices. More time thinking will make you less reactive. You’ll become
+    clearer on the best uses of your time (which will, in turn, save you time). And
+    your “think time” will provoke some amazing ideas and inspire some big
+    dreams. Lewis Carroll addressed this point beautifully in Alice in Wonderland
+    when he wrote:
+    
+    Ordinary people don’t spend much time on the
+    extra mile. But who ever said you were ordinary?
+    
+    Positive reference points will pull you into a new
+    way of seeing things and introduce you to a new set
+    of possibilities. Doors you never even knew existed
+    will begin to open.
+    
+    It’s easy to forget that people do business with people they like.
+    
+    Too many among us are afraid to
+    be ourselves. So we give up our dreams to follow the crowd. Tragic. “To thine
+    own self be true,” wrote Shakespeare. Have the courage to be your true—and
+    greatest—you. (Too many among us are afraid to
+    be ourselves. So we give up our dreams to follow the crowd. Tragic. “To thine
+    own self be true,” wrote Shakespeare. Have the courage to be your true—and
+    greatest—you. 
+    
+    Focus plus daily improvement plus time equals genius. Understand that formula deeply and your life will never be the same.
+    
+    Listening intently to someone is one of the best ways I know of to honor that person and forge a deep human connection.
+    
+    Human beings move when their emotions are moved.Human beings move when their emotions are moved.
+    
+    Every time you say yes to something that is unimportant, you say are no to something that is important
+    
+    You can’t be all things to all people. The best among us get that. Know
+    your priorities. Know your goals. Know what needs to get done over the
+    coming weeks, months and years for you to feel that you played your best
+    game as a human being. And then say no to everything else. Sure some
+    people around you might not be happy. But would you rather live your life
+    according to the approval of others or aligned with your truth and your
+    dreams?
+    
+    people on your team need to know their role and then show up
+    fully in that role—like a leader would
+    
+    “There is no such thing as an average human being; if you have a normal
+    brain, you are superior
+    
+    Did I dream richly?
+    Did I live fully?
+    Did I learn to let go?
+    Did I love well?
+    Did I tread lightly on the earth and leave it better than I found it?
+    
+    Being a leader isn’t about being liked. It’s about
+    doing what’s right
+    
+    “If you have not discovered something you are willing to die for, then you are not fit to live
+    
+    When you find the mission that your life will be dedicated to, you’ll wake up each day with
+    that fire in your belly I mentioned. You won’t want to sleep. You’ll be willing
+    to move mountains to make it happen. You’ll find that sense of internal
+    fulfillment that may now be missing from your life. And you’ll preach that
+    message to anyone who’ll listen. You’ll become an evangelist.
+    
+    We also want to work for an organization that values us,
+    that promotes our personal growth and that makes us feel that we are
+    contributing to a dream.
+    
+    Your schedule is the best barometer for what you
+    truly value and believe to be important.Your schedule is the best barometer for what you
+    truly value and believe to be important.
+    
+    Try not to teach your fears to your kids. Introduce your children to what’s possibleTry not to teach your fears to your kids. Introduce your children to what’s possible
+    
+    as human beings, we were built to push beyond our comfort zones each day and reach for something higher—to become great
+    
+     One of Asia’s fastest growing IT firms: zero to $1 billion in less than 10 years. 23,000 employees. The chairman is a visionary.
+    I’ll share one of his powerful ideas. There are 1500 top managers at Satyam.
+    They run 1500 different divisions and functions. So he tells them that they are
+    not really managers—they are the CEOs of their own small businesses. The
+    larger corporation is simply an “investor” that they need to keep happy. It
+    provides them with resources, structures and opportunities. They just have to
+    return results. The concept inspires them to take ownership of their functional
+    areas and behave like entrepreneurs. It gets them to act like real leaders. It
+    encourages them to be part of the solution rather than part of the problem.
+    Brilliant.
+    
+    Take personal responsibility for the success of your business. Show up like an entrepreneur. Grow sales. Cut costs. Get good stuff done.
+    
+    to create spectacular results in the most important areas of your life is through daily practice. Top athletes know that practice is how you get to greatness.
+    
+    Top athletes know that practice is how you get to greatness.
+    
+    Be outrageously energetic and madly alive.
+    
+    It’s amazing how far you will get by just staying
+    with something long enough. Most people give up
+    too early. Their fears are bigger than their faith.It’s amazing how far you will get by just staying
+    with something long enough. Most people give up
+    too early. Their fears are bigger than their faith.
+    
+    The paradox of our wired world is that as we
+    become more connected electronically, we become
+    less connected emotionally
+    
+    He was the kind of person who was always
+    the first to help someone in need. He always treated people incredibly well
+    and was unfailingly polite. He walked the earth ever so lightly. Five thousand
+    people showed up at my dad’s funeral because he was good.”
+    
+    Dr. Martin Luther King Jr. once said in a speech: “The ultimate measure of a
+    man is not where he stands in moments of comfort and convenience, but
+    where he stands at times of challenge and controversy.”
+    
+    What distinguishes people with an extraordinary
+    character from the rest of us is how they respond
+    when life sends one of its inevitable curves
+    
+    “The first responsibility of a leader is to define reality. The last is to
+    say thank you.”
+    
+    Business is about loving the people who do business
+    with you and giving them more value than they have
+    any right to expect.
+    
+    “If each of us would only sweep our own
+    doorstep, the whole world would be clean.”
+    
+    The only people with no problems are dead.
+    
+    Blaming others is excusing yourself. Telling yourself
+    that you–as an army of one–cannot have an impact
+    is giving away your power.Blaming others is excusing yourself. Telling yourself
+    that you–as an army of one–cannot have an impact
+    is giving away your power.
+    
+    The people or circumstances that take you out of
+    your power have extraordinary value: They reveal
+    your limiting beliefs, fears and false assumptions.
+    
+    a mistake is only a mistake if you make it twice.
+    
+    The words you use determine the way you feel. The language you choose
+    shapes the way you perceive reality. Your vocabulary drives meaning in your
+    life. Please think about this idea. I believe it’s a big one.The words you use determine the way you feel. The language you choose
+    shapes the way you perceive reality. Your vocabulary drives meaning in your
+    life. Please think about this idea. I believe it’s a big one.
+    
+    The words you use influence the life you live. Select
+    them wisely.
+    
+    1. Be the most positive person you know.
+    2. Be candid and speak truthfully.
+    3. Be on time.
+    4. Say please and thank you.
+    5. Under-promise and over-deliver.
+    6. Leave people better than you found them.
+    7. Be friendly and caring.
+    8. Be a world-class listener.
+    9. Become passionately interested in other people. 10. Smile a lot.
+    
+    Pleasure comes from something on the outside.Happiness comes from within.
+    
+    Each of us gets 24 hours each day.The sad fact is that too many among us spend too much time doing unimportant things.
+    
+    I want the experience of an old man while I’m still young. And I think I’ve figured out a way to get it:
+    Collapse the timeline.I want the experience of an old man while I’m still young. And I think I’ve figured out a way to get it: Collapse the timeline.
+    
+    “There will be plenty of time to sleep when you are dead.” Smart guy.
+    
+    While you chase success, I urge you to stay devoted to elevating the lives you touch and leaving your world better than you found it
+    
+    “The only way to have a life is to commit to it like crazy.”
+    
+    
+    IMPROVE. Always be getting and doing better. Never settle for mediocrity.
+    OBSERVE. Talk to the people you work with. Really listen to them. And keep
+    your eyes on the business. Because you can expect only that which you inspect.
+    CONNECT. Be really good to people. Treat your customers with respect. Give them good value. Be caring and deal with any complaints fast.
+    ADAPT. Conditions change. Competition grows. Uncertainty is the new normal.Stay fast. Stay flexible. Stay nimble.
+    
+    Investing in learning and getting your skill to world class is the smartest investment you’ll ever make.
+    
+    there’s no point in being busy if you’re busy doing the wrong things.
+    Greatness in business as well as in life comes by
+    being an inspirational human being.Greatness in business as well as in life comes by
+    being an inspirational human being.
+    
+    you want your enterprise to be operationally excellent. Sure you want high-quality
+    products and services. And sure you need to keep innovating and growing
+    your brand. But isn’t having an impact in the world—by helping your clients
+    and positively influencing others—what business is ultimately about?
+    
+    People spend more time planning their summer
+    vacations than they do designing their lives.
+    
+    People do business with people who make them feel good. Human beings are
+    creatures of emotion. We want to be with those who make us feel happy and
+    special and cared for and safe.People do business with people who make them feel good. Human beings are
+    creatures of emotion. We want to be with those who make us feel happy and
+    special and cared for and safe.
+    Do good and leave behind a virtue that the storm of
+    time can never destroy.”
+    
+    Rewarding yourself with good things sends a
+    message to the deepest–and highest–part of you.
+    One that says “I’m worth it–and I deserve it.”
+    
+    Set boundaries. Know your limits. Don’t go to extremes. Protect yourself
+    
+    “Quality is remembered long after price is forgotten.”
+    
+    I want to be clear: I’m in no way suggesting that every minute of your
+    days, weeks and months need to be scheduled.
+    
+    “Anxiety is
+    caused by a lack of control, organization, preparation and action,” observed
+    thinker David Kekich. Powerful thought.
+    
+    The company that plays together stays together. And fun is
+    good for the bottom line because people love doing business with people who
+    love doing businessThe company that plays together stays together. And fun is
+    good for the bottom line because people love doing business with people who
+    love doing business
+    
+    “Success means never letting the competition define you. Instead, you have to
+    define yourself based on a point of view you care deeply about.”“Success means never letting the competition define you. Instead, you have to
+    define yourself based on a point of view you care deeply about.”
+    
+    To live on in the minds and hearts of the generations who will follow you is to
+    cheat deathTo live on in the minds and hearts of the generations who will follow you is to
+    cheat death
+    
+    It’s never too late to become the person you have
+    always dreamed of being.It’s never too late to become the person you have
+    always dreamed of being.
+    
+    `
+  }, {
+    id: '38',
+    title: 'The unfair advantage',
+    body: `The path to success is not just self-discipline, belief and hard work.
+
+    Success in the startup world is not simply awarded to the hardest workers.
+    It is awarded to those who develop and use their Unfair Advantages.
+    
+    By ‘unfair advantage’ we do not mean an unethical or illegal advantage
+    (although we’re sure there are many of those). An unfair advantage is a
+    competitive upper hand, and your set of unfair advantages is unique to you. It’s
+    more than just a unique selling point, it’s a fundamental leg-up over the
+    competition, and sometimes it’s not one that is ‘earned’ or worked for.
+    
+    The business idea is important,
+    
+    can’t get enough customers and/or users.
+    
+    Most startups fail, not because they can’t build a product. But because they can’t get traction.
+    
+    It will help you no matter the challenges you may be facing, whether you
+    need to find a co-founder, get your first customer, juggle a full-time job while
+    getting your startup off the ground, get funding, build an MVP (minimum viable
+    product ‒ which we’ll explain in Part Three), get users, develop your sales,
+    marketing and growth hacking, generate enough cash to extend your ‘runway
+    time’ to keep your startup afloat, handle competitors, attract mentors and
+    advisors, and more.
+    
+    obviously hard work and sacrifice is a factor.
+    Sacrifice is required for success because you do have to forgo some short-term
+    pleasures for long-term success.
+    
+    I would never have learned how to do websites, and
+    how to do online marketing. I learned all these things at just the right time.
+    
+    Sales is a fantastic way to get started if you want to start your own business,
+    because the skills you learn, and in particular the resilience to the rejection and
+    the ‘no’s that you develop, are absolutely indispensable.
+    
+    talent doesn’t exist, that it’s somehow all about hard work, practice and
+    putting in the ‘10,000 hours’.
+    
+    Startup founder stress and burnout
+    are incredibly common and it’s important to look after yourself, your physical
+    and mental health. We have to define success for ourselves in a way that’s
+    unconstrained by a narrow view of external achievement, in order to be able to
+    find happiness.
+    
+    Our aim is not to make you look at the world and despair, or to think that if
+    there are unfair elements at work then it’s not worth trying. Instead, we want to
+    equip you with knowledge of the obstacles in your path, and also the possible
+    shortcuts that are in front of you which you may be unaware of. It’s like a
+    headwind – if you’re cycling straight into the wind, you’re going to find it a lot
+    harder than if you have a strong tailwind behind you pushing you forward. If you
+    know about the wind in advance, then you can plan your cycle ride in the most
+    favourable direction. We want to help you pick your direction
+    
+    For any early-stage startup, the Unfair Advantage of that startup is the sum of the individual Unfair
+    Advantages of the founders.
+    
+    Always partner up with somebody with unfair advantages that balance
+    out yours.
+    Make no mistake, every successful company starts with a personal jumpingoff
+    point from the founders, be that money, intelligence, expertise, status or
+    connections.
+    
+    An always-busy restaurant will attract more bookings.
+    A film that’s a box-office success will attract more movie-goers.
+    A book that’s a bestseller will attract more readers.
+    A YouTube video with lots of views will get more views.
+    In this context, the more unfair advantages you have, the more you are likely
+    to accrue. The key is to start identifying and developing your own unfair
+    advantages as soon as possible, no matter your age.
+    
+    powerful startup incubator in the world, says: ‘Startup = Growth. A startup is a
+    company designed to grow fast.’
+    In a world where market giants and big funded startups can make one
+    decision and crush fifteen budding startups, speed is absolutely critical to
+    survival
+    
+    Speed is what finding and leveraging your unfair advantages gives you – it’s
+    the rocket ship you and your team need.
+    
+    You can work to develop unfair advantages for yourself, based on what you
+    have to start with – you can get an education, develop expertise, move cities or
+    even countries, make friends, expand your networks and, most importantly,
+    change your mindset. These are unfair advantages that you can develop
+    proactively.
+    
+    Money
+    Intelligence and Insight
+    Location and Luck
+    Education and Expertise
+    Status
+    
+    All of these advantages are built on the foundation of Mindset, which is the
+    one you have the most control over and where you have the most leverage. You
+    can see this illustrated in the diagram on the following page.
+    
+    The classification most widely accepted in psychology is that of the ‘Big 5’
+    personality traits:
+    Openness ‒ how open you are to new experiences, and how imaginative you are
+    Conscientiousness ‒ how organised, self-disciplined and goal-oriented you are
+    Extraversion ‒ how much you enjoy spending your time around other people
+    Agreeableness ‒ how friendly, compassionate and cooperative you are
+    Neuroticism ‒ how prone you are to worry, anxiety or stress
+    
+    The number one trait to consider after neuroticism is being visionary, which
+    is very similar to the trait of openness. It’s important as an entrepreneur to be
+    curious, to have ideas and to be unafraid to experience new thingsThe number one trait to consider after neuroticism is being visionary, which
+    is very similar to the trait of openness. It’s important as an entrepreneur to be
+    curious, to have ideas and to be unafraid to experience new things
+    
+    one amazing ‘mindset hack’ is gratitude. Focusing on what
+    you’re grateful for in life can make you feel happier, less stressed and more
+    focused, all without having to change your external circumstances at all. This
+    then allows you to work better and feel better about the work you’ve done. All of
+    which shows how your mindset can affect both the quality and outcomes of your
+    lifeone amazing ‘mindset hack’ is gratitude. Focusing on what
+    you’re grateful for in life can make you feel happier, less stressed and more
+    focused, all without having to change your external circumstances at all. This
+    then allows you to work better and feel better about the work you’ve done. All of
+    which shows how your mindset can affect both the quality and outcomes of your life
+    
+    Reality-growth mindset is the balance between self-awareness and self-belief.Reality-growth mindset is the balance between self-awareness and self-belief.
+    
+    When you have vision, you can see the future you wish to create.When you have vision, you can see the future you wish to create.
+    
+    Emotional intelligence is so vital because business is between people, and as
+    people we are very affected by emotion, more so than logic. If you can read,
+    understand and affect people’s emotions positively, you can influence and
+    persuade them. That’s how you attract co-founders, mentors, investors and
+    employees to join you in your startup. That’s how you negotiate a pay rise.
+    That’s how you connect with customers. Emotional intelligence is key.
+    
+    If your business idea starts with getting users and not customers, then they’re
+    the ones you need to focus onIf your business idea starts with getting users and not customers, then they’re
+    the ones you need to focus on
+    
+    1. Cultivate your curiosity.
+    2. Ask more questions.
+    3. Do more experiments.
+    4. Be more interested in how people feel, and the emotional impact things have
+    on them.
+    5. Notice when people say something is a pain to do, or is inconvenient. These
+    are goldmines for valuable insights (more about this in Chapter 14 – the
+    Idea).
+    6. Be more aware of your own emotions and moods, and don’t let them dictate
+    your actions.
+    
+    Do more things. Meet more people. Go to more events. Blog about your
+    startup. Produce things and publish them. Get feedback. Put more stuff out into
+    the world. This is a very powerful way of increasing your luck, because it’s like
+    trying to roll a double six on a pair of dice, and you can roll as many times as
+    you like. Obviously, you’d just keep rolling the dice until you got a double six.
+    That’s increasing your chances, because nobody is counting your number of
+    attempts in life.
+    
+    Expertise is simple. It is a self-taught process where, for the most part, you learn
+    by doing.
+    
+    Your Status is your personal brand. It is how others see you. It is your social
+    standing, your appearance, gender, age, how you dress, stand, talk. It’s also your
+    perceived credibility
+    
+    Outer Status
+    For better or worse, in most societies, a doctor is perceived as higher in status
+    than a nurse, a CEO higher than an intern, and a billionaire higher than a single
+    mother living on government benefits. And, if you’re driving a Bentley or Lamborghini,
+    
+    Have you ever noticed that in stories about startup founders, if one of them
+    comes from a high-status company or university, they never fail to mention it?
+    For example, you’ll often read: ‘Ex-Googler starts a new company.’ ‘Ex-
+    Goldman Sachs director joins the team.’ ‘Stanford dropout founds a new
+    startup.’ Do you ever wonder why?
+    There are many ways of increasing your social status, and this chapter is
+    about understanding the power of status, understanding the different forms and
+    contexts of status, and finally how to make the most of what you’ve got.
+    
+    Your Inner Status is an extremely powerful way to increase your Outer Status. It
+    is your self-esteem. Your confidence. Self-esteem is just a fancy way of saying
+    ‘liking yourself’. And whether or not you’re confident or have high self-esteem
+    always shines through to other people. They pick up on it, consciously and
+    unconsciously, through your body language, voice tonality and other subtle clues
+    in your behaviour. That’s how inner status increases your outer status.Your Inner Status is an extremely powerful way to increase your Outer Status. It
+    is your self-esteem. Your confidence. Self-esteem is just a fancy way of saying
+    ‘liking yourself’. And whether or not you’re confident or have high self-esteem
+    always shines through to other people. They pick up on it, consciously and
+    unconsciously, through your body language, voice tonality and other subtle clues
+    in your behaviour. That’s how inner status increases your outer status.
+    If you like and value yourself, you will have high self-esteem. You’ll come
+    across as confident, competent, likeable, trustworthy and engaging.
+    
+    don’t forget the importance of inner status. Your confidence and selfesteem
+    will shine through. Make sure to work on liking yourself, and building
+    your conviction in yourself. Bear in mind that everyone feels unconfident or out
+    of their depth sometimes. Everyone gets imposter syndrome. You have to push
+    through it. Question your inner critic. Push yourself outside of your comfort
+    zone regularly, so you can start having faith in yourself that you’ll manage. Get
+    that feeling of resourcefulness inside you.
+    
+    One of the keys to finding a co-founder, or a mentor, advisor or investor, is
+    networking, which really just means meeting and building relationships with
+    people.
+    There are two ingredients needed to develop your network:
+    1. An authentic desire to add value to people you meet
+    2. Increasing your Status so that people perceive more value from you`
+  }, {
+    id: '39',
+    title: 'The little black book for stunning success',
+    body: `“People who have
+    achieved great success
+    are not necessarily
+    more skillful or intelligent
+    than others. What
+    separates them is their
+    burning desire and thirst
+    for knowledge. The
+    more one knows, the
+    more one achieves.”
+    
+    Leadership is a philosophy. It's an attitude. It's
+    a state of mind. And it's available to each one of us
+    
+    Success is actually a creative pursuit and a reflection of
+    healthy self-esteem.
+    
+    all the devotion and discipline that went into
+    crafting the extraordinary results we see.
+    
+    The best way to create spectacular results in the most
+    important areas of your life is through daily practice.
+    
+    Success and joy and inner peace don't just show up. You need to create them.
+    
+    Today, rather than looking for the worst in people, I invite you to look for what's best within them.
+    
+    If you improve your health only 1% each day for the next 30 days, you
+    will see a 30% increase in that dimension of your life in only 1 month.
+    Same for every other area of your life, from your relationships to your career.
+    Doesn't seem so scary now does it?
+    Can you make those little improvements in the areas most in need of improvement?
+    Absolutely.
+    
+    The life you see this very moment isn't necessarily the
+    life of your future. You might be viewing things through the eyes of your
+    fears, limitations and false assumptions.
+    
+    we see the world not as it is but as we are.
+    
+    Your thinking creates your reality.
+    If you think something cannot occur in your life, then there's no way
+    you will take the action required to make that goal a reality.
+    Your “impossibility thinking” becomes a self-fulfilling prophecy.
+    
+    Your perceived limitations become the chains that keep you from the greatness you were meant to be.
+    
+    Before your day gets noisy, close your eyes and reflect on
+    your mission. Think about your goals. Reflect on what are
+    your most important To Dos today. Those things that will
+    get you to your dreams
+    
+    See the opportunity amidst a seeming setback.
+    Embrace change as an opportunity to grow.
+    Learn something new.
+    Have a laugh with a teammate.
+    
+    The actions you take each day create the results of your
+    life. And since every action you take has been preceded
+    by a thought (thinking truly is the ancestor of
+    performance), what you focus on really does drive your
+    reality.
+    
+    Your thoughts shape your reality. Your thinking
+    forms your world. What you focus on expands. And what you dwell on
+    determines your destiny.
+    
+    It only takes a minute to tell a loved one you adore them
+    It only takes a minute to run towards a fear
+    It only takes a minute to set a big goal
+    It only takes a minute to drink a glass of water
+    It only takes a minute to read a great idea (that just might rock your world)
+    It only takes a minute to write the most beautiful thank you note you have ever sent your parents (or a teammate or a customer or a high school teacher who blessed your life)
+    It only takes a minute to smile
+    It only takes a minute to connect to a friend or a co-worker
+    It only takes a minute to help a human being in need
+    
+    What you do between today's sunrise and sunset is
+    creating your destiny, your future, your legacy. And a
+    single choice you make today can change your life over
+    
+    Use people's names
+    • Look at them in the eye and show them you care
+    • Say please and thank you
+    • Listen a thousand times more than you speak (only a slight exaggeration)
+    • Be on-time
+    • Keep your promises
+    
+    Be more concerned about helping than selling (people can sniff sincerity a mile away)
+    • Be passionate about your products and services so that passion gets transferred (the first sales person had all the passion of an old shoe box)
+    • Be better than anyone else in your field at what you do (so read up on the product, learn daily, develop yourself/skills and always be improving)
+    • Treat your customers like they are visiting royalty.
+    
+    The big idea: Playing below your potential makes you feel
+    bad about yourself. Operating below your potential
+    diminishes your self-respect. Limiting what you can
+    do/be/have sucks the energy out of your spirit and
+    knocks the passion out of your heart
+    
+    One must be willing to risk greatly to reach your personal
+    mountaintop and your authentic definition of success.
+    
+    We become excellent by doing excellent things. (over and
+    over and over until they become a part of our wiring).
+    We become fearless by visiting the places that scare us.
+    We become strong by living our strengths. Not our
+    weaknesses.
+    
+    suggest to you that there's a better way to get to worldclass
+    within the important areas of your life: evolution.
+    Small baby steps. Daily and continuous microimprovements.
+    Steady and consistent elevations in the
+    way you work, lead and live.suggest to you that there's a better way to get to worldclass
+    within the important areas of your life: evolution.
+    Small baby steps. Daily and continuous microimprovements.
+    Steady and consistent elevations in the
+    way you work, lead and live.
+    
+    Business doesn't need more copycats. Business needs more Dreamers
+    
+    Greatness comes by doing a few small and smart things each and
+    every day. Comes from taking little steps, consistently. Comes from a
+    making a few small chips against everything in your professional and
+    personal life that is ordinary, so that a day eventually arrives when all
+    that's left is The Extraordinary. Just something to think about. From a
+    man who wants you to shine.
+    
+    Never run away from what will help you grow and step
+    into your greatness - no matter how uncomfortable it
+    makes you feel (that's where courage and your natural
+    bravery needs to be called into service).
+    
+    You can have your excuses or you can have your results - but you can't
+    have bothYou can have your excuses or you can have your results - but you can't
+    have both
+    
+    See, the only way a business can become great is to be
+    BIW: Best in the World at what you do.
+    
+    most businesses - and people - are so busy doing so many things
+    that they forget that focus creates mastery. You just can't help but get
+    better (and eventually brilliant) if you pick a few things (even better just
+    One Big Thing) to concentrate on and then spend the rest of your days
+    in specialization
+    
+    Improve the way you show up in one relationship and you'll improve
+    the way you show up in every other relationship (from your teammates
+    and customers at work to the people you love at home).Improve the way you show up in one relationship and you'll improve
+    the way you show up in every other relationship (from your teammates
+    and customers at work to the people you love at home).
+    
+    What New Move could you step into that would lift you
+    into the realm of extraordinary – remarkable - worldclass?What New Move could you step into that would lift you
+    into the realm of extraordinary – remarkable - worldclass?
+    
+    There will never be a perfect time to be the greatest you.
+    Actually, there will never be a better time than today to make the
+    improvements you need to make to be the leader/human being that
+    you've always dreamed of being
+    
+    They devote to NSI: A mantra of many world-class businesspeople is
+    Never Stop Improving.
+    
+    I share a simple formula for genius: focus plus
+    time equals mastery.
+    
+    Focus on being superb at what you do and, over time, you
+    will be known as remarkable.
+    Focus on your health and, of course, in time - it will get to
+    splendid.
+    Focus on developing your kids and you cannot be denied
+    having great kids.
+    Focus on your inner world and people will eventually call
+    you wise.
+    
+    Focus. Focus. Focus...on your burning priorities.
+    
+    "Leave Behind Shoes No Man Can Fill."
+    
+    Getting up earlier when you feel like sleeping is the giant leap that
+    begins a new habit called early rising. Coming up with a better way to
+    think/feel/behave at work is the giant leap that creates a new inner
+    pathway called excellence and mastery. Treating people with more
+    respect/kindness and understanding is the giant leap that will soon
+    install a routine called humanity.Getting up earlier when you feel like sleeping is the giant leap that
+    begins a new habit called early rising. Coming up with a better way to
+    think/feel/behave at work is the giant leap that creates a new inner
+    pathway called excellence and mastery. Treating people with more
+    respect/kindness and understanding is the giant leap that will soon
+    install a routine called humanity.
+    
+    No decision is unimportant. Every action leads to a reaction. Each
+    move we make creates a consequence and ripples across our destiny
+    
+    You become more confident. The new habits and internal pathways
+    become more familiar. And you-almost invisibly-become greater. And
+    more brilliant. And more of the person you were born to be. Told you it's
+    exciting.
+    
+    "Growth is the only evidence of
+    life." Pretty smart words. They
+    
+    It doesn't matter what other people think of you. All that matters is
+    what you think of you.
+    We lose so much energy worrying about the opinions of others,
+    wanting to be liked.
+    Leadership and personal mastery is about rising above social approval
+    - to self approval
+    
+    As I wrote in The Greatness Guide: "Leadership isn't a popularity
+    contest."
+    It's about doing what's right.
+    
+    Too many people talk too good a talk these days. Tons of empty
+    promises. Tons of hyperbole. Tons of lofty statements that never amount
+    to anything.
+    Leaders are different. They talk less and do more.
+    
+    The founders of Google used positive thinking to overcome their early
+    setbacks and to stay true to their vision.The founders of Google used positive thinking to overcome their early
+    setbacks and to stay true to their vision.
+    
+    Sam Walton used positive thinking to build an empire.
+    
+    Throughout your day, keep asking yourself: "How can I
+    make this better?"
+    
+    Companies don't get better if they fall in love with their success.
+    
+    Throughout your day, keep asking yourself: "How can I make this better?"
+    
+    "Small daily improvements over time lead to stunning results."
+    
+    Leadership is a lot more than just dreaming up big idea. It's about acting on them.
+    
+    make a decision that will revolutionize your
+    career/life/self: never leave the site of an opportunity
+    without doing something to seize it.
+    
+    And be less about talk - and more about DO.
+`
+  }, 
+  // {
+  //   id: '40',
+  //   title: 'Self Confidence',
+  //   body: `Not`
+  // }, {
+  //   id: '41',
+  //   title: 'Self Confidence',
+  //   body: `Not`
+  // }
+];
+
 
   getItemById(id: any): any[] {
     const item = this.allData.find(data => data.id === id);
     if (item) {
       return [item];
     } else {
-      return []; 
+      return [];
     }
   }
 }
