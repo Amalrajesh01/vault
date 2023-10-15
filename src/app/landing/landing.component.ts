@@ -11,4 +11,5 @@ export class LandingComponent {
   navigateToHome() {
     this.router.navigate(['/viewAll'])
   }
+
 }
