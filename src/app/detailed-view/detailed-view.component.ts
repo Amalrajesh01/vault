@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { VaultService } from '../Services/vault.service';
+import { Location } from '@angular/common';
 
 @Component({
   selector: 'app-detailed-view',
@@ -11,10 +12,14 @@ export class DetailedViewComponent implements OnInit {
   routeid: any;
   filteredArray: any[] = [];
   data: any;
-  constructor(private route: ActivatedRoute, private vaultService: VaultService) { }
+  constructor(private route: ActivatedRoute, private vaultService: VaultService, private location: Location) { }
   ngOnInit(): void {
     this.routeid = this.route.snapshot.paramMap.get('id');
     this.filteredArray = this.vaultService.getItemById(this.routeid);
 
   }
+  goBack(): void {
+    this.location.back();
+  }
+
 }
